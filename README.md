@@ -308,12 +308,17 @@ Git Basics ~~
 
 
 ###### Beginning JavaScript (18 Hours)
-~~ Introducing Javascript
+~~Introducing Javascript
+
 Javascript Basics
+
 Javascript Loops, Arrays, and Objects
+
 Getting Started With ES2015
+
 Javascript and the DOM
-DOM Scripting By Example ~~
+
+DOM Scripting By Example~~
 
 ## ADDITIONAL
 
