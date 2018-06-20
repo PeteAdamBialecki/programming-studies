@@ -1,8 +1,8 @@
-TEAM TREEHOUSE
+# TEAM TREEHOUSE
 
-JUNE 2018
+## JUNE 2018
 
-Full Stack Javascript (50 Hours)
+###### Full Stack Javascript (50 Hours)
 Introducing Javascript
 Javascript Basics
 Javascript Loops, Arrays, and Objects
@@ -29,16 +29,16 @@ User Authentication with Express and Mongo (2 hours)
 Build a REST API with Express (3 hours)
 Javascript Unit Testing (3 hours)
 
-AUGUST 2018
+## AUGUST 2018
 
-Angular Basics (3 Hours)
+###### Angular Basics (3 Hours)
 Setting Up an Angular Application
 Angular Components
 Services in Angular
 Angular Basic Forms
 Angular Form Validation
 
-ReactJS (9 Hours)
+###### ReactJS (9 Hours)
 React Basics (3 hours)
 Using Create React App (22 minutes)
 React by Example (113 minutes)
@@ -49,9 +49,9 @@ Animations in React (16 minutes)
 What’s New in React 16 (26 minutes)
 
 
-SEPTEMBER 2018
+## SEPTEMBER 2018
 
-Learn Java (19 Hours)
+###### Learn Java (19 Hours)
 Java Basics
 Java Objects (4 hours)
 Java Arrays (93 minutes)
@@ -61,9 +61,9 @@ Regular Expressions in Java (28 minutes)
 Java Lambdas (16 minutes)
 Build a JavaFX Application (3 hours)
 
-OCTOBER 2018
+## OCTOBER 2018
 
-Java Web Development (37 Hours)
+###### Java Web Development (37 Hours)
 Unit Testing in Java (2 hours)
 Dependency Management with Gradle (30 minutes)
 Introduction to HTML and CSS (2 hours)
@@ -85,16 +85,16 @@ Build a REST API in Spark (115 minutes)
 Build a REST API in Spring (119 minutes)
 
 
-NOVEMBER 2018
+## NOVEMBER 2018
 
-Beginner C# (17 Hours)
+###### Beginner C# (17 Hours)
 C# Basics (3 hours)
 C# Objects (5 hours)
 Intermediate C# (2 hours)
 C# Streams and Data Processing (4 hours)
 C#f Collections (2 hours)
 
-Intermediate C# (10 Hours)
+###### Intermediate C# (10 Hours)
 Querying With LINQ (4 hours)
 Introduction to Visual Studio (42 minutes)
 Using GitHub with Visual Studio (21 minutes)
@@ -104,9 +104,9 @@ C# Extension Methods (44 minutes)
 Creating Data Structures Using C# Generics (55 minutes)
 Unit Testing in C# (2 hours)
 
-DECEMBER 2018
+## DECEMBER 2018
 
-Learn Python (22 Hours)
+###### Learn Python (22 Hours)
 Python Basics (3 hours)
 Introducing Lists (107 minutes)
 Python Collections (4 hours)
@@ -117,9 +117,9 @@ Regular Expressions in Python (110 minutes)
 Using Databases in Python (119 minutes)
 Python Testing (77 minutes)
 
-JANUARY 2019
+## JANUARY 2019
 
-Beginning Python (17 hours)
+###### Beginning Python (17 hours)
 Python Basics (3 hours)
 Introducing LIsts (107 minutes)
 Understanding Dunder Main (_main_) (5 minutes)
@@ -128,7 +128,7 @@ Object-Oriented Python (3 hours)
 Write Better Python (70 minutes)
 Dates and Times in Python (2 hours)
 
-Intermediate Python (9 hours)
+###### Intermediate Python (9 hours)
 Regular Expressions in Python (110 minutes)
 Python File I/O (14 minutes)
 CSV and JSON in Python (14 minutes)
@@ -139,9 +139,9 @@ Python Decorators (23 minutes)
 Python Type Hinting (15 minutes)
 Functional Python (2 hours)
 
-FEBRUARY 2019
+## FEBRUARY 2019
 
-Beginning SQL (10 Hours)
+###### Beginning SQL (10 Hours)
 SQL Basics (2 hours)
 Modifying Data with SQL (80 minutes)
 Reporting with SQL (2 hours)
@@ -149,7 +149,7 @@ Query Relational Databases (2 hours)
 Common Table Expressions Using WITH (18 minutes)
 SQL Reporting by Example (64 minutes)
 
-Beginning PHP (15 Hours)
+###### Beginning PHP (15 Hours)
 Introduction to HTML and CSS (2 hours)  
 PHP Basics (2 hours)
 PHP Arrays and Control Structures (3 hours)
@@ -158,9 +158,9 @@ PHP: Installing a Local Dev Environment (Text)
 Basic Error Handling in PHP (34 minutes)
 Build a Basic PHP Website (5 hours)
 
-MARCH 2019
+## MARCH 2019
 
-Intermediate PHP (15 hours)
+###### Intermediate PHP (15 hours)
 SQL Basics (2 hours)
 Reporting with SQL (2 hours)
 Integrating PHP with Databases (4 hours)
@@ -169,9 +169,9 @@ Modifying Data with SQL(80 minutes)
 CRUD Operations with PHP (2 hours)
 File Handling with PHP (101 minutes)
 
-APRIL 2019
+## APRIL 2019
 
-Beginner Swift (14 hours)
+###### Beginner Swift (14 hours)
 Swift Basics (2 hours)
 Swift Collections and Control Flow (3 hours)
 Functions in Swift (81 minutes)
@@ -180,15 +180,15 @@ Enumerations and Optionals in Swift (2 hours)
 Protocols in Swift (99 minutes)
 Error Handling in Swift (64 minutes)
 
-Intermediate Swift (9 hours)
+###### Intermediate Swift (9 hours)
 Intermediate Swift (3 hours)
 API Design Guidelines in Swift (68 minutes)
 Generics in Swift (2 hours)
 Closures in Swift (2 hours)
 
-MAY 2019
+## MAY 2019
 
-Beginner Game Development with Unity (29 Hours)
+###### Beginner Game Development with Unity (29 Hours)
 How to Make a Video Game (6 hours)
 Unity Basics (2 hours)
 3d Art with Maya LT (2 hours)
@@ -200,16 +200,13 @@ C# Objects (5 hours)
 Components in Unity (72 minutes)
 Object Oriented Programming in Unity (107 minutes)
 
-EXTRA
-(Check out these courses whenever possible)
-
-Extra Team Treehouse Courses
+###### Extra Team Treehouse Courses
 APIs (263 minutes)
 Scrum Basics (107 minutes)
 Hosting a Site With GitHub Pages (23 minutes)
 
 
-Business (19 hours)
+###### Business (19 hours)
 Building Your Techdegree Resume (29 minutes)
 How to Start a Business (195 minutes)
 How to Write a Business Plan (58 minutes)
@@ -221,62 +218,104 @@ Careers Foundations (244 minutes)
 How to Run a Web Design Business (125 minutes)
 How to Market Your Business (193 minutes)
 
-COMPLETED
+# COMPLETED
 
-Web Design (44 Hours)
-Introduction to HTML and CSS
+###### Web Design (44 Hours)
+
+~~ Introduction to HTML and CSS
+
 HTML Basics
+
 Web Design Process
-CSS Basics
-CSS Selectors
-HTML Forms
-HTML Tables
-Web Typography
-CSS Layout Basics
-Responsive Layouts
-CSS Flexbox Layout
-Bootstrap 4 Basics
-Prototyping in the Browser
-CSS Transitions and Transforms
-SVG Basics
-Animating SVG with CSS
-SASS Basics
-CSS Grid Layout (Going Further with Grid Layout)
 
-Front-End Web Development (59 Hours)
-Introduction to HTML and CSS
-HTML Basics
 CSS Basics
-Javascript Basics
-CSS Layout Basics
-Responsive Layouts
-CSS Flexbox Layout
-HTML Forms
-Javascript Loops, Arrays, and Objects
-Javascript and the DOM
+
 CSS Selectors
-jQuery Basics
-Bootstrap 4 Basics
-Introduction to Front End Performance Optimization
+
+HTML Forms
+
 HTML Tables
+
+Web Typography
+
+CSS Layout Basics
+
+Responsive Layouts
+
+CSS Flexbox Layout
+
+Bootstrap 4 Basics
+
+Prototyping in the Browser
+
+CSS Transitions and Transforms
+
+SVG Basics
+
+Animating SVG with CSS
+
+SASS Basics
+
+CSS Grid Layout (Going Further with Grid Layout) ~~
+
+
+###### Front-End Web Development (59 Hours)
+
+~~ Introduction to HTML and CSS
+
+HTML Basics
+
+CSS Basics
+
+Javascript Basics
+
+CSS Layout Basics
+
+Responsive Layouts
+
+CSS Flexbox Layout
+
+HTML Forms
+
+Javascript Loops, Arrays, and Objects
+
+Javascript and the DOM
+
+CSS Selectors
+
+jQuery Basics
+
+Bootstrap 4 Basics
+
+Introduction to Front End Performance Optimization
+
+HTML Tables
+
 HTML Video and Audio
+
 Create a Media Player with MediaElement.js
+
 AJAX Basics
 Object-Oriented Javascript
-Web Accessibility Compliance
-Website Optimization
-Console Foundations
-Git Basics
 
-Beginning JavaScript (18 Hours)
-Introducing Javascript
+Web Accessibility Compliance
+
+Website Optimization
+
+Console Foundations
+
+Git Basics ~~
+
+
+###### Beginning JavaScript (18 Hours)
+~~ Introducing Javascript
 Javascript Basics
 Javascript Loops, Arrays, and Objects
 Getting Started With ES2015
 Javascript and the DOM
-DOM Scripting By Example
+DOM Scripting By Example ~~
 
-ADDITIONAL
+## ADDITIONAL
 
 Areas Of Study
 CSS Frameworks (besides Bootstrap)
