@@ -2,46 +2,45 @@
 
 ## **JUNE 2018**
 
-###### Full Stack Javascript (50 Hours)
-https://teamtreehouse.com/tracks/full-stack-javascript
+###### Full Stack Javascript ([50 Hours](https://teamtreehouse.com/tracks/full-stack-javascript))
 
-~~> Introducing Javascript~~
+~~- Introducing Javascript~~
 
-~~> Javascript Basics~~
+~~- Javascript Basics~~
 
-~~> Javascript Loops, Arrays, and Objects~~
+~~- Javascript Loops, Arrays, and Objects~~
 
-~~> Defining Variables with let and const~~
+~~- Defining Variables with let and const~~
 
-~~> Introducing Arrow Function Syntax~~
+~~- Introducing Arrow Function Syntax~~
 
-~~> Javascript and the DOM (Solution: Using nextElementSibling)~~
+~~- Javascript and the DOM (Solution: Using nextElementSibling)~~
 
-~~> jQuery Basics~~
+~~- jQuery Basics~~
 
-~~> AJAX Basics~~
+~~- AJAX Basics~~
 
-~~> Understanding “this” in Javascript~~
+~~- Understanding “this” in Javascript~~
 
-~~> Object-Oriented Javascript (2015)~~
+~~- Object-Oriented Javascript (2015)~~
 
-~~> Object-Oriented Javascript (2018)~~
+~~- Object-Oriented Javascript (2018)~~
 
-~~> The Module Pattern in Javascript~~
+~~- The Module Pattern in Javascript~~
 
-Introducing ES2015 (112 minutes) (ES2015 Basics: Template Strings)
+- Introducing ES2015 (112 minutes) (ES2015 Basics: Template Strings)
 
-Node.js Basics (2 hours)
+- Node.js Basics (2 hours)
 
-Exploring Javascript Conditionals (25 minutes)
+- Exploring Javascript Conditionals (25 minutes)
 
-Build a Simple Dynamic Site with Node.js (2 hours)
+- Build a Simple Dynamic Site with Node.js (2 hours)
 
-Npm Basics (76 minutes)
+- Npm Basics (76 minutes)
 
-Using Npm as a Task Runner (14 minutes)
+- Using Npm as a Task Runner (14 minutes)
 
-Gulp Basics (2 hours)
+- Gulp Basics (2 hours)
 
 - Express Basics (4 hours)
 
