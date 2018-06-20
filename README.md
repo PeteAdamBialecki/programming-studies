@@ -308,7 +308,7 @@ Git Basics ~~
 
 
 ###### Beginning JavaScript (18 Hours)
-~~Introducing Javascript
+~~Introducing Javascript~~
 
 Javascript Basics
 
