@@ -4,29 +4,29 @@
 
 ###### [Full Stack JavaScript (50 Hours)](https://teamtreehouse.com/tracks/full-stack-javascript)
 
-- ~~Introducing Javascript~~
+~~Introducing Javascript~~
 
-- ~~Javascript Basics~~
+~~Javascript Basics~~
 
-- ~~Javascript Loops, Arrays, and Objects~~
+~~Javascript Loops, Arrays, and Objects~~
 
-- ~~Defining Variables with let and const~~
+~~Defining Variables with let and const~~
 
-- ~~Introducing Arrow Function Syntax~~
+~~Introducing Arrow Function Syntax~~
 
-- ~~Javascript and the DOM (Solution: Using nextElementSibling)~~
+~~Javascript and the DOM (Solution: Using nextElementSibling)~~
 
-- ~~jQuery Basics~~
+~~jQuery Basics~~
 
-- ~~AJAX Basics~~
+~~AJAX Basics~~
 
-- ~~Understanding “this” in Javascript~~
+~~Understanding “this” in Javascript~~
 
-- ~~Object-Oriented Javascript (2015)~~
+~~Object-Oriented Javascript (2015)~~
 
-- ~~Object-Oriented Javascript (2018)~~
+~~Object-Oriented Javascript (2018)~~
 
-- ~~The Module Pattern in Javascript~~
+~~The Module Pattern in Javascript~~
 
 - Introducing ES2015 (112 minutes) (ES2015 Basics: Template Strings)
 
@@ -57,17 +57,17 @@
 
 ## **AUGUST 2018**
 
-###### Angular Basics (3 Hours)
+###### [Angular Basics (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)
 
-Setting Up an Angular Application
+- Setting Up an Angular Application
 
-Angular Components
+- Angular Components
 
-Services in Angular
+- Services in Angular
 
-Angular Basic Forms
+- Angular Basic Forms
 
-Angular Form Validation
+- Angular Form Validation
 
 ###### ReactJS (9 Hours)
 React Basics (3 hours)
@@ -292,64 +292,65 @@ CSS Grid Layout (Going Further with Grid Layout) ~~
 
 ###### **Front-End Web Development (59 Hours)**
 
-~~ Introduction to HTML and CSS
+~~Introduction to HTML and CSS~~
 
-HTML Basics
+~~HTML Basics~~
 
-CSS Basics
+~~CSS Basics~~
 
-Javascript Basics
+~~Javascript Basics~~
 
-CSS Layout Basics
+~~CSS Layout Basics~~
 
-Responsive Layouts
+~~Responsive Layouts~~
 
-CSS Flexbox Layout
+~~CSS Flexbox Layout~~
 
-HTML Forms
+~~HTML Forms~~
 
-Javascript Loops, Arrays, and Objects
+~~Javascript Loops, Arrays, and Objects~~
 
-Javascript and the DOM
+~~Javascript and the DOM~~
 
-CSS Selectors
+~~CSS Selectors~~
 
-jQuery Basics
+~~jQuery Basics~~
 
-Bootstrap 4 Basics
+~~Bootstrap 4 Basics~~
 
-Introduction to Front End Performance Optimization
+~~Introduction to Front End Performance Optimization~~
 
-HTML Tables
+~~HTML Tables~~
 
-HTML Video and Audio
+~~HTML Video and Audio~~
 
-Create a Media Player with MediaElement.js
+~~Create a Media Player with MediaElement.js~~
 
-AJAX Basics
-Object-Oriented Javascript
+~~AJAX Basics~~
 
-Web Accessibility Compliance
+~~Object-Oriented Javascript~~
 
-Website Optimization
+~~Web Accessibility Compliance~~
 
-Console Foundations
+~~Website Optimization~~
 
-Git Basics
+~~Console Foundations~~
+
+~~Git Basics~~
 
 ###### **Beginning JavaScript (18 Hours)**
 
 ~~Introducing Javascript~~
 
-Javascript Basics
+~~Javascript Basics~~
 
-Javascript Loops, Arrays, and Objects
+~~Javascript Loops, Arrays, and Objects~~
 
-Getting Started With ES2015
+~~Getting Started With ES2015~~
 
-Javascript and the DOM
+~~Javascript and the DOM~~
 
-DOM Scripting By Example~~
+~~DOM Scripting By Example~~
 
 ###### **ADDITIONAL**
 
