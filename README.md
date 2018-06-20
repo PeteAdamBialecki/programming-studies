@@ -1,41 +1,71 @@
-# TEAM TREEHOUSE
+# **TEAM TREEHOUSE**
 
-## JUNE 2018
+## **JUNE 2018**
 
 ###### Full Stack Javascript (50 Hours)
-Introducing Javascript
-Javascript Basics
-Javascript Loops, Arrays, and Objects
-Defining Variables with let and const
-Introducing Arrow Function Syntax
-Javascript and the DOM (Solution: Using nextElementSibling)
-jQuery Basics
-AJAX Basics
-Understanding “this” in Javascript
-Object-Oriented Javascript (2015)
-Object-Oriented Javascript (2018)
-The Module Pattern in Javascript
+
+~~Introducing Javascript~~
+
+~~Javascript Basics~~
+
+~~Javascript Loops, Arrays, and Objects~~
+
+~~Defining Variables with let and const~~
+
+~~Introducing Arrow Function Syntax~~
+
+~~Javascript and the DOM (Solution: Using nextElementSibling)~~
+
+~~jQuery Basics~~
+
+~~AJAX Basics~~
+
+~~Understanding “this” in Javascript~~
+
+~~Object-Oriented Javascript (2015)~~
+
+~~Object-Oriented Javascript (2018)~~
+
+~~The Module Pattern in Javascript~~
+
 Introducing ES2015 (112 minutes) (ES2015 Basics: Template Strings)
+
 Node.js Basics (2 hours)
+
 Exploring Javascript Conditionals (25 minutes)
+
 Build a Simple Dynamic Site with Node.js (2 hours)
+
 Npm Basics (76 minutes)
+
 Using Npm as a Task Runner (14 minutes)
+
 Gulp Basics (2 hours)
+
 Express Basics (4 hours)
+
 Mongo Basics (87 minutes)
+
 Understanding Closures in Javascript (22 minutes)
+
 User Authentication with Express and Mongo (2 hours)
+
 Build a REST API with Express (3 hours)
+
 Javascript Unit Testing (3 hours)
 
-## AUGUST 2018
+## **AUGUST 2018**
 
 ###### Angular Basics (3 Hours)
+
 Setting Up an Angular Application
+
 Angular Components
+
 Services in Angular
+
 Angular Basic Forms
+
 Angular Form Validation
 
 ###### ReactJS (9 Hours)
@@ -49,7 +79,7 @@ Animations in React (16 minutes)
 What’s New in React 16 (26 minutes)
 
 
-## SEPTEMBER 2018
+## **SEPTEMBER 2018**
 
 ###### Learn Java (19 Hours)
 Java Basics
@@ -61,7 +91,7 @@ Regular Expressions in Java (28 minutes)
 Java Lambdas (16 minutes)
 Build a JavaFX Application (3 hours)
 
-## OCTOBER 2018
+## **OCTOBER 2018**
 
 ###### Java Web Development (37 Hours)
 Unit Testing in Java (2 hours)
@@ -85,7 +115,7 @@ Build a REST API in Spark (115 minutes)
 Build a REST API in Spring (119 minutes)
 
 
-## NOVEMBER 2018
+## **NOVEMBER 2018**
 
 ###### Beginner C# (17 Hours)
 C# Basics (3 hours)
@@ -104,7 +134,7 @@ C# Extension Methods (44 minutes)
 Creating Data Structures Using C# Generics (55 minutes)
 Unit Testing in C# (2 hours)
 
-## DECEMBER 2018
+## **DECEMBER 2018**
 
 ###### Learn Python (22 Hours)
 Python Basics (3 hours)
@@ -117,7 +147,7 @@ Regular Expressions in Python (110 minutes)
 Using Databases in Python (119 minutes)
 Python Testing (77 minutes)
 
-## JANUARY 2019
+## **JANUARY 2019**
 
 ###### Beginning Python (17 hours)
 Python Basics (3 hours)
@@ -139,7 +169,7 @@ Python Decorators (23 minutes)
 Python Type Hinting (15 minutes)
 Functional Python (2 hours)
 
-## FEBRUARY 2019
+## **FEBRUARY 2019**
 
 ###### Beginning SQL (10 Hours)
 SQL Basics (2 hours)
@@ -158,7 +188,7 @@ PHP: Installing a Local Dev Environment (Text)
 Basic Error Handling in PHP (34 minutes)
 Build a Basic PHP Website (5 hours)
 
-## MARCH 2019
+## **MARCH 2019**
 
 ###### Intermediate PHP (15 hours)
 SQL Basics (2 hours)
@@ -169,7 +199,7 @@ Modifying Data with SQL(80 minutes)
 CRUD Operations with PHP (2 hours)
 File Handling with PHP (101 minutes)
 
-## APRIL 2019
+## **APRIL 2019**
 
 ###### Beginner Swift (14 hours)
 Swift Basics (2 hours)
@@ -186,7 +216,7 @@ API Design Guidelines in Swift (68 minutes)
 Generics in Swift (2 hours)
 Closures in Swift (2 hours)
 
-## MAY 2019
+## **MAY 2019**
 
 ###### Beginner Game Development with Unity (29 Hours)
 How to Make a Video Game (6 hours)
@@ -220,7 +250,7 @@ How to Market Your Business (193 minutes)
 
 # COMPLETED
 
-###### Web Design (44 Hours)
+###### **Web Design (44 Hours)**
 
 ~~ Introduction to HTML and CSS
 
@@ -259,7 +289,7 @@ SASS Basics
 CSS Grid Layout (Going Further with Grid Layout) ~~
 
 
-###### Front-End Web Development (59 Hours)
+###### **Front-End Web Development (59 Hours)**
 
 ~~ Introduction to HTML and CSS
 
@@ -304,10 +334,10 @@ Website Optimization
 
 Console Foundations
 
-Git Basics ~~
+Git Basics
 
+###### **Beginning JavaScript (18 Hours)**
 
-###### Beginning JavaScript (18 Hours)
 ~~Introducing Javascript~~
 
 Javascript Basics
@@ -320,19 +350,30 @@ Javascript and the DOM
 
 DOM Scripting By Example~~
 
-## ADDITIONAL
+###### **ADDITIONAL**
 
 Areas Of Study
+
 CSS Frameworks (besides Bootstrap)
+
 Gulp Task Runner
+
 Grunt Task Runner
+
 Dependency
+
 Bower Package Manager
+
 WebAssembly
+
 Unit Testing
+
 Refactoring / Cleaning Code
+
 Encapsulation
+
 Syntactic Sugar
+
 
 Career Path
 Front-End Development Career Path
