@@ -43,17 +43,18 @@ Using Npm as a Task Runner (14 minutes)
 
 Gulp Basics (2 hours)
 
-Express Basics (4 hours)
+- Express Basics (4 hours)
 
-Mongo Basics (87 minutes)
+- Mongo Basics (87 minutes)
 
-Understanding Closures in Javascript (22 minutes)
+- Understanding Closures in Javascript (22 minutes)
 
-User Authentication with Express and Mongo (2 hours)
+- User Authentication with Express and Mongo (2 hours)
 
-Build a REST API with Express (3 hours)
+- Build a REST API with Express (3 hours)
 
-Javascript Unit Testing (3 hours)
+- Javascript Unit Testing (3 hours)
+
 
 ## **AUGUST 2018**
 
