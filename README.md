@@ -414,7 +414,7 @@
 
 ~~SASS Basics~~
 
-~~CSS Grid Layout (Going Further with Grid Layout) ~~
+~~CSS Grid Layout (Going Further with Grid Layout)~~
 
 
 ###### **Front-End Web Development (59 Hours)**
