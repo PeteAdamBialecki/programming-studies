@@ -479,9 +479,13 @@
 
 ~~DOM Scripting By Example~~
 
-###### **ADDITIONAL**
+# **ADDITIONAL**
 
-- Areas Of Study
+## **Cool Sites and Resources For Study**
+
+- [ObservableHQ.com](https://beta.observablehq.com/collection/introduction)
+
+# **NOTES AND FUTURE IDEAS**
 
 - CSS Frameworks (besides Bootstrap)
 
@@ -503,4 +507,4 @@
 
 - Syntactic Sugar
 
-[Front-End Development Career Path](https://coggle.it/diagram/52e97f8c5a143de239005d1b/t/web-development/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52)
+- [Front-End Development Career Path](https://coggle.it/diagram/52e97f8c5a143de239005d1b/t/web-development/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52)
