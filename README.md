@@ -485,7 +485,7 @@
 
 - [ObservableHQ.com](https://beta.observablehq.com/collection/introduction)
 
-## **NOTES AND FUTURE IDEAS**
+## **Notes and Future Ideas**
 
 - CSS Frameworks (besides Bootstrap)
 
