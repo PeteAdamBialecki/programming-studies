@@ -28,7 +28,7 @@
 
 ~~The Module Pattern in Javascript~~
 
-- Introducing ES2015 (112 minutes) (ES2015 Basics: Template Strings)
+~~Introducing ES2015~~
 
 - Node.js Basics (2 hours)
 
