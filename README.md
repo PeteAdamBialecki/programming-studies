@@ -28,9 +28,9 @@
 
 ~~The Module Pattern in Javascript~~
 
-- Introducing ES2015 (112 minutes) (ES2015 Basics: Template Strings)
+~~Introducing ES2015~~
 
-- Node.js Basics (2 hours)
+- Node.js Basics (2 hours) (Section 1 of 4 complete. Begin "Building a Command Line Application".)
 
 - Exploring Javascript Conditionals (25 minutes)
 
@@ -508,3 +508,8 @@
 - Syntactic Sugar
 
 - [Front-End Development Career Path](https://coggle.it/diagram/52e97f8c5a143de239005d1b/t/web-development/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52)
+
+
+
+
+IDE COLOR FOR VCS: Monokai Dimmed
