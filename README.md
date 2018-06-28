@@ -30,7 +30,7 @@
 
 ~~Introducing ES2015~~
 
-- Node.js Basics (2 hours) (Section 1 of 4 complete. Begin "Building a Command Line Application".)
+- Node.js Basics (2 hours) (Section 2 of 4 complete. Begin "Handling Errors in Node".)
 
 - Exploring Javascript Conditionals (25 minutes)
 
