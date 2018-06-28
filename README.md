@@ -345,7 +345,7 @@
 
 - Object Oriented Programming in Unity (107 minutes)
 
-###### Extra Team Treehouse Courses
+###### [Extra Team Treehouse Course](https://teamtreehouse.com/library)
 
 - [APIs (263 minutes)](https://teamtreehouse.com/library/topic:apis)
 
@@ -354,7 +354,7 @@
 - [Hosting a Site With GitHub Pages (23 minutes)](https://teamtreehouse.com/library/hosting-a-website-with-github-pages)
 
 
-###### Business (19 hours)
+###### [Business (19 hours)](https://teamtreehouse.com/library/topic:business)
 
 - [Building Your Techdegree Resume (29 minutes)](https://teamtreehouse.com/library/building-your-techdegree-resume)
 
@@ -378,7 +378,7 @@
 
 # COMPLETED
 
-###### **Web Design (44 Hours)**
+###### [Web Design (44 Hours)](https://teamtreehouse.com/tracks/web-design)
 
 ~~Introduction to HTML and CSS~~
 
@@ -417,7 +417,7 @@
 ~~CSS Grid Layout (Going Further with Grid Layout)~~
 
 
-###### **Front-End Web Development (59 Hours)**
+###### [Front-End Web Development (59 Hours)](https://teamtreehouse.com/tracks/front-end-web-development)
 
 ~~Introduction to HTML and CSS~~
 
@@ -465,7 +465,7 @@
 
 ~~Git Basics~~
 
-###### **Beginning JavaScript (18 Hours)**
+###### [Beginning JavaScript (18 Hours)](https://teamtreehouse.com/tracks/beginning-javascript)
 
 ~~Introducing Javascript~~
 
