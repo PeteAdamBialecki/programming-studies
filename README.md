@@ -512,4 +512,5 @@
 
 
 
-IDE COLOR FOR VCS: Monokai Dimmed
+# **NOTES**
+Is there a way to keep track of some of the progress that I make at work?  Maybe take some notes and copy sections of some of the Java and JavaScript?  I will try tomorrow.  For now, another Git commit...
