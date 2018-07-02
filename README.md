@@ -486,6 +486,8 @@
 
 ## **Notes and Future Ideas**
 
+- MEAN Stack Developer (MongoDB, Express.js, Angular.js, Node.js, Ruby, Python, Cloud etc.)
+
 - CSS Frameworks (besides Bootstrap)
 
 - Gulp Task Runner
@@ -506,4 +508,8 @@
 
 - Syntactic Sugar
 
-- [Front-End Development Career Path](https://coggle.it/diagram/52e97f8c5a143de239005d1b/t/web-development/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52)
+## **[Front-End Development Career Path](https://coggle.it/diagram/52e97f8c5a143de239005d1b/t/web-development/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52)**
+
+- Sr. User Experience Architect
+- Sr. Front-End Developer
+- Fullstack Javascript Developer
