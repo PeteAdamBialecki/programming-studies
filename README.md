@@ -1,6 +1,6 @@
 # **TEAM TREEHOUSE**
 
-## **JUNE 2018**
+## **JULY 2018**
 
 ###### [Full Stack JavaScript (50 Hours)](https://teamtreehouse.com/tracks/full-stack-javascript)
 
@@ -54,41 +54,7 @@
 
 - Javascript Unit Testing (3 hours)
 
-
 ## **AUGUST 2018**
-
-###### [Angular Basics (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)
-
-- Setting Up an Angular Application
-
-- Angular Components
-
-- Services in Angular
-
-- Angular Basic Forms
-
-- Angular Form Validation
-
-###### [ReactJS (9 Hours)](https://teamtreehouse.com/tracks/learn-react)
-
-- React Basics (3 hours)
-
-- Using Create React App (22 minutes)
-
-- React by Example (113 minutes)
-
-- React Router 4 Basics (76 minutes)
-
-- Building Applications with React and Redux (2 hours)
-
-- Data Fetching in React (29 minutes)
-
-- Animations in React (16 minutes)
-
-- What’s New in React 16 (26 minutes)
-
-
-## **SEPTEMBER 2018**
 
 ###### [Learn Java (19 Hours)](https://teamtreehouse.com/tracks/learn-java)
 
@@ -108,7 +74,7 @@
 
 - Build a JavaFX Application (3 hours)
 
-## **OCTOBER 2018**
+## **SEPTEMBER 2018**
 
 ###### [Java Web Development (37 Hours)](https://teamtreehouse.com/tracks/java-web-development)
 
@@ -150,6 +116,37 @@
 
 - Build a REST API in Spring (119 minutes)
 
+## **OCTOBER 2018**
+
+###### [Angular Basics (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)
+
+- Setting Up an Angular Application
+
+- Angular Components
+
+- Services in Angular
+
+- Angular Basic Forms
+
+- Angular Form Validation
+
+###### [ReactJS (9 Hours)](https://teamtreehouse.com/tracks/learn-react)
+
+- React Basics (3 hours)
+
+- Using Create React App (22 minutes)
+
+- React by Example (113 minutes)
+
+- React Router 4 Basics (76 minutes)
+
+- Building Applications with React and Redux (2 hours)
+
+- Data Fetching in React (29 minutes)
+
+- Animations in React (16 minutes)
+
+- What’s New in React 16 (26 minutes)
 
 ## **NOVEMBER 2018**
 
@@ -483,6 +480,8 @@
 
 ## **Cool Sites and Resources For Study**
 
+- Azure Software
+
 - [ObservableHQ.com](https://beta.observablehq.com/collection/introduction)
 
 ## **Notes and Future Ideas**
@@ -512,5 +511,9 @@
 
 
 
+<<<<<<< HEAD
+IDE COLOR FOR VCS: Monokai Dimmed
+=======
 # **NOTES**
 Is there a way to keep track of some of the progress that I make at work?  Maybe take some notes and copy sections of some of the Java and JavaScript?  I will try tomorrow.  For now, another Git commit...
+>>>>>>> master
