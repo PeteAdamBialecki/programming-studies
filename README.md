@@ -32,7 +32,7 @@
 
 ~~Node.js Basics~~
 
-- Exploring Javascript Conditionals (25 minutes)
+~~Exploring Javascript Conditionals~~
 
 - Build a Simple Dynamic Site with Node.js (2 hours)
 
