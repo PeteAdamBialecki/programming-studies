@@ -34,7 +34,7 @@
 
 ~~Exploring Javascript Conditionals~~
 
-- Build a Simple Dynamic Site with Node.js (2 hours) (Sections 1 & 2 complete. Do 3 & 4.)
+- Build a Simple Dynamic Site with Node.js (2 hours) (Sections 1, 2, & 3 complete. Do "Dealing with the POST Body".)
 
 - Npm Basics (76 minutes)
 
