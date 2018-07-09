@@ -513,3 +513,6 @@
 - Sr. User Experience Architect
 - Sr. Front-End Developer
 - Fullstack Javascript Developer
+
+- Resesif Theme for VCS
+- Material Icon Theme
