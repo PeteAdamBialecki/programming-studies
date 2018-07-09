@@ -30,11 +30,11 @@
 
 ~~Introducing ES2015~~
 
-- Node.js Basics (2 hours) (Section 2 of 4 complete. Begin "Handling Errors in Node".)
+~~Node.js Basics~~
 
-- Exploring Javascript Conditionals (25 minutes)
+~~Exploring Javascript Conditionals~~
 
-- Build a Simple Dynamic Site with Node.js (2 hours)
+- Build a Simple Dynamic Site with Node.js (2 hours) (Sections 1, 2, & 3 complete. Do "Dealing with the POST Body".)
 
 - Npm Basics (76 minutes)
 
