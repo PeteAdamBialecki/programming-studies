@@ -36,7 +36,7 @@
 
 ~~Build a Simple Dynamic Site with Node.js~~
 
-- Npm Basics (76 minutes)
+- Npm Basics (76 minutes) (How To Find and Choose npm Packages)
 
 - Using Npm as a Task Runner (14 minutes)
 
