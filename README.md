@@ -41,7 +41,7 @@
 ~~Using Npm as a Task Runner~~ 
 
 
-- Gulp Basics (2 hours) (Course 1 started...)
+- Gulp Basics (2 hours) (Installing and seting up Gulp...)
 
 - Express Basics (4 hours)
 
