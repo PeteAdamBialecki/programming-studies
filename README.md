@@ -511,12 +511,8 @@
 
 - [Pricing clients for web design/development services](https://studywebdevelopment.com/how-to-charge-for-a-website.html)
 
-
 ## **[Front-End Development Career Path](https://coggle.it/diagram/52e97f8c5a143de239005d1b/t/web-development/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52)**
 
 - Sr. User Experience Architect
 - Sr. Front-End Developer
 - Fullstack Javascript Developer
-
-- Resesif Theme for VCS
-- Material Icon Theme
