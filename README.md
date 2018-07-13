@@ -34,13 +34,14 @@
 
 ~~Exploring Javascript Conditionals~~
 
-- Build a Simple Dynamic Site with Node.js (2 hours) (Sections 1, 2, & 3 complete. Do "Dealing with the POST Body".)
+~~Build a Simple Dynamic Site with Node.js~~
 
-- Npm Basics (76 minutes)
+~~npm Basics~~
 
-- Using Npm as a Task Runner (14 minutes)
+~~Using Npm as a Task Runner~~ 
 
-- Gulp Basics (2 hours)
+
+- Gulp Basics (2 hours) (Course 1 started...)
 
 - Express Basics (4 hours)
 
