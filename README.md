@@ -46,7 +46,7 @@
 
 - Mongo Basics (87 minutes)
 
-- Understanding Closures in Javascript (22 minutes)
+~~Understanding Closures in Javascript~~
 
 - User Authentication with Express and Mongo (2 hours)
 
