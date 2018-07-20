@@ -84,6 +84,10 @@ Clients find it hard to frame their project. Some questions for the client:
 - Will you have database functionality (dynamic content generation, search capabilities, personalization/log-in, etc.)? Do you already have a database in place?
 - Will you have a need for secured transactions (e-commerce)? Do you already offer transactions online?
 - Will you require other specific programming needs (personalization, search capability)?
+- What do you not want on the site?
+- Where is the website content coming from?
+- How is the site orgainzed?
+- What sites do you like?
 ## **Administrative Details**
 - What is your budget for this project?
 - Who are the decision makers for this project and what is the turnaround time?
@@ -92,3 +96,9 @@ Clients find it hard to frame their project. Some questions for the client:
 - Can this project be divided into phases in order to accommodate budget and timing constraints?
 - Who is in charge of the content and how much time will be dedicated to it?
 - Will this site use existing content from the current site?
+- Who is the main decision maker?
+## **Summary For Yourself**
+- What are you doing?
+- Who are you doing it for?
+- Who are you working with?
+- When do you need to do it by?
