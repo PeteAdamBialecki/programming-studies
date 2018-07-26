@@ -359,7 +359,7 @@
 
 - [How to Write a Business Plan (58 minutes)](https://teamtreehouse.com/library/how-to-write-a-business-plan)
 
-- [How to Freelance (172 minutes)](https://teamtreehouse.com/library/how-to-freelance) (Section 1 & 2 Complete)
+- [How to Freelance (172 minutes)](https://teamtreehouse.com/library/how-to-freelance) (Section 1, 2, & 3 Complete)
 
 - [Copyright Business (100 minutes)](https://teamtreehouse.com/library/copyright-basics)
 

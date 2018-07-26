@@ -102,3 +102,52 @@ Clients find it hard to frame their project. Some questions for the client:
 - Who are you doing it for?
 - Who are you working with?
 - When do you need to do it by?
+
+-----------------------------------------
+
+## **Project Proposal Structure**
+
+#OPTIONAL (Keep this short)#
+1. Cover Page/Letter
+    - Introduces the proposal.
+    - Outlines a high level view.
+2. Non-Disclosure Statement
+    - Protect your designs or proposed solutions.
+    - Prevent clients from sharing your rates or other sensitive information.
+    - Can be written by a lawyer or a simple statement citing the above.
+3. Company Statement
+    - Differentiate yourself and seperate yourself from the competitor
+    - Who you are.
+#IMPORTANT#
+4. Client Information
+    - Client's information
+    - Briefly describe the company's objective, goals, and the project
+5. Client Goals
+    - List goals for the project
+    - List specific objectives discussed
+    - Tie in project goals to business objectives
+#MOST IMPORTANT#
+6. Proposed Solution
+    - High solutions
+    - Answers the following questions:
+        - Why do you want this website?
+        - What business problems will the project solve?
+        - What high level features do you want implemented?
+7. Project Specifics
+    - Detailed list of the proposed solution
+    - Explanations of any custom implementations
+8. Project Phases
+    - Timeline of project stages?
+    - Responsibilities of each party?
+    - What are the dependencies?
+9. Quote
+
+#PITCHING#
+- Understand the client and their goals
+- Research the company and their history
+- Help them meet their goals
+- Be brief
+- Don't focus on price
+- Be positive and communicate effectively
+- Tailor to client
+- Follow up every once in a while
