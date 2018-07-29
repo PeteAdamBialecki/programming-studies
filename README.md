@@ -42,7 +42,7 @@
 
 ~~Gulp Basics (2 hours)~~
 
-- Express Basics (4 hours) (Section 1, 2, & 3 complete.)
+~~Express Basics (4 hours)~~
 
 - Mongo Basics (87 minutes)
 
