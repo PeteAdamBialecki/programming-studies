@@ -107,7 +107,7 @@ Clients find it hard to frame their project. Some questions for the client:
 
 ## **Project Proposal Structure**
 
-#OPTIONAL (Keep this short)#
+#OPTIONAL (Keep this short)
 1. Cover Page/Letter
     - Introduces the proposal.
     - Outlines a high level view.
@@ -118,7 +118,7 @@ Clients find it hard to frame their project. Some questions for the client:
 3. Company Statement
     - Differentiate yourself and seperate yourself from the competitor
     - Who you are.
-#IMPORTANT#
+#IMPORTANT
 4. Client Information
     - Client's information
     - Briefly describe the company's objective, goals, and the project
@@ -126,7 +126,7 @@ Clients find it hard to frame their project. Some questions for the client:
     - List goals for the project
     - List specific objectives discussed
     - Tie in project goals to business objectives
-#MOST IMPORTANT#
+#MOST IMPORTANT
 6. Proposed Solution
     - High solutions
     - Answers the following questions:
@@ -142,7 +142,7 @@ Clients find it hard to frame their project. Some questions for the client:
     - What are the dependencies?
 9. Quote
 
-#PITCHING#
+#PITCHING
 - Understand the client and their goals
 - Research the company and their history
 - Help them meet their goals
@@ -151,3 +151,30 @@ Clients find it hard to frame their project. Some questions for the client:
 - Be positive and communicate effectively
 - Tailor to client
 - Follow up every once in a while
+
+-----------------------------------------
+
+## **PLANNING**
+
+- Project Plan Stages: Planning > Design > Development > Launch
+- Each stage may have deliverables, review periods, dependencies, payment
+
+#Stage 1: Planning
+    - Requirement Analysis
+        - Using a questionaire
+        - Secitons like client goals, target audience, feature requests, etc.
+    - Project Charter
+        - Summarizes information gathered during the requirements analysis
+        - Short document serving as a reference point
+        - Not always necessary
+    - Contracts
+    - Quotes
+    - Project Proposals
+
+#Stage 2: Desgin
+    - Mockups and Wireframes
+    - Review and approval
+        - Provide a flexible review process
+        - Provide sufficient time for the client to get back to you
+        - Educate the client and offer your opinions
+        
