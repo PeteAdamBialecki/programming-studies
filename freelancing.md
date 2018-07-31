@@ -151,3 +151,21 @@ Clients find it hard to frame their project. Some questions for the client:
 - Be positive and communicate effectively
 - Tailor to client
 - Follow up every once in a while
+
+-----------------------------------------
+
+## **PLANNING**
+
+- Project Plan Stages: Planning > Design > Development > Launch
+- Each stage may have deliverables, review periods, dependencies, payment
+- Stage 1: Planning
+    - Requirement Analysis
+        - Using a questionaire
+        - Secitons like client goals, target audience, feature requests, etc.
+    - Project Charter
+        - Summarizes information gathered during the requirements analysis
+        - Short document serving as a reference point
+        - Not always necessary
+    - Contracts
+    - Quotes
+    - Project Proposals
