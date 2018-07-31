@@ -184,4 +184,9 @@ Clients find it hard to frame their project. Some questions for the client:
     - Develop special features
     - Content
     - Test
-    
+
+#Stage 4: Pre-Launch
+    - Clean up
+    - Go live
+    - Test
+    - More tests...
