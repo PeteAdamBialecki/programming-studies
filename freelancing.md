@@ -177,4 +177,11 @@ Clients find it hard to frame their project. Some questions for the client:
         - Provide a flexible review process
         - Provide sufficient time for the client to get back to you
         - Educate the client and offer your opinions
-        
+
+#Stage 3: Development
+    - Develop custom solutions
+    - Code Templates
+    - Develop special features
+    - Content
+    - Test
+    
