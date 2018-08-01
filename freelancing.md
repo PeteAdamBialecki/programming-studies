@@ -190,3 +190,25 @@ Clients find it hard to frame their project. Some questions for the client:
     - Go live
     - Test
     - More tests...
+
+## **Non-Project Activities**
+- Administrative
+    - Scheduling Future Work
+        - Time to secure new work
+        - Timeline for current project
+        - Budget
+    - Accounting
+    - Communication
+        - Good timing on answering emails
+        - Save drafts for common questions
+        - Designate time for this.  Don't let it get in the way of your creative work
+        - Client relations
+- Education
+    - Conferences, meetups, talks
+    - Online courses
+- Marketing
+    - Networking
+    - Blogging and teaching
+    - Increaseing brand awareness
+
+
