@@ -211,4 +211,29 @@ Clients find it hard to frame their project. Some questions for the client:
     - Blogging and teaching
     - Increaseing brand awareness
 
+## **Review and Approval**
+- Provide guidelines
+    - Explain reactions: What do they not like and why.
+    - Show examples
+    - Proper attitude
+- Present your desings
+- Provide explainations and documentation
+- Control Feedback (Everything should be judged on the users perspective)
+- Presenting Your Designs
+    - Set up a meeting with local clients to walk through designs
+    - Host the website on a server and schedul a phone call for remote clients
+        - InVision App
 
+## **Basic Invoicing**
+- Accounting Solutions Online
+    - LessAccounting
+    - Freshbooks
+    - Xero
+- Accounting Software
+    - Easy to use
+    - Invoice with ease
+    - Track expenses
+- Invoice Example (with FreshBooks)
+    - Be polite
+    - Be thankful
+    - Avoid technical jargon
