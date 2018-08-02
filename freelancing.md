@@ -279,3 +279,27 @@ Clients find it hard to frame their project. Some questions for the client:
     2. Terms and Conditions regarding payment
     3. Copyright protections
     4. Other legal stuff
+- Payment Terms
+    - Fees and estimates
+        - Information specified in the quote
+        - How much are you charging?
+        - How did you arrive at this estimate?
+    - Payment Schedule
+- Copyright
+    - Transfer of ownership
+    - Right to use the work
+    *** "You, the client, guarantee that any assets such as text, graphics, photos, designs, trademarks or any other artwork, provided for use in the project belong to you, or that you have the permission to use them."
+    - Once the work is done, its their files. You move on.
+- Legal
+    - Authorization
+        - The client is contracting you to provide a service (you are not their employee)
+        - You are authorized to provide services and can access the resources necessary to do so
+        - The client cannot control where, how, and when you work
+    - Content
+        - Indicate who provides the content
+        - Indicate the penalty for not recieving content necessary for the project
+    - If the client tries to fix or adjust anything, you are not responsible for the fixes and bugs
+    - State the jurisdiction where legal action should be taken
+
+
+
