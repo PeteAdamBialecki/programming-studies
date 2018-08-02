@@ -44,7 +44,7 @@
 
 ~~Express Basics (4 hours)~~
 
-- Mongo Basics (87 minutes)
+- Mongo Basics (87 minutes) (Section 1 complete)
 
 ~~Understanding Closures in Javascript~~
 
