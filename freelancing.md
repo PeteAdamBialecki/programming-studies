@@ -302,4 +302,8 @@ Clients find it hard to frame their project. Some questions for the client:
     - State the jurisdiction where legal action should be taken
 
 
+#Other Notes
+
+Killer Contract: https://gist.github.com/malarkey/4031110
+Contracts for Web Designers: http://webdesignlaw.com/contracts/forms-introduction
 
