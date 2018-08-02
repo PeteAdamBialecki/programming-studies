@@ -256,4 +256,26 @@ Clients find it hard to frame their project. Some questions for the client:
         - Terms and conditions regarding payment
         - Copyright protection and limitations on the use of your work
         - Protection in the event of a dispute
-        
+- Types Of Contract
+    - Oral Agreements
+    - Letter of agreement
+        - Includes the scope of work, timeline and payment terms
+        - Usually presented as a project proposal and quote
+    - Purchase Order
+        - Assigns the work to you and indicates payment
+        - Care is advised when signing such contracts
+    - Working Contracts *
+        - Most common type of contract
+        - Need to be executed properly to avoid friction
+        - Best used with complex projects and large or unknown clients
+- Contract: Project Scope
+    - If a proposal exists, reference the proposal in the contract
+        "The project will be built according to the specifications detailed in the Proposal signed and dated mm/dd/yyy."
+    - If scope was agreed upon in some form of communication, reference the prior communication
+        "Specifications discussed and mutually agreed upon during the meeting on mm/dd/yyyy."
+    - Project Proposal + Quote = Letter of Agreement or Engagement
+- Contract Checklist
+    1. Project Scope
+    2. Terms and Conditions regarding payment
+    3. Copyright protections
+    4. Other legal stuff
