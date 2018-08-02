@@ -237,3 +237,23 @@ Clients find it hard to frame their project. Some questions for the client:
     - Be polite
     - Be thankful
     - Avoid technical jargon
+
+-----------------------------------------
+
+## **Contracts**
+- Identify Bad Clients
+    - Poor communication
+    - Can't explain the project well
+    - Avoids pricing discussions
+    - Against contracts
+- Contract Main Areas
+    - Working Relationship
+    - Payment
+    - Copyright Use
+    - Miscellaneous Legal 
+    - At least:
+        - A definition of the project you will be working on
+        - Terms and conditions regarding payment
+        - Copyright protection and limitations on the use of your work
+        - Protection in the event of a dispute
+        
