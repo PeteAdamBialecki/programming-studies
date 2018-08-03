@@ -307,3 +307,40 @@ Clients find it hard to frame their project. Some questions for the client:
 Killer Contract: https://gist.github.com/malarkey/4031110
 Contracts for Web Designers: http://webdesignlaw.com/contracts/forms-introduction
 
+## **Creating A Business**
+
+#Forming a Company
+- Legitimacy - Make your business official
+- Finances are seperate from your own
+- Liability
+- Growth to prepare for more employees
+- Taxes - Make use of business filing advantages
+
+#Business Entity Choices
+- Sole Proprietorship
+    - The owner is responsible for any debts owned by the business
+    - Ownership is tied to the owner and cannot be transfered
+    - Owners retain complete control
+    - File taxes with personal taxes
+    - Minimal costs involved
+    - CON: You pay employee taxes
+    - CON: No liability insurance
+- Partnerships
+- Corporation
+    - Seperate from owners
+    - Great liability insurance
+    - CONS: Very expensive
+    - Unnecessary paper work
+- LLC
+    - Unlimited number of owners
+    - Liability protection
+    - Income is taxd once
+- S-Corp
+    - Owners only pay taxes on their share of the profits
+    - Liabilty protection
+- Steps to Forming A Business Entity
+    - Research the type of entity
+    - Talk to a tax professional about your tax benefits
+    - Fill out the paper work
+    - Apply for a business bank account
+    
