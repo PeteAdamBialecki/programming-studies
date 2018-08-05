@@ -1,4 +1,4 @@
-## **Frelance Job Boards:**
+## **Freelance Job Boards:**
 
 - [oDesk](https://www.odesk.com/)
 
@@ -40,16 +40,15 @@
 
 - [Behance](http://www.behance.net/joblist)
 
-## **Client Questions**
+## **Client/Project Information**
 
-Clients find it hard to frame their project. Some questions for the client:
-
+#Beginning Questions
 - What excites you about this project? (motivations, problems with exisiting solutions, what are thier desired outcomes, etc.)
 - Tell me briefly about the company (what do you do, what do you sell, person/group/org, etc.)
 - What problems does your business solve.
 - What makes your service/product better than your competitor.
 - Why do you want this website (what are your goals).
-## **What excites you about this project?
+#What excites you about this project?
 - Tell me briefly about your company
 - What makes your product better than those of competitors?
 - Describe your goal for this project in less than 10 seconds?
@@ -58,7 +57,7 @@ Clients find it hard to frame their project. Some questions for the client:
 - What are your primary online business objectives with the site redesign?
 - What are your secondary objectives? (Increase sales, reduce customer service calls, etc)
 - How will you measure the success of the solution?
-## **General Questions**
+#General Questions
 - Who is your target audience?
 - Describe your typical customer
 - What emotions do customers feel when using your product?
@@ -73,7 +72,7 @@ Clients find it hard to frame their project. Some questions for the client:
 - How do you plan to get repeat visitors?
 - What is the primary “action” the user should take when coming to your site? (purchase, become a member, search for information, etc.)
 - Use a few adjectives to describe how the user should perceive the new site. (Ex: prestigious, friendly, corporate, fun, forward-thinking, innovative, cutting edge, etc.) Is this different than current image perception?
-## **Project Features**
+#Project Features
 - Do you feel your current site promotes a favorable user experience? Why? Why not?
 - What specific areas of your current site do you feel are successful? Why are they successful?
 - What shortcomings exist with the current site?
@@ -88,7 +87,7 @@ Clients find it hard to frame their project. Some questions for the client:
 - Where is the website content coming from?
 - How is the site orgainzed?
 - What sites do you like?
-## **Administrative Details**
+#Administrative Details
 - What is your budget for this project?
 - Who are the decision makers for this project and what is the turnaround time?
 - What staff will be involved and what are their roles?
@@ -97,7 +96,7 @@ Clients find it hard to frame their project. Some questions for the client:
 - Who is in charge of the content and how much time will be dedicated to it?
 - Will this site use existing content from the current site?
 - Who is the main decision maker?
-## **Summary For Yourself**
+#Summary For Yourself
 - What are you doing?
 - Who are you doing it for?
 - Who are you working with?
@@ -107,7 +106,7 @@ Clients find it hard to frame their project. Some questions for the client:
 
 ## **Project Proposal Structure**
 
-#OPTIONAL (Keep this short)
+#Optional (Keep this short)
 1. Cover Page/Letter
     - Introduces the proposal.
     - Outlines a high level view.
