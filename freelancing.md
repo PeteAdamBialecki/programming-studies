@@ -40,15 +40,15 @@
 
 - [Behance](http://www.behance.net/joblist)
 
-## **Client/Project Information**
+# **Client/Project Information**
 
-#Beginning Questions
+## **Beginning Questions**
 - What excites you about this project? (motivations, problems with exisiting solutions, what are thier desired outcomes, etc.)
 - Tell me briefly about the company (what do you do, what do you sell, person/group/org, etc.)
 - What problems does your business solve.
 - What makes your service/product better than your competitor.
 - Why do you want this website (what are your goals).
-#What excites you about this project?
+- What excites you about this project?
 - Tell me briefly about your company
 - What makes your product better than those of competitors?
 - Describe your goal for this project in less than 10 seconds?
@@ -57,7 +57,7 @@
 - What are your primary online business objectives with the site redesign?
 - What are your secondary objectives? (Increase sales, reduce customer service calls, etc)
 - How will you measure the success of the solution?
-#General Questions
+## **General Questions**
 - Who is your target audience?
 - Describe your typical customer
 - What emotions do customers feel when using your product?
@@ -72,7 +72,7 @@
 - How do you plan to get repeat visitors?
 - What is the primary “action” the user should take when coming to your site? (purchase, become a member, search for information, etc.)
 - Use a few adjectives to describe how the user should perceive the new site. (Ex: prestigious, friendly, corporate, fun, forward-thinking, innovative, cutting edge, etc.) Is this different than current image perception?
-#Project Features
+## **Project Features**
 - Do you feel your current site promotes a favorable user experience? Why? Why not?
 - What specific areas of your current site do you feel are successful? Why are they successful?
 - What shortcomings exist with the current site?
@@ -87,7 +87,7 @@
 - Where is the website content coming from?
 - How is the site orgainzed?
 - What sites do you like?
-#Administrative Details
+## **Administrative Details**
 - What is your budget for this project?
 - Who are the decision makers for this project and what is the turnaround time?
 - What staff will be involved and what are their roles?
@@ -96,7 +96,7 @@
 - Who is in charge of the content and how much time will be dedicated to it?
 - Will this site use existing content from the current site?
 - Who is the main decision maker?
-#Summary For Yourself
+## **Summary For Yourself**
 - What are you doing?
 - Who are you doing it for?
 - Who are you working with?
@@ -104,9 +104,9 @@
 
 -----------------------------------------
 
-## **Project Proposal Structure**
+# **Project Proposal Structure**
 
-#Optional (Keep this short)
+## **Optional (Keep this short)**
 1. Cover Page/Letter
     - Introduces the proposal.
     - Outlines a high level view.
@@ -117,7 +117,7 @@
 3. Company Statement
     - Differentiate yourself and seperate yourself from the competitor
     - Who you are.
-#IMPORTANT
+## **IMPORTANT**
 4. Client Information
     - Client's information
     - Briefly describe the company's objective, goals, and the project
@@ -125,7 +125,7 @@
     - List goals for the project
     - List specific objectives discussed
     - Tie in project goals to business objectives
-#MOST IMPORTANT
+## **MOST IMPORTANT**
 6. Proposed Solution
     - High solutions
     - Answers the following questions:
@@ -141,7 +141,7 @@
     - What are the dependencies?
 9. Quote
 
-#PITCHING
+## **PITCHING**
 - Understand the client and their goals
 - Research the company and their history
 - Help them meet their goals
@@ -153,12 +153,11 @@
 
 -----------------------------------------
 
-## **PLANNING**
-
+# **PLANNING**
 - Project Plan Stages: Planning > Design > Development > Launch
 - Each stage may have deliverables, review periods, dependencies, payment
 
-#Stage 1: Planning
+## **Stage 1: Planning**
     - Requirement Analysis
         - Using a questionaire
         - Secitons like client goals, target audience, feature requests, etc.
@@ -170,26 +169,26 @@
     - Quotes
     - Project Proposals
 
-#Stage 2: Desgin
+Stage 2: Desgin
     - Mockups and Wireframes
     - Review and approval
         - Provide a flexible review process
         - Provide sufficient time for the client to get back to you
         - Educate the client and offer your opinions
 
-#Stage 3: Development
+Stage 3: Development
     - Develop custom solutions
     - Code Templates
     - Develop special features
     - Content
     - Test
 
-#Stage 4: Pre-Launch
+Stage 4: Pre-Launch
     - Clean up
     - Go live
     - Test
     - More tests...
-
+    
 ## **Non-Project Activities**
 - Administrative
     - Scheduling Future Work
@@ -239,6 +238,8 @@
 
 -----------------------------------------
 
+# **Client Contracts**
+
 ## **Contracts**
 - Identify Bad Clients
     - Poor communication
@@ -249,7 +250,7 @@
     - Working Relationship
     - Payment
     - Copyright Use
-    - Miscellaneous Legal 
+    - Miscellaneous Legal
     - At least:
         - A definition of the project you will be working on
         - Terms and conditions regarding payment
@@ -273,11 +274,6 @@
     - If scope was agreed upon in some form of communication, reference the prior communication
         "Specifications discussed and mutually agreed upon during the meeting on mm/dd/yyyy."
     - Project Proposal + Quote = Letter of Agreement or Engagement
-- Contract Checklist
-    1. Project Scope
-    2. Terms and Conditions regarding payment
-    3. Copyright protections
-    4. Other legal stuff
 - Payment Terms
     - Fees and estimates
         - Information specified in the quote
@@ -300,22 +296,28 @@
     - If the client tries to fix or adjust anything, you are not responsible for the fixes and bugs
     - State the jurisdiction where legal action should be taken
 
+## **Contract Checklist**
+1. Project Scope
+2. Terms and Conditions regarding payment
+3. Copyright protections
+4. Other legal stuff
 
-#Other Notes
+
+# **Other Notes**
 
 Killer Contract: https://gist.github.com/malarkey/4031110
 Contracts for Web Designers: http://webdesignlaw.com/contracts/forms-introduction
 
-## **Creating A Business**
+# **Creating A Business**
 
-#Forming a Company
+# **Forming a Company**
 - Legitimacy - Make your business official
 - Finances are seperate from your own
 - Liability
 - Growth to prepare for more employees
 - Taxes - Make use of business filing advantages
 
-#Business Entity Choices
+# **Business Entity Choices**
 - Sole Proprietorship
     - The owner is responsible for any debts owned by the business
     - Ownership is tied to the owner and cannot be transfered
@@ -343,7 +345,7 @@ Contracts for Web Designers: http://webdesignlaw.com/contracts/forms-introductio
     - Fill out the paper work
     - Apply for a business bank account
 
-#Bookkeeping and Taxes
+# **Bookkeeping and Taxes**
 - Expense reports
     - Hosting
     - Online Storage
