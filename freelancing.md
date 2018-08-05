@@ -343,4 +343,18 @@ Contracts for Web Designers: http://webdesignlaw.com/contracts/forms-introductio
     - Talk to a tax professional about your tax benefits
     - Fill out the paper work
     - Apply for a business bank account
-    
+
+#Bookkeeping and Taxes
+- Expense reports
+    - Hosting
+    - Online Storage
+    - Services
+- Track money coming in and out
+- Prepare for income tax at the end of the year or pay quarterly
+- Self-employment taxes
+- Log your income
+- Accountant to prevent any issues or surprises
+    - Good reputation
+    - Great commnicator
+    - Be an educator
+    - Be available
