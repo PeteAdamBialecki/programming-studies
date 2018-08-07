@@ -1,6 +1,6 @@
 # **TEAM TREEHOUSE**
 
-## **JULY 2018**
+## **JavaScript**
 
 ###### [Full Stack JavaScript (50 Hours)](https://teamtreehouse.com/tracks/full-stack-javascript)
 
@@ -54,7 +54,37 @@
 
 - Javascript Unit Testing (3 hours)
 
-## **AUGUST 2018**
+###### [Angular Basics (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)
+
+- Setting Up an Angular Application
+
+- Angular Components
+
+- Services in Angular
+
+- Angular Basic Forms
+
+- Angular Form Validation
+
+###### [ReactJS (9 Hours)](https://teamtreehouse.com/tracks/learn-react)
+
+- React Basics (3 hours)
+
+- Using Create React App (22 minutes)
+
+- React by Example (113 minutes)
+
+- React Router 4 Basics (76 minutes)
+
+- Building Applications with React and Redux (2 hours)
+
+- Data Fetching in React (29 minutes)
+
+- Animations in React (16 minutes)
+
+- What’s New in React 16 (26 minutes)
+
+## **Java**
 
 ###### [Learn Java (19 Hours)](https://teamtreehouse.com/tracks/learn-java)
 
@@ -73,8 +103,6 @@
 - Java Lambdas (16 minutes)
 
 - Build a JavaFX Application (3 hours)
-
-## **SEPTEMBER 2018**
 
 ###### [Java Web Development (37 Hours)](https://teamtreehouse.com/tracks/java-web-development)
 
@@ -116,39 +144,7 @@
 
 - Build a REST API in Spring (119 minutes)
 
-## **OCTOBER 2018**
-
-###### [Angular Basics (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)
-
-- Setting Up an Angular Application
-
-- Angular Components
-
-- Services in Angular
-
-- Angular Basic Forms
-
-- Angular Form Validation
-
-###### [ReactJS (9 Hours)](https://teamtreehouse.com/tracks/learn-react)
-
-- React Basics (3 hours)
-
-- Using Create React App (22 minutes)
-
-- React by Example (113 minutes)
-
-- React Router 4 Basics (76 minutes)
-
-- Building Applications with React and Redux (2 hours)
-
-- Data Fetching in React (29 minutes)
-
-- Animations in React (16 minutes)
-
-- What’s New in React 16 (26 minutes)
-
-## **NOVEMBER 2018**
+## **C#**
 
 ###### [Beginner C# (17 Hours)](https://teamtreehouse.com/tracks/beginning-c)
 
@@ -180,7 +176,7 @@
 
 - Unit Testing in C# (2 hours)
 
-## **DECEMBER 2018**
+## **Python**
 
 ###### [Learn Python (22 Hours)](https://teamtreehouse.com/tracks/learn-python)
 
@@ -201,8 +197,6 @@
 - Using Databases in Python (119 minutes)
 
 - Python Testing (77 minutes)
-
-## **JANUARY 2019**
 
 ###### [Beginning Python (17 hours)](https://teamtreehouse.com/tracks/beginning-python)
 
@@ -240,7 +234,7 @@
 
 - Functional Python (2 hours)
 
-## **FEBRUARY 2019**
+## **SQL**
 
 ###### [Beginning SQL (10 Hours)](https://teamtreehouse.com/tracks/beginning-sql)
 
@@ -255,6 +249,8 @@
 - Common Table Expressions Using WITH (18 minutes)
 
 - SQL Reporting by Example (64 minutes)
+
+## **PHP**
 
 ###### [Beginning PHP (15 Hours)](https://teamtreehouse.com/tracks/beginning-php)
 
@@ -272,8 +268,6 @@
 
 - Build a Basic PHP Website (5 hours)
 
-## **MARCH 2019**
-
 ###### [Intermediate PHP (15 hours)](https://teamtreehouse.com/tracks/intermediate-php)
 
 - SQL Basics (2 hours)
@@ -290,7 +284,7 @@
 
 - File Handling with PHP (101 minutes)
 
-## **APRIL 2019**
+## **Swift**
 
 ###### [Beginner Swift (14 hours)](https://teamtreehouse.com/tracks/beginning-swift)
 
@@ -318,7 +312,7 @@
 
 - Closures in Swift (2 hours)
 
-## **MAY 2019**
+## **Unity**
 
 ###### [Beginner Game Development with Unity (29 Hours)](https://teamtreehouse.com/tracks/beginner-game-development-with-unity)
 
@@ -341,6 +335,8 @@
 - Components in Unity (72 minutes)
 
 - Object Oriented Programming in Unity (107 minutes)
+
+## **Extra**
 
 ###### [Extra Team Treehouse Course](https://teamtreehouse.com/library)
 
@@ -476,7 +472,7 @@
 
 ~~DOM Scripting By Example~~
 
-# **ADDITIONAL**
+# **ADDITIONAL NOTES AND AREAS OF STUDY**
 
 ## **Cool Sites and Resources For Study**
 
