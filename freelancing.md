@@ -158,16 +158,16 @@
 - Each stage may have deliverables, review periods, dependencies, payment
 
 ## **Stage 1: Planning**
-    - Requirement Analysis
-        - Using a questionaire
-        - Secitons like client goals, target audience, feature requests, etc.
-    - Project Charter
-        - Summarizes information gathered during the requirements analysis
-        - Short document serving as a reference point
-        - Not always necessary
-    - Contracts
-    - Quotes
-    - Project Proposals
+- Requirement Analysis
+    - Using a questionaire
+    - Secitons like client goals, target audience, feature requests, etc.
+- Project Charter
+    - Summarizes information gathered during the requirements analysis
+    - Short document serving as a reference point
+    - Not always necessary
+- Contracts
+- Quotes
+- Project Proposals
 
 Stage 2: Desgin
     - Mockups and Wireframes
@@ -188,7 +188,7 @@ Stage 4: Pre-Launch
     - Go live
     - Test
     - More tests...
-    
+
 ## **Non-Project Activities**
 - Administrative
     - Scheduling Future Work
@@ -302,22 +302,23 @@ Stage 4: Pre-Launch
 3. Copyright protections
 4. Other legal stuff
 
-
-# **Other Notes**
+## **Other Notes**
 
 Killer Contract: https://gist.github.com/malarkey/4031110
 Contracts for Web Designers: http://webdesignlaw.com/contracts/forms-introduction
 
+-----------------------------------------
+
 # **Creating A Business**
 
-# **Forming a Company**
+## **Forming a Company**
 - Legitimacy - Make your business official
 - Finances are seperate from your own
 - Liability
 - Growth to prepare for more employees
 - Taxes - Make use of business filing advantages
 
-# **Business Entity Choices**
+## **Business Entity Choices**
 - Sole Proprietorship
     - The owner is responsible for any debts owned by the business
     - Ownership is tied to the owner and cannot be transfered
@@ -345,7 +346,7 @@ Contracts for Web Designers: http://webdesignlaw.com/contracts/forms-introductio
     - Fill out the paper work
     - Apply for a business bank account
 
-# **Bookkeeping and Taxes**
+## **Bookkeeping and Taxes**
 - Expense reports
     - Hosting
     - Online Storage
