@@ -42,9 +42,9 @@
 
 ~~Gulp Basics (2 hours)~~
 
-- Express Basics (4 hours) (Section 1 complete.)
+~~Express Basics (4 hours)~~
 
-- Mongo Basics (87 minutes)
+~~Mongo Basics (87 minutes)~~
 
 ~~Understanding Closures in Javascript~~
 
@@ -355,7 +355,7 @@
 
 - [How to Write a Business Plan (58 minutes)](https://teamtreehouse.com/library/how-to-write-a-business-plan)
 
-- [How to Freelance (172 minutes)](https://teamtreehouse.com/library/how-to-freelance) (Section 1, 2, & 3 Complete)
+~~How to Freelance (172 minutes)~~
 
 - [Copyright Business (100 minutes)](https://teamtreehouse.com/library/copyright-basics)
 

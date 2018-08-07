@@ -1,4 +1,4 @@
-## **Frelance Job Boards:**
+## **Freelance Job Boards:**
 
 - [oDesk](https://www.odesk.com/)
 
@@ -40,16 +40,15 @@
 
 - [Behance](http://www.behance.net/joblist)
 
-## **Client Questions**
+# **Client/Project Information**
 
-Clients find it hard to frame their project. Some questions for the client:
-
+## **Beginning Questions**
 - What excites you about this project? (motivations, problems with exisiting solutions, what are thier desired outcomes, etc.)
 - Tell me briefly about the company (what do you do, what do you sell, person/group/org, etc.)
 - What problems does your business solve.
 - What makes your service/product better than your competitor.
 - Why do you want this website (what are your goals).
-## **What excites you about this project?
+- What excites you about this project?
 - Tell me briefly about your company
 - What makes your product better than those of competitors?
 - Describe your goal for this project in less than 10 seconds?
@@ -105,9 +104,9 @@ Clients find it hard to frame their project. Some questions for the client:
 
 -----------------------------------------
 
-## **Project Proposal Structure**
+# **Project Proposal Structure**
 
-#OPTIONAL (Keep this short)#
+## **Optional (Keep this short)**
 1. Cover Page/Letter
     - Introduces the proposal.
     - Outlines a high level view.
@@ -118,7 +117,7 @@ Clients find it hard to frame their project. Some questions for the client:
 3. Company Statement
     - Differentiate yourself and seperate yourself from the competitor
     - Who you are.
-#IMPORTANT#
+## **IMPORTANT**
 4. Client Information
     - Client's information
     - Briefly describe the company's objective, goals, and the project
@@ -126,7 +125,7 @@ Clients find it hard to frame their project. Some questions for the client:
     - List goals for the project
     - List specific objectives discussed
     - Tie in project goals to business objectives
-#MOST IMPORTANT#
+## **MOST IMPORTANT**
 6. Proposed Solution
     - High solutions
     - Answers the following questions:
@@ -142,7 +141,7 @@ Clients find it hard to frame their project. Some questions for the client:
     - What are the dependencies?
 9. Quote
 
-#PITCHING#
+## **PITCHING**
 - Understand the client and their goals
 - Research the company and their history
 - Help them meet their goals
@@ -151,3 +150,213 @@ Clients find it hard to frame their project. Some questions for the client:
 - Be positive and communicate effectively
 - Tailor to client
 - Follow up every once in a while
+
+-----------------------------------------
+
+# **PLANNING**
+- Project Plan Stages: Planning > Design > Development > Launch
+- Each stage may have deliverables, review periods, dependencies, payment
+
+## **Stage 1: Planning**
+- Requirement Analysis
+    - Using a questionaire
+    - Secitons like client goals, target audience, feature requests, etc.
+- Project Charter
+    - Summarizes information gathered during the requirements analysis
+    - Short document serving as a reference point
+    - Not always necessary
+- Contracts
+- Quotes
+- Project Proposals
+
+Stage 2: Desgin
+    - Mockups and Wireframes
+    - Review and approval
+        - Provide a flexible review process
+        - Provide sufficient time for the client to get back to you
+        - Educate the client and offer your opinions
+
+Stage 3: Development
+    - Develop custom solutions
+    - Code Templates
+    - Develop special features
+    - Content
+    - Test
+
+Stage 4: Pre-Launch
+    - Clean up
+    - Go live
+    - Test
+    - More tests...
+
+## **Non-Project Activities**
+- Administrative
+    - Scheduling Future Work
+        - Time to secure new work
+        - Timeline for current project
+        - Budget
+    - Accounting
+    - Communication
+        - Good timing on answering emails
+        - Save drafts for common questions
+        - Designate time for this.  Don't let it get in the way of your creative work
+        - Client relations
+- Education
+    - Conferences, meetups, talks
+    - Online courses
+- Marketing
+    - Networking
+    - Blogging and teaching
+    - Increaseing brand awareness
+
+## **Review and Approval**
+- Provide guidelines
+    - Explain reactions: What do they not like and why.
+    - Show examples
+    - Proper attitude
+- Present your desings
+- Provide explainations and documentation
+- Control Feedback (Everything should be judged on the users perspective)
+- Presenting Your Designs
+    - Set up a meeting with local clients to walk through designs
+    - Host the website on a server and schedul a phone call for remote clients
+        - InVision App
+
+## **Basic Invoicing**
+- Accounting Solutions Online
+    - LessAccounting
+    - Freshbooks
+    - Xero
+- Accounting Software
+    - Easy to use
+    - Invoice with ease
+    - Track expenses
+- Invoice Example (with FreshBooks)
+    - Be polite
+    - Be thankful
+    - Avoid technical jargon
+
+-----------------------------------------
+
+# **Client Contracts**
+
+## **Contracts**
+- Identify Bad Clients
+    - Poor communication
+    - Can't explain the project well
+    - Avoids pricing discussions
+    - Against contracts
+- Contract Main Areas
+    - Working Relationship
+    - Payment
+    - Copyright Use
+    - Miscellaneous Legal
+    - At least:
+        - A definition of the project you will be working on
+        - Terms and conditions regarding payment
+        - Copyright protection and limitations on the use of your work
+        - Protection in the event of a dispute
+- Types Of Contract
+    - Oral Agreements
+    - Letter of agreement
+        - Includes the scope of work, timeline and payment terms
+        - Usually presented as a project proposal and quote
+    - Purchase Order
+        - Assigns the work to you and indicates payment
+        - Care is advised when signing such contracts
+    - Working Contracts *
+        - Most common type of contract
+        - Need to be executed properly to avoid friction
+        - Best used with complex projects and large or unknown clients
+- Contract: Project Scope
+    - If a proposal exists, reference the proposal in the contract
+        "The project will be built according to the specifications detailed in the Proposal signed and dated mm/dd/yyy."
+    - If scope was agreed upon in some form of communication, reference the prior communication
+        "Specifications discussed and mutually agreed upon during the meeting on mm/dd/yyyy."
+    - Project Proposal + Quote = Letter of Agreement or Engagement
+- Payment Terms
+    - Fees and estimates
+        - Information specified in the quote
+        - How much are you charging?
+        - How did you arrive at this estimate?
+    - Payment Schedule
+- Copyright
+    - Transfer of ownership
+    - Right to use the work
+    *** "You, the client, guarantee that any assets such as text, graphics, photos, designs, trademarks or any other artwork, provided for use in the project belong to you, or that you have the permission to use them."
+    - Once the work is done, its their files. You move on.
+- Legal
+    - Authorization
+        - The client is contracting you to provide a service (you are not their employee)
+        - You are authorized to provide services and can access the resources necessary to do so
+        - The client cannot control where, how, and when you work
+    - Content
+        - Indicate who provides the content
+        - Indicate the penalty for not recieving content necessary for the project
+    - If the client tries to fix or adjust anything, you are not responsible for the fixes and bugs
+    - State the jurisdiction where legal action should be taken
+
+## **Contract Checklist**
+1. Project Scope
+2. Terms and Conditions regarding payment
+3. Copyright protections
+4. Other legal stuff
+
+## **Other Notes**
+
+Killer Contract: https://gist.github.com/malarkey/4031110
+Contracts for Web Designers: http://webdesignlaw.com/contracts/forms-introduction
+
+-----------------------------------------
+
+# **Creating A Business**
+
+## **Forming a Company**
+- Legitimacy - Make your business official
+- Finances are seperate from your own
+- Liability
+- Growth to prepare for more employees
+- Taxes - Make use of business filing advantages
+
+## **Business Entity Choices**
+- Sole Proprietorship
+    - The owner is responsible for any debts owned by the business
+    - Ownership is tied to the owner and cannot be transfered
+    - Owners retain complete control
+    - File taxes with personal taxes
+    - Minimal costs involved
+    - CON: You pay employee taxes
+    - CON: No liability insurance
+- Partnerships
+- Corporation
+    - Seperate from owners
+    - Great liability insurance
+    - CONS: Very expensive
+    - Unnecessary paper work
+- LLC
+    - Unlimited number of owners
+    - Liability protection
+    - Income is taxd once
+- S-Corp
+    - Owners only pay taxes on their share of the profits
+    - Liabilty protection
+- Steps to Forming A Business Entity
+    - Research the type of entity
+    - Talk to a tax professional about your tax benefits
+    - Fill out the paper work
+    - Apply for a business bank account
+
+## **Bookkeeping and Taxes**
+- Expense reports
+    - Hosting
+    - Online Storage
+    - Services
+- Track money coming in and out
+- Prepare for income tax at the end of the year or pay quarterly
+- Self-employment taxes
+- Log your income
+- Accountant to prevent any issues or surprises
+    - Good reputation
+    - Great commnicator
+    - Be an educator
+    - Be available
