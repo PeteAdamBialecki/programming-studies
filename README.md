@@ -84,6 +84,72 @@
 
 - What’s New in React 16 (26 minutes)
 
+###### [Every Other JavaScript Course on Team Treehouse About JavaScript](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)
+
+- Treehouse Club - MASH (117 minutes)
+
+- Treehouse Club: JavaScript (54 minutes)
+
+- Build A Cross Platform Desktop Application with Electron (13 minutes)
+
+- Callback Functions in JavaScript (60 minutes)
+
+- Debugging JavaScript in the Browser (39 minutes)
+
+- JavaScript Array Iteration Methods (97 minutes)
+
+- JavaScript Quickstart (97 minutes)
+
+- Practice Arrow Functions in JavaScript (8 minutes)
+
+- Practice Basic Arrays in JavaScript (26 minutes)
+
+- Practice Basic JavaScript Functions (7 minutes)
+
+- Practice Basic jQuery Methods (8 minutes)
+
+- Practice Basic Variables, Input & Output in JavaScript (6 minutes)
+
+- Practice forEach in JavaScript (30 minutes)
+
+- Practice Handling Events in jQuery (8 minutes)
+
+- Practice Hashing Passwords in JavaScript (4 minutes)
+
+- Practice If and Else If Statements (7 minutes)
+
+- Practice JavaScript Loops (11 minutes)
+
+- Practice JavaScript Math Methods (8 minutes)
+
+- Practice Let and Const in JavaScript (8 minutes)
+
+- Practice Object Literals in JavaScript (20 minutes)
+
+- Practice Selecting DOM Elements (8 minutes)
+
+- Practice Template Literals (5 minutes)
+
+- Practicing Traversing the DOM (5 minutes)
+
+- Practice Working with jQuery Collections (6 minutes)
+
+- Programming Step-By-Step: Object-Oriented JavaScript (41 minutes)
+
+- The JavaScript 'use-sctrict' Statement (18 minutes)
+
+- The JavaScript Ecosystem (29 minutes)
+
+- The Landscape of JavaScript (44 minutes)
+
+- Using the Angular CLI (37 minutes)
+
+- Using the Geolocation API in JavaScript (20 minutes)
+
+- Vue.js Basics (2 hours)
+
+- Adding MongoDB To Your Node.js Application (5 minutes)
+
 ## **Java**
 
 ###### [Learn Java (19 Hours)](https://teamtreehouse.com/tracks/learn-java)
