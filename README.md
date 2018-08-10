@@ -48,7 +48,7 @@
 
 ~~Understanding Closures in Javascript~~
 
-- User Authentication with Express and Mongo (2 hours) (Sections 1, 2, & 3 complete. Finish section 4.)
+~~User Authentication with Express and Mongo (2 hours)~~
 
 - Build a REST API with Express (3 hours)
 
