@@ -150,6 +150,31 @@
 
 - Adding MongoDB To Your Node.js Application (5 minutes)
 
+- AngularJS Basics (1.x) (197 minutes)
+
+- Animations in React (16 minutes)
+
+- Building a MEAN Application (140 minutes)
+
+- Code Coverage with Istanbul (10 minutes)
+
+- Data Fetching in React (29 minutes)
+
+- Debugging Node Applications with Google Chrome (13 minutes)
+
+- Deploy a Node Application to Heroku (12 minutes)
+
+- Deploy your App to GitHub Pages with Gulp (9 minutes)
+
+- Getting Started with webpack-1 (22 minutes)
+
+- How to Create and Distribute and NPM Package ()
+
+- JavaScript and the Internet of Things (13 minutes)
+
+
+
+
 ## **Java**
 
 ###### [Learn Java (19 Hours)](https://teamtreehouse.com/tracks/learn-java)
