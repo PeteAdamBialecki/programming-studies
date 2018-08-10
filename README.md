@@ -488,6 +488,8 @@
 
 - Gulp Task Runner
 
+- DevOps
+
 - Grunt Task Runner
 
 - Dependency
