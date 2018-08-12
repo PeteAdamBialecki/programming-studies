@@ -50,7 +50,7 @@
 
 ~~User Authentication with Express and Mongo (2 hours)~~
 
-- Build a REST API with Express (3 hours)
+- Build a REST API with Express (3 hours) (Section 1 Complete.)
 
 - Javascript Unit Testing (3 hours)
 
