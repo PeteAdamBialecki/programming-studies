@@ -172,6 +172,45 @@
 
 - JavaScript and the Internet of Things (13 minutes)
 
+- OAuth Authentication With Passport (44 minutes)
+
+- Practice Manipulating the DOM (8  minutes)
+
+- Regular Expressions in JavaScript (87 minutes)
+
+- Understanding Express Middleware (23 minutes)
+
+- Understanding Promises in JavaScript (22 minutes)
+
+- Using Create React Native App (17 minutes)
+
+- Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
+
+- Using Local Storage with JavaScript (23 minutes)
+
+- Using SQL and Node.js with Sequelize (44 minutes)
+
+- What's New in React 16 (26 minutes)
+
+- Working with the Fetch API (44 minutes)
+
+- Getting Started with TypeScript (43  minutes)
+
+- Introduction to Babel (19 minutes)
+
+- Introduction to React Native (79 minutes)
+
+- Programming Step-by-Step: Object-Oriented JavaScript (Part 2) ) (30 minutes)
+
+- Setting Up Travis CI with Node.js (13 minutes)
+
+- Testing React Components with Enzyme (25 minutes)
+
+- jQuery UK 2014 (5 hours)
+
+- Learn React Panel (45 minutes)
+
+
 
 
 
