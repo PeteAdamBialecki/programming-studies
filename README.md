@@ -4,7 +4,7 @@ This is where I keep track of all of programming studies, notes, ideas, and thou
 
 ## **Cool Sites and Resources For Study**
 
-- [Front-End Development Resources and Guides] (https://gist.github.com/dypsilon/5819504) (This is impressive!)
+- [Front-End Development Resources and Guides](https://gist.github.com/dypsilon/5819504)
 
 - Azure Software
 
