@@ -41,6 +41,10 @@
 
 - [ObservableHQ.com](https://beta.observablehq.com/collection/introduction)
 
+- [Front-End Libraries and Frameworks](https://medium.com/learnwithrahul/introduction-to-some-kick-ass-front-end-libraries-tools-963f55152f4b)
+
+- [More Front-End Libraries and Frameworks](http://frontenddeveloperjob.com/front-end-libraries-frameworks/)
+
 ## **Notes and Future Ideas**
 
 - MEAN Stack Developer (MongoDB, Express.js, Angular.js, Node.js, Ruby, Python, Cloud etc.)
