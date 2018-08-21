@@ -4,9 +4,9 @@
 
 ###### [D3.js Data Visualization Fundamentals (4.5 Hours)](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)
 
-- The Basics (34 minutes)
+~~The Basics (34 minutes)~~
 
-- Basic Charting (43 minutes)
+- Basic Charting (43 minutes) (Continue with "Adding Labels")
 
 - Working with Data Part 1 - External Data Sources (35 minutes)
 
