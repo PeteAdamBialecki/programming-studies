@@ -54,18 +54,6 @@
 
 - Javascript Unit Testing (3 hours)
 
-###### [Angular Basics (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)
-
-- Setting Up an Angular Application
-
-- Angular Components
-
-- Services in Angular
-
-- Angular Basic Forms
-
-- Angular Form Validation
-
 ###### [ReactJS (9 Hours)](https://teamtreehouse.com/tracks/learn-react)
 
 - React Basics (3 hours)
@@ -83,6 +71,18 @@
 - Animations in React (16 minutes)
 
 - What’s New in React 16 (26 minutes)
+
+###### [Angular Basics (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)
+
+- Setting Up an Angular Application
+
+- Angular Components
+
+- Services in Angular
+
+- Angular Basic Forms
+
+- Angular Form Validation
 
 ###### [Every Other JavaScript Course on Team Treehouse About JavaScript](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)
 
