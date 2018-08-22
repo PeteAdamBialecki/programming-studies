@@ -6,7 +6,7 @@
 
 ~~The Basics (34 minutes)~~
 
-- Basic Charting (43 minutes) (Continue with "Adding Labels")
+~~Basic Charting (43 minutes)~~
 
 - Working with Data Part 1 - External Data Sources (35 minutes)
 
