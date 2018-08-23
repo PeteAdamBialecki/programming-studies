@@ -8,7 +8,7 @@
 
 ~~Basic Charting (43 minutes)~~
 
-- Working with Data Part 1 - External Data Sources (35 minutes)
+~~Working with Data Part 1 - External Data Sources (35 minutes)~~
 
 - Working with data Part 2 - Getting Data from Web APIs (20 minutes)
 
