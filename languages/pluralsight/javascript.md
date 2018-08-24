@@ -12,7 +12,7 @@
 
 ~~Part 4:Working with data Part 2 - Getting Data from Web APIs (20 minutes)~~
 
-- Enhancing Your Viz Part 1 - Scales and Axis (34 minutes)
+~~Part 5: Enhancing Your Viz Part 1 - Scales and Axis (34 minutes)~~
 
 - Enhancing Your Viz Part 2 - Interactivity (44 minutes)
 
