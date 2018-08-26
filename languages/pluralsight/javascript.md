@@ -14,7 +14,7 @@
 
 ~~Part 5: Enhancing Your Viz Part 1 - Scales and Axis (34 minutes)~~
 
-- Enhancing Your Viz Part 2 - Interactivity (44 minutes)
+~~Enhancing Your Viz Part 2 - Interactivity (44 minutes)~~
 
 - Mapping (28 minutes)
 
