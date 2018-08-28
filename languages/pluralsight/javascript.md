@@ -14,11 +14,11 @@
 
 ~~Part 5: Enhancing Your Viz Part 1 - Scales and Axis (34 minutes)~~
 
-~~Enhancing Your Viz Part 2 - Interactivity (44 minutes)~~
+~~Part 6: Enhancing Your Viz Part 2 - Interactivity (44 minutes)~~
 
-- Mapping (28 minutes)
+~~Part 7: Mapping (28 minutes)~~
 
-- Pulling It All Together (34 minutes)
+- Part 8: Pulling It All Together (34 minutes)
 
 ###### [Geospatial Mapping with D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/geospatial-mapping-d3/table-of-contents)
 
