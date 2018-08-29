@@ -72,6 +72,23 @@
 
 - What’s New in React 16 (26 minutes)
 
+Extra
+
+- Animations in React (16 minutes)
+
+- Using Create React Native App (17 minutes)
+
+- Testing React Components with Enzyme (25 minutes)
+
+- What's New in React 16 (26 minutes)
+
+- Data Fetching in React (29 minutes)
+
+- Learn React Panel (45 minutes)
+
+- Introduction to React Native (79 minutes)
+
+
 ###### [Angular Basics (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)
 
 - Setting Up an Angular Application
@@ -83,6 +100,13 @@
 - Angular Basic Forms
 
 - Angular Form Validation
+
+Extra
+
+- Using the Angular CLI (37 minutes)
+
+- AngularJS Basics (1.x) (197 minutes)
+
 
 ###### [Every Other JavaScript Course on Team Treehouse About JavaScript](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)
 
@@ -142,23 +166,15 @@
 
 - The Landscape of JavaScript (44 minutes)
 
-- Using the Angular CLI (37 minutes)
-
 - Using the Geolocation API in JavaScript (20 minutes)
 
 - Vue.js Basics (2 hours)
 
 - Adding MongoDB To Your Node.js Application (5 minutes)
 
-- AngularJS Basics (1.x) (197 minutes)
-
-- Animations in React (16 minutes)
-
 - Building a MEAN Application (140 minutes)
 
 - Code Coverage with Istanbul (10 minutes)
-
-- Data Fetching in React (29 minutes)
 
 - Debugging Node Applications with Google Chrome (13 minutes)
 
@@ -182,15 +198,11 @@
 
 - Understanding Promises in JavaScript (22 minutes)
 
-- Using Create React Native App (17 minutes)
-
 - Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
 
 - Using Local Storage with JavaScript (23 minutes)
 
 - Using SQL and Node.js with Sequelize (44 minutes)
-
-- What's New in React 16 (26 minutes)
 
 - Working with the Fetch API (44 minutes)
 
@@ -198,14 +210,8 @@
 
 - Introduction to Babel (19 minutes)
 
-- Introduction to React Native (79 minutes)
-
 - Programming Step-by-Step: Object-Oriented JavaScript (Part 2) ) (30 minutes)
 
 - Setting Up Travis CI with Node.js (13 minutes)
 
-- Testing React Components with Enzyme (25 minutes)
-
 - jQuery UK 2014 (5 hours)
-
-- Learn React Panel (45 minutes)
