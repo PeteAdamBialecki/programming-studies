@@ -110,47 +110,9 @@ Extra
 
 ###### [Every Other JavaScript Course on Team Treehouse About JavaScript](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)
 
-- Treehouse Club - MASH (117 minutes)
-
-- Treehouse Club: JavaScript (54 minutes)
-
-- Build A Cross Platform Desktop Application with Electron (13 minutes)
-
-- Callback Functions in JavaScript (60 minutes)
-
-- Debugging JavaScript in the Browser (39 minutes)
-
-- JavaScript Array Iteration Methods (97 minutes)
-
-- JavaScript Quickstart (97 minutes)
-
-- Practice Arrow Functions in JavaScript (8 minutes)
-
-- Practice Basic Arrays in JavaScript (26 minutes)
-
-- Practice Basic JavaScript Functions (7 minutes)
-
-- Practice Basic jQuery Methods (8 minutes)
-
-- Practice Basic Variables, Input & Output in JavaScript (6 minutes)
-
-- Practice forEach in JavaScript (30 minutes)
-
-- Practice Handling Events in jQuery (8 minutes)
-
 - Practice Hashing Passwords in JavaScript (4 minutes)
 
-- Practice If and Else If Statements (7 minutes)
-
-- Practice JavaScript Loops (11 minutes)
-
-- Practice JavaScript Math Methods (8 minutes)
-
-- Practice Let and Const in JavaScript (8 minutes)
-
-- Practice Object Literals in JavaScript (20 minutes)
-
-- Practice Selecting DOM Elements (8 minutes)
+- Adding MongoDB To Your Node.js Application (5 minutes)
 
 - Practice Template Literals (5 minutes)
 
@@ -158,60 +120,96 @@ Extra
 
 - Practice Working with jQuery Collections (6 minutes)
 
-- Programming Step-By-Step: Object-Oriented JavaScript (41 minutes)
+- Practice Basic Variables, Input & Output in JavaScript (6 minutes)
 
-- The JavaScript 'use-sctrict' Statement (18 minutes)
+- Practice Basic JavaScript Functions (7 minutes)
 
-- The JavaScript Ecosystem (29 minutes)
+- Practice If and Else If Statements (7 minutes)
 
-- The Landscape of JavaScript (44 minutes)
+- Practice JavaScript Math Methods (8 minutes)
 
-- Using the Geolocation API in JavaScript (20 minutes)
+- Practice Manipulating the DOM (8 minutes)
 
-- Vue.js Basics (2 hours)
+- Practice Let and Const in JavaScript (8 minutes)
 
-- Adding MongoDB To Your Node.js Application (5 minutes)
+- How to Create and Distribute and NPM Package (8 minutes)
 
-- Building a MEAN Application (140 minutes)
+- Practice Arrow Functions in JavaScript (8 minutes)
 
-- Code Coverage with Istanbul (10 minutes)
+- Practice Handling Events in jQuery (8 minutes)
 
-- Debugging Node Applications with Google Chrome (13 minutes)
+- Practice Selecting DOM Elements (8 minutes)
 
-- Deploy a Node Application to Heroku (12 minutes)
+- Practice Basic jQuery Methods (8 minutes)
 
 - Deploy your App to GitHub Pages with Gulp (9 minutes)
 
-- Getting Started with webpack-1 (22 minutes)
+- Code Coverage with Istanbul (10 minutes)
 
-- How to Create and Distribute and NPM Package ()
+- Practice JavaScript Loops (11 minutes)
+
+- Deploy a Node Application to Heroku (12 minutes)
+
+- Debugging Node Applications with Google Chrome (13 minutes)
+
+- Setting Up Travis CI with Node.js (13 minutes)
+
+- Build A Cross Platform Desktop Application with Electron (13 minutes)
 
 - JavaScript and the Internet of Things (13 minutes)
 
-- OAuth Authentication With Passport (44 minutes)
+- Animations in React (16 minutes)
 
-- Practice Manipulating the DOM (8  minutes)
+- Using Create React Native App (17 minutes)
 
-- Regular Expressions in JavaScript (87 minutes)
-
-- Understanding Express Middleware (23 minutes)
-
-- Understanding Promises in JavaScript (22 minutes)
-
-- Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
-
-- Using Local Storage with JavaScript (23 minutes)
-
-- Using SQL and Node.js with Sequelize (44 minutes)
-
-- Working with the Fetch API (44 minutes)
-
-- Getting Started with TypeScript (43  minutes)
+- The JavaScript 'use-sctrict' Statement (18 minutes)
 
 - Introduction to Babel (19 minutes)
 
+- Using the Geolocation API in JavaScript (20 minutes)
+
+- Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
+
+- Getting Started with webpack-1 (22 minutes)
+
+- Building a MEAN Application (140 minutes)
+
+- Testing React Components with Enzyme (25 minutes)
+
+- Debugging Node Applications with Google Chrome (13 minutes)
+
+- The JavaScript Ecosystem (29 minutes)
+
+- Data Fetching in React (29 minutes)
+
+- Programming Step-by-Step: Object-Oriented JavaScript (Part 2) (30 minutes)
+
+- Practice forEach in JavaScript (30 minutes)
+
+- Debugging JavaScript in the Browser (39 minutes)
+
+- Programming Step-By-Step: Object-Oriented JavaScript (Part 1) (41 minutes)
+
+- Getting Started with TypeScript (43  minutes)
+
+- The Landscape of JavaScript (44 minutes)
+
+- OAuth Authentication With Passport (44 minutes)
+
+- Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
+
+- Learn React Panel (45 minutes)
+
+- Treehouse Club: JavaScript (54 minutes)
+
+- Working with the Fetch API (44 minutes)
+
+- Regular Expressions in JavaScript (87 minutes)
+
+- JavaScript Array Iteration Methods (97 minutes)
+
 - Programming Step-by-Step: Object-Oriented JavaScript (Part 2) ) (30 minutes)
 
-- Setting Up Travis CI with Node.js (13 minutes)
+- Vue.js Basics (2 hours)
 
 - jQuery UK 2014 (5 hours)

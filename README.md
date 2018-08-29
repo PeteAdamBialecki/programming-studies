@@ -8,6 +8,8 @@ This is where I keep track of all of programming studies, notes, ideas, and thou
 
 - Azure Software
 
+- [Data.gov](https://www.data.gov/developers/apis) for interesting resources on data that oyu can use for REST APIs and D3.js visualizations.
+
 - [ObservableHQ.com](https://beta.observablehq.com/collection/introduction)
 
 ## **Notes and Future Ideas**
@@ -45,3 +47,6 @@ This is where I keep track of all of programming studies, notes, ideas, and thou
 - Sr. Front-End Developer
 
 - Fullstack Javascript Developer
+
+...SSH Test...
+...another SSH test...
