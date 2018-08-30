@@ -22,9 +22,9 @@
 
 ###### [Geospatial Mapping with D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/geospatial-mapping-d3/table-of-contents)
 
-- Course Overview (1 minute)
+~~Course Overview (1 minute)~~
 
-- Introduction (18 minutes)
+~~Introduction (18 minutes)~~
 
 - Working with Geospatial Data (1 hour)
 
