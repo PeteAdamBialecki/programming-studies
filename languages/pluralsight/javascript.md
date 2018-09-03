@@ -26,7 +26,7 @@
 
 ~~Introduction (18 minutes)~~
 
-- Working with Geospatial Data (1 hour) (Part 1 - 8 Complete. Continue with "Converting Shapefiles", "Clipping Shapefiles", and then "Filtering Shapefiles".)
+~~Working with Geospatial Data (1 hour)~~
 
 - Drawing Maps with D3 (1.5 hours)
 
