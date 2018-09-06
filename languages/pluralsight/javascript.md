@@ -1,27 +1,25 @@
-# **PLURALSIGHT**
+# **Pluralsight JavaScript Courses**
 
-## **JavaScript**
+## **[Complete List Of JavaScript Courses](https://app.pluralsight.com/paths/skills/javascript)**
 
-###### [Complete JavaScript Courses](https://app.pluralsight.com/paths/skills/javascript)
+[HTML, CSS, and JavaScript: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/table-of-contents)
 
-- [HTML, CSS, and JavaScript: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/table-of-contents)
+[JavaScript: Getting Started (3 Hours)](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
 
-- [JavaScript: Getting Started (3 Hours)](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
+[JavaScript Fundamentals (3 Hours)](https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents)
 
-- [JavaScript Fundamentals (3 Hours)](https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents)
+[JavaScript Objects and Prototypes (1 Hour)](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents)
 
-- [JavaScript Objects and Prototypes (1 Hour)](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents)
+[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)
 
-- [Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)
+[Advanced Techniques in JavaScript and jQuery (3.5 Hours)](https://app.pluralsight.com/library/courses/javascript-jquery-advanced-techniques/table-of-contents)
 
-- [Advanced Techniques in JavaScript and jQuery (3.5 Hours)](https://app.pluralsight.com/library/courses/javascript-jquery-advanced-techniques/table-of-contents)
+[JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)
 
-- [JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)
-
-- [Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)
+[Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)
 
 
-###### [D3.js Data Visualization Fundamentals (4.5 Hours)](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)
+## **[D3.js Data Visualization Fundamentals (4.5 Hours)](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)**
 
 ~~Part 1: The Basics (34 minutes)~~
 
@@ -39,7 +37,7 @@
 
 ~~Part 8: Pulling It All Together (34 minutes)~~
 
-###### [Geospatial Mapping with D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/geospatial-mapping-d3/table-of-contents)
+## **[Geospatial Mapping with D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/geospatial-mapping-d3/table-of-contents)**
 
 ~~Course Overview (1 minute)~~
 
@@ -49,12 +47,82 @@
 
 - Drawing Maps with D3 (1.5 hours)
 
-###### [Interactive Data Visualization with D3.js (5.5 Hours)](https://app.pluralsight.com/library/courses/interactive-data-visualization-d3js/table-of-contents)
+## **[Interactive Data Visualization with D3.js (5.5 Hours)](https://app.pluralsight.com/library/courses/interactive-data-visualization-d3js/table-of-contents)**
 
-###### [Data Visualization for Developers (2 Hours)](https://app.pluralsight.com/library/courses/data-visualization-developers/table-of-contents)
+- Pre-Game
 
-###### [Data Analysis Fundamentals with Tableau (5 Hours)](https://app.pluralsight.com/library/courses/data-analysis-fundamentals-tableau/table-of-contents)
+- SVG Overview
 
-###### [Real-Time Web Dashboards with Highcharts (3.5 Hours)](https://app.pluralsight.com/library/courses/real-time-web-dashboards-highcharts/table-of-contents)
+- Binding API
 
-###### [Beginning Data Visualization with R (3 Hours)](https://app.pluralsight.com/library/courses/r-data-visualization-beginner/table-of-contents)
+- Non-Binding API
+
+- Reusable Charts
+
+- Application Patterns
+
+- Connecting the Charts
+
+- Diving Board
+
+## **[Data Visualization for Developers (2 Hours)](https://app.pluralsight.com/library/courses/data-visualization-developers/table-of-contents)**
+
+- Introduction
+
+- Charting - 1A
+
+- Business Intelligence
+
+- Visualization Architecture
+
+- Hands-On Visualization
+
+## **[Data Analysis Fundamentals with Tableau (5 Hours)](https://app.pluralsight.com/library/courses/data-analysis-fundamentals-tableau/table-of-contents)**
+
+- Introduction to Tableau
+
+- Getting Dirty With Your Data
+
+- Show Me The Data!
+
+- Adding The Intelligence Factor
+
+- Painting The Whole Picture
+
+- Sharing Your Work
+
+## **[Real-Time Web Dashboards with Highcharts (3.5 Hours)](https://app.pluralsight.com/library/courses/real-time-web-dashboards-highcharts/table-of-contents)**
+
+- Course Overview
+
+- Getting Started
+
+- Setup
+
+- Charting Concepts
+
+- Building Charts
+
+- Working with Data
+
+- Creating Themes
+
+- Building A Real-Time Dashboard
+
+## **[Beginning Data Visualization with R (3 Hours)](https://app.pluralsight.com/library/courses/r-data-visualization-beginner/table-of-contents)**
+
+- Course Overview
+
+- Introduction
+
+- Visualizing One Categorical Variable
+
+- Visualizing One Numeric Variable
+
+- Visualizing Two Categorical Variables
+
+- Visualizing Two Numerical Variables
+
+- Visualizing Both A Catagorical and a Numeric Variable
+
+- Moving Beyond The Basics
