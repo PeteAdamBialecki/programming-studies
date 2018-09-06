@@ -49,10 +49,80 @@
 
 ## **[Interactive Data Visualization with D3.js (5.5 Hours)](https://app.pluralsight.com/library/courses/interactive-data-visualization-d3js/table-of-contents)**
 
+- Pre-Game
+
+- SVG Overview
+
+- Binding API
+
+- Non-Binding API
+
+- Reusable Charts
+
+- Application Patterns
+
+- Connecting the Charts
+
+- Diving Board
+
 ## **[Data Visualization for Developers (2 Hours)](https://app.pluralsight.com/library/courses/data-visualization-developers/table-of-contents)**
+
+- Introduction
+
+- Charting - 1A
+
+- Business Intelligence
+
+- Visualization Architecture
+
+- Hands-On Visualization
 
 ## **[Data Analysis Fundamentals with Tableau (5 Hours)](https://app.pluralsight.com/library/courses/data-analysis-fundamentals-tableau/table-of-contents)**
 
+- Introduction to Tableau
+
+- Getting Dirty With Your Data
+
+- Show Me The Data!
+
+- Adding The Intelligence Factor
+
+- Painting The Whole Picture
+
+- Sharing Your Work
+
 ## **[Real-Time Web Dashboards with Highcharts (3.5 Hours)](https://app.pluralsight.com/library/courses/real-time-web-dashboards-highcharts/table-of-contents)**
 
+- Course Overview
+
+- Getting Started
+
+- Setup
+
+- Charting Concepts
+
+- Building Charts
+
+- Working with Data
+
+- Creating Themes
+
+- Building A Real-Time Dashboard
+
 ## **[Beginning Data Visualization with R (3 Hours)](https://app.pluralsight.com/library/courses/r-data-visualization-beginner/table-of-contents)**
+
+- Course Overview
+
+- Introduction
+
+- Visualizing One Categorical Variable
+
+- Visualizing One Numeric Variable
+
+- Visualizing Two Categorical Variables
+
+- Visualizing Two Numerical Variables
+
+- Visualizing Both A Catagorical and a Numeric Variable
+
+- Moving Beyond The Basics
