@@ -1,8 +1,6 @@
-# **TEAM TREEHOUSE**
+# **Team Treehouse JavaScript Courses**
 
-## **JavaScript**
-
-###### [Full Stack JavaScript (50 Hours)](https://teamtreehouse.com/tracks/full-stack-javascript)
+## **[Full Stack JavaScript (50 Hours)](https://teamtreehouse.com/tracks/full-stack-javascript)**
 
 ~~Introducing Javascript~~
 
