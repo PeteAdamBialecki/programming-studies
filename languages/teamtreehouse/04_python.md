@@ -1,8 +1,6 @@
-# **TEAM TREEHOUSE**
+# **Team Treehouse Python Courses**
 
-## **Python**
-
-###### [Learn Python (22 Hours)](https://teamtreehouse.com/tracks/learn-python)
+## **[Learn Python (22 Hours)](https://teamtreehouse.com/tracks/learn-python)**
 
 - Python Basics (3 hours)
 
@@ -22,7 +20,7 @@
 
 - Python Testing (77 minutes)
 
-###### [Beginning Python (17 hours)](https://teamtreehouse.com/tracks/beginning-python)
+## **[Beginning Python (17 hours)](https://teamtreehouse.com/tracks/beginning-python)**
 
 - Python Basics (3 hours)
 
@@ -38,7 +36,7 @@
 
 - Dates and Times in Python (2 hours)
 
-###### [Intermediate Python (9 hours)](https://teamtreehouse.com/tracks/intermediate-python)
+## **[Intermediate Python (9 hours)](https://teamtreehouse.com/tracks/intermediate-python)**
 
 - Regular Expressions in Python (110 minutes)
 

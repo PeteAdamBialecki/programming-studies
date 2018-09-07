@@ -1,8 +1,6 @@
-# **TEAM TREEHOUSE**
+# **Team Treehouse Swift Courses**
 
-## **Swift**
-
-###### [Beginner Swift (14 hours)](https://teamtreehouse.com/tracks/beginning-swift)
+## **[Beginner Swift (14 hours)](https://teamtreehouse.com/tracks/beginning-swift)**
 
 - Swift Basics (2 hours)
 
@@ -18,7 +16,7 @@
 
 - Error Handling in Swift (64 minutes)
 
-###### [Intermediate Swift (9 hours)](https://teamtreehouse.com/tracks/intermediate-swift)
+## **[Intermediate Swift (9 hours)](https://teamtreehouse.com/tracks/intermediate-swift)**
 
 - Intermediate Swift (3 hours)
 

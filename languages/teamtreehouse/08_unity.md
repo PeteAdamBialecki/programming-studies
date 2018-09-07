@@ -1,8 +1,6 @@
-# **TEAM TREEHOUSE**
+# **Team Treehouse Unity Courses**
 
-## **Unity**
-
-###### [Beginner Game Development with Unity (29 Hours)](https://teamtreehouse.com/tracks/beginner-game-development-with-unity)
+## **[Beginner Game Development with Unity (29 Hours)](https://teamtreehouse.com/tracks/beginner-game-development-with-unity)**
 
 - How to Make a Video Game (6 hours)
 

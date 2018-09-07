@@ -1,8 +1,6 @@
-# **TEAM TREEHOUSE**
+# **Team Treehouse SQL Courses**
 
-## **SQL**
-
-###### [Beginning SQL (10 Hours)](https://teamtreehouse.com/tracks/beginning-sql)
+## **[Beginning SQL (10 Hours)](https://teamtreehouse.com/tracks/beginning-sql)**
 
 - SQL Basics (2 hours)
 

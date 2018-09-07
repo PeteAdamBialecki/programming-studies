@@ -1,8 +1,6 @@
-# **TEAM TREEHOUSE**
+# **Team Treehouse Java Courses**
 
-## **Java**
-
-###### [Learn Java (19 Hours)](https://teamtreehouse.com/tracks/learn-java)
+## **[Learn Java (19 Hours)](https://teamtreehouse.com/tracks/learn-java)**
 
 - Java Basics
 
@@ -20,7 +18,7 @@
 
 - Build a JavaFX Application (3 hours)
 
-###### [Java Web Development (37 Hours)](https://teamtreehouse.com/tracks/java-web-development)
+## **[Java Web Development (37 Hours)](https://teamtreehouse.com/tracks/java-web-development)**
 
 - Unit Testing in Java (2 hours)
 

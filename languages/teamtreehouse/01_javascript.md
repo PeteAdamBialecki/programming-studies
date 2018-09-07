@@ -52,7 +52,7 @@
 
 - Javascript Unit Testing (3 hours)
 
-###### [ReactJS (9 Hours)](https://teamtreehouse.com/tracks/learn-react)
+## **[ReactJS (9 Hours)](https://teamtreehouse.com/tracks/learn-react)**
 
 - React Basics (3 hours)
 
@@ -87,7 +87,7 @@ Extra
 - Introduction to React Native (79 minutes)
 
 
-###### [Angular Basics (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)
+## **[Angular Basics (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)**
 
 - Setting Up an Angular Application
 
@@ -99,14 +99,14 @@ Extra
 
 - Angular Form Validation
 
-Extra
+## **Extra**
 
 - Using the Angular CLI (37 minutes)
 
 - AngularJS Basics (1.x) (197 minutes)
 
 
-###### [Every Other JavaScript Course on Team Treehouse About JavaScript](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)
+## **[Every Other JavaScript Course on Team Treehouse About JavaScript](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
 - Practice Hashing Passwords in JavaScript (4 minutes)
 

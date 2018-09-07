@@ -1,7 +1,6 @@
+# Completed Teamtreehouse Courses
 
-# COMPLETED
-
-###### [Web Design (44 Hours)](https://teamtreehouse.com/tracks/web-design)
+## **[Web Design (44 Hours)](https://teamtreehouse.com/tracks/web-design)**
 
 ~~Introduction to HTML and CSS~~
 
@@ -40,7 +39,7 @@
 ~~CSS Grid Layout (Going Further with Grid Layout)~~
 
 
-###### [Front-End Web Development (59 Hours)](https://teamtreehouse.com/tracks/front-end-web-development)
+## **[Front-End Web Development (59 Hours)](https://teamtreehouse.com/tracks/front-end-web-development)**
 
 ~~Introduction to HTML and CSS~~
 
@@ -88,7 +87,7 @@
 
 ~~Git Basics~~
 
-###### [Beginning JavaScript (18 Hours)](https://teamtreehouse.com/tracks/beginning-javascript)
+## **[Beginning JavaScript (18 Hours)](https://teamtreehouse.com/tracks/beginning-javascript)**
 
 ~~Introducing Javascript~~
 
