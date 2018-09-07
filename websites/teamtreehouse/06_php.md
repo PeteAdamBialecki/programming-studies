@@ -1,8 +1,6 @@
-# **TEAM TREEHOUSE**
+# **Team Treehouse PHP Courses**
 
-## **PHP**
-
-###### [Beginning PHP (15 Hours)](https://teamtreehouse.com/tracks/beginning-php)
+## **[Beginning PHP (15 Hours)](https://teamtreehouse.com/tracks/beginning-php)**
 
 - Introduction to HTML and CSS (2 hours)  
 
@@ -18,7 +16,7 @@
 
 - Build a Basic PHP Website (5 hours)
 
-###### [Intermediate PHP (15 hours)](https://teamtreehouse.com/tracks/intermediate-php)
+## **[Intermediate PHP (15 hours)](https://teamtreehouse.com/tracks/intermediate-php)**
 
 - SQL Basics (2 hours)
 

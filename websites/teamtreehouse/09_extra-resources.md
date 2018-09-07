@@ -1,8 +1,6 @@
 # **TEAM TREEHOUSE**
 
-## **Extra**
-
-###### [Extra Team Treehouse Course](https://teamtreehouse.com/library)
+## **[Extra Team Treehouse Course](https://teamtreehouse.com/library)**
 
 - [APIs (263 minutes)](https://teamtreehouse.com/library/topic:apis)
 
@@ -11,7 +9,7 @@
 - [Hosting a Site With GitHub Pages (23 minutes)](https://teamtreehouse.com/library/hosting-a-website-with-github-pages)
 
 
-###### [Business (19 hours)](https://teamtreehouse.com/library/topic:business)
+## **[Business (19 hours)](https://teamtreehouse.com/library/topic:business)**
 
 - [Building Your Techdegree Resume (29 minutes)](https://teamtreehouse.com/library/building-your-techdegree-resume)
 
@@ -76,5 +74,7 @@
 ## **[Front-End Development Career Path](https://coggle.it/diagram/52e97f8c5a143de239005d1b/t/web-development/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52)**
 
 - Sr. User Experience Architect
+
 - Sr. Front-End Developer
+
 - Fullstack Javascript Developer
