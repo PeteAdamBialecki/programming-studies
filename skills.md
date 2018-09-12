@@ -1,30 +1,47 @@
-...this all needs to be further developed...
+# **Skills / Knowledge**
 
-##Front-End Languages
+## **Front-End Languages**
+
 - HTML
+
 - CSS
+
 - JavaScript
 
-##Front-End Frameworks
+## **Front-End Frameworks**
 
-- Bootstrap
+- JavaScript
 
-##Front-End Libraries
+- CSS
 
-##Extra
+- LESS / SASS
+
+- jQuery
+
+## **Front-End Libraries**
+
+- D3.js
+
+- Bootstrap 3/4
+
+## **Extra**
+
+- Node.js
+
+- Express.js
 
 - NPM
 
 - Gulp
 
-- Express.js
-
 - MongoDB
 
 - Pug.js (Jade)
 
+- Mocha / Chai
+
 - Postman API Application Development
 
-##Back-End
+## **Back-End**
 
 - Java
