@@ -50,7 +50,7 @@
 
 ~~Build a REST API with Express (3 hours)~~
 
-- Javascript Unit Testing (3 hours) (Section 2.10 Complete. Continue with "Answer: Expanding Our Expectations")
+- Javascript Unit Testing (3 hours) (Section 3.5 Complete. Continue with "Challenge: Writing Testable Code")
 
 ## **[ReactJS (9 Hours)](https://teamtreehouse.com/tracks/learn-react)**
 
