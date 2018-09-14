@@ -4,6 +4,8 @@ This is where I keep track of all of programming studies, notes, ideas, and thou
 
 ## **Cool Sites and Resources For Study**
 
+- [npm Packages](https://colorlib.com/wp/npm-packages-node-js/)
+
 - [Front-End Development Resources and Guides](https://gist.github.com/dypsilon/5819504)
 
 - Azure Software
