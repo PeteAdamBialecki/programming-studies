@@ -18,23 +18,25 @@
 
 - jQuery
 
+- npm 
+
 ## **Front-End Libraries**
 
 - D3.js
 
 - Bootstrap 3/4
 
-## **Extra**
-
 - Node.js
 
 - Express.js
 
-- NPM
-
 - Gulp
 
+- Grunt
+
 - MongoDB
+
+- Async.js
 
 - Pug.js (Jade)
 
