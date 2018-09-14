@@ -50,5 +50,6 @@ This is where I keep track of all of programming studies, notes, ideas, and thou
 
 - Fullstack Javascript Developer
 
-...SSH Test...
-...another SSH test...
+## **Java**
+
+- [Build Java Web Apps with VS Code](https://code.visualstudio.com/docs/java/java-tutorial)
