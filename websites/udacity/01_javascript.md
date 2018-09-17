@@ -1,6 +1,8 @@
 # **Udacity**
 
-## **[Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)**
+## **D3.js**
+
+[Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 
 - Visualization Fundamentals
 
