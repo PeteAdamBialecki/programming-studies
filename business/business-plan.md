@@ -2,7 +2,16 @@
 
 ## **Business Model**
 
+- Customer Segments
+
+- Channels
+
+- Revenue Systems
+
 - Value Propositions
+    - What value do we deliver to our customer segments?
+    - What problem are we helping solve?
+    - What customer needs or wants are we satisfying?
 
 - Key Resources
 
@@ -12,13 +21,7 @@
 
 - Cost Structure
 
-- Revenue Systems
-
-- Channels
-
 - Customer Relations
-
-- Customer 
 
 ## **Extra**
 
