@@ -5,8 +5,10 @@
 [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 
 - Visualization Fundamentals
+    - https://www.targetprocess.com/articles/visual-encoding/
+    - https://archive.nytimes.com/www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html?_r=0
 
-- Building Blocks
+- D3 Building Blocks
 
 - Design Principles
 
