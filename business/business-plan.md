@@ -92,3 +92,15 @@
             - Business Model
             - Team Members
             - Financials
+
+## **Extra**
+
+- [Startup Pitch Decks](http://www.slideshare.net/Sky7777/the-best-startup-pitch-deck-how-to-present-to-angels-v-cs)
+
+- [Business Plan Blueprints](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
+
+- [Business Plan Format Guide](http://www.entrepreneurmag.co.za/advice/business-plans/business-plan-format-guide/)
+
+- [Business Plan Overview Template](http://www.forbes.com/sites/davelavinsky/2013/07/18/business-plan-template-what-to-include/)
+
+- [Business Plan Builder](http://www.sba.gov/tools/business-plan/1)
