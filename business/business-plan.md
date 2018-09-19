@@ -13,6 +13,24 @@
     - Post Purchase: Once you deliver, what kinds of service you offer after delivery?
 
 - Revenue Systems
+    - The money earned from each customer segment and the strategies to maximize it.
+    - What value are customers really paying for?
+    - What are customers currently paying for with competitors?
+    - Examples:
+        - Overall Strategy: One Time Payment
+            - Pricing Mechanism: Fixed Pricing
+                - List Price
+                - Prodcuct feature dependent pricing
+                - Volume dependent pricing
+                - Customer segment dependent pricing
+            - Pricing Mechanism: Dynamic Pricing
+                - Fixed price plus negotiation, yield management (i.e. availability, time frame)
+                - Real-Time Markets
+                - Auctions
+        - Overall Strategy: Recurring Revenue Stream
+            - Pricing Mechanism: Fixed Pricing
+                - Product feature dependent pricing
+                - Volume dependent pricing
 
 - Value Propositions
     - What value do we deliver to our customer segments?
@@ -43,7 +61,10 @@
     - What key resources are acquired from a partner?
     - What key activities are undertaken by a partner?
 
-- Cost Structure
+- Cost Structure (Do this last after the cost of everything above has been estimated)
+    - Derive costs from rest of the business model
+    - Minimize Costs
+    - After paying for everything, what do you charge and what do you earn?
 
 ## **Extra**
 
