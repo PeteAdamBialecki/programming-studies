@@ -69,3 +69,26 @@
 ## **Extra**
 
 - [Business Model Generation](https://strategyzer.com/books/business-model-generation)
+
+- Types of Business Plans:
+    - Startup: Value Proposition, Customer Segments, Revenue Streams
+    - Internal: Cost Structures and Revenue Streams
+    - Strategic: Entire Business Model
+    - Feasibility: Value Proposition, Customer Segments, Revenue Streams
+    - Operational: Key Activities, Cost Structure
+    - Growth: Cost, Structures, Revenue Streams, Customer Relationships, Key Activities
+
+- Presentation
+    - Slide Deck (15 - 20 Slides)
+        - Pitching to Investors
+        - Convey important information in short amount of time
+        - Contain:
+            - Company Purpose
+            - Problem
+            - Solution
+            - Market Size
+            - Competition
+            - Prodct
+            - Business Model
+            - Team Members
+            - Financials
