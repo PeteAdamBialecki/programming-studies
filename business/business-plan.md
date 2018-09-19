@@ -13,6 +13,24 @@
     - Post Purchase: Once you deliver, what kinds of service you offer after delivery?
 
 - Revenue Systems
+    - The money earned from each customer segment and the strategies to maximize it.
+    - What value are customers really paying for?
+    - What are customers currently paying for with competitors?
+    - Examples:
+        - Overall Strategy: One Time Payment
+            - Pricing Mechanism: Fixed Pricing
+                - List Price
+                - Prodcuct feature dependent pricing
+                - Volume dependent pricing
+                - Customer segment dependent pricing
+            - Pricing Mechanism: Dynamic Pricing
+                - Fixed price plus negotiation, yield management (i.e. availability, time frame)
+                - Real-Time Markets
+                - Auctions
+        - Overall Strategy: Recurring Revenue Stream
+            - Pricing Mechanism: Fixed Pricing
+                - Product feature dependent pricing
+                - Volume dependent pricing
 
 - Value Propositions
     - What value do we deliver to our customer segments?
@@ -43,8 +61,46 @@
     - What key resources are acquired from a partner?
     - What key activities are undertaken by a partner?
 
-- Cost Structure
+- Cost Structure (Do this last after the cost of everything above has been estimated)
+    - Derive costs from rest of the business model
+    - Minimize Costs
+    - After paying for everything, what do you charge and what do you earn?
 
 ## **Extra**
 
 - [Business Model Generation](https://strategyzer.com/books/business-model-generation)
+
+- Types of Business Plans:
+    - Startup: Value Proposition, Customer Segments, Revenue Streams
+    - Internal: Cost Structures and Revenue Streams
+    - Strategic: Entire Business Model
+    - Feasibility: Value Proposition, Customer Segments, Revenue Streams
+    - Operational: Key Activities, Cost Structure
+    - Growth: Cost, Structures, Revenue Streams, Customer Relationships, Key Activities
+
+- Presentation
+    - Slide Deck (15 - 20 Slides)
+        - Pitching to Investors
+        - Convey important information in short amount of time
+        - Contain:
+            - Company Purpose
+            - Problem
+            - Solution
+            - Market Size
+            - Competition
+            - Prodct
+            - Business Model
+            - Team Members
+            - Financials
+
+## **Extra**
+
+- [Startup Pitch Decks](http://www.slideshare.net/Sky7777/the-best-startup-pitch-deck-how-to-present-to-angels-v-cs)
+
+- [Business Plan Blueprints](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
+
+- [Business Plan Format Guide](http://www.entrepreneurmag.co.za/advice/business-plans/business-plan-format-guide/)
+
+- [Business Plan Overview Template](http://www.forbes.com/sites/davelavinsky/2013/07/18/business-plan-template-what-to-include/)
+
+- [Business Plan Builder](http://www.sba.gov/tools/business-plan/1)
