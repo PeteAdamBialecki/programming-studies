@@ -15,7 +15,7 @@
 
 - [How to Start a Business (195 minutes)](https://teamtreehouse.com/library/how-to-start-a-business)
 
-- [How to Write a Business Plan (58 minutes)](https://teamtreehouse.com/library/how-to-write-a-business-plan)
+- [How to Write a Business Plan (58 minutes)](https://teamtreehouse.com/library/how-to-write-a-business-plan) (Continue with Part 4: Value Proposition and Channels)
 
 ~~How to Freelance (172 minutes)~~
 
