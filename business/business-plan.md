@@ -32,8 +32,16 @@
     - What resources are needed at every step?
 
 - Key Activities
+    - Important activities we must undertake as a business to ensure sucess.
+        - Production: Manufacturing Companies
+        - Problem Solving: Consultancies and Hospitals
+        - Platform: Software Companies
 
 - Key Partners
+    - Network of suppliers and partners that make your business model a reality.
+    - Are there any key suppliers that our business model depends on?
+    - What key resources are acquired from a partner?
+    - What key activities are undertaken by a partner?
 
 - Cost Structure
 
