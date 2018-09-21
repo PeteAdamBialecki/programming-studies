@@ -168,9 +168,9 @@ Extra
 
 - Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
 
-- Getting Started with webpack-1 (22 minutes)
+- Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
 
-- Building a MEAN Application (140 minutes)
+- Getting Started with webpack-1 (22 minutes)
 
 - Testing React Components with Enzyme (25 minutes)
 
@@ -181,6 +181,8 @@ Extra
 - Data Fetching in React (29 minutes)
 
 - Programming Step-by-Step: Object-Oriented JavaScript (Part 2) (30 minutes)
+
+- Programming Step-by-Step: Object-Oriented JavaScript (Part 2) ) (30 minutes)
 
 - Practice forEach in JavaScript (30 minutes)
 
@@ -194,19 +196,17 @@ Extra
 
 - OAuth Authentication With Passport (44 minutes)
 
-- Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
+- Working with the Fetch API (44 minutes)
 
 - Learn React Panel (45 minutes)
 
 - Treehouse Club: JavaScript (54 minutes)
 
-- Working with the Fetch API (44 minutes)
-
 - Regular Expressions in JavaScript (87 minutes)
 
 - JavaScript Array Iteration Methods (97 minutes)
 
-- Programming Step-by-Step: Object-Oriented JavaScript (Part 2) ) (30 minutes)
+- Building a MEAN Application (140 minutes)
 
 - Vue.js Basics (2 hours)
 
