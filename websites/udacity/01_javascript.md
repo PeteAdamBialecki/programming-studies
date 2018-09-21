@@ -8,7 +8,7 @@
     - https://www.targetprocess.com/articles/visual-encoding/
     - https://archive.nytimes.com/www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html?_r=0
 
-- D3 Building Blocks
+- D3 Building Blocks (Completed Lesson 2 Parts 1 - 20)
 
 - Design Principles
 
