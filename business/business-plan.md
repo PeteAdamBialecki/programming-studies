@@ -1,4 +1,4 @@
-# **Business Plan**
+# **Business Planning**
 
 ## **Business Model**
 
