@@ -1,5 +1,3 @@
-This is where I keep track of all of programming studies, notes, ideas, and thoughts and learning in business.
-
 # **ADDITIONAL NOTES AND AREAS OF STUDY**
 
 ## **Cool Sites and Resources For Study**
