@@ -1,42 +1,56 @@
 # Completed Teamtreehouse Courses
 
-## **[Web Design (44 Hours)](https://teamtreehouse.com/tracks/web-design)**
+## **[Full Stack JavaScript (50 Hours)](https://teamtreehouse.com/tracks/full-stack-javascript)**
 
-~~Introduction to HTML and CSS~~
+~~Introducing Javascript~~
 
-~~HTML Basics~~
+~~Javascript Basics~~
 
-~~Web Design Process~~
+~~Javascript Loops, Arrays, and Objects~~
 
-~~CSS Basics~~
+~~Defining Variables with let and const~~
 
-~~CSS Selectors~~
+~~Introducing Arrow Function Syntax~~
 
-~~HTML Forms~~
+~~Javascript and the DOM (Solution: Using nextElementSibling)~~
 
-~~HTML Tables~~
+~~jQuery Basics~~
 
-~~Web Typography~~
+~~AJAX Basics~~
 
-~~CSS Layout Basics~~
+~~Understanding “this” in Javascript~~
 
-~~Responsive Layouts~~
+~~Object-Oriented Javascript (2015)~~
 
-~~CSS Flexbox Layout~~
+~~Object-Oriented Javascript (2018)~~
 
-~~Bootstrap 4 Basics~~
+~~The Module Pattern in Javascript~~
 
-~~Prototyping in the Browser~~
+~~Introducing ES2015~~
 
-~~CSS Transitions and Transforms~~
+~~Node.js Basics~~
 
-~~SVG Basics~~
+~~Exploring Javascript Conditionals~~
 
-~~Animating SVG with CSS~~
+~~Build a Simple Dynamic Site with Node.js~~
 
-~~SASS Basics~~
+~~npm Basics~~
 
-~~CSS Grid Layout (Going Further with Grid Layout)~~
+~~Using Npm as a Task Runner~~ 
+
+~~Gulp Basics (2 hours)~~
+
+~~Express Basics (4 hours)~~
+
+~~Mongo Basics (87 minutes)~~
+
+~~Understanding Closures in Javascript~~
+
+~~User Authentication with Express and Mongo (2 hours)~~
+
+~~Build a REST API with Express (3 hours)~~
+
+~~Javascript Unit Testing (3 hours)~~
 
 
 ## **[Front-End Web Development (59 Hours)](https://teamtreehouse.com/tracks/front-end-web-development)**
@@ -86,6 +100,46 @@
 ~~Console Foundations~~
 
 ~~Git Basics~~
+
+
+## **[Web Design (44 Hours)](https://teamtreehouse.com/tracks/web-design)**
+
+~~Introduction to HTML and CSS~~
+
+~~HTML Basics~~
+
+~~Web Design Process~~
+
+~~CSS Basics~~
+
+~~CSS Selectors~~
+
+~~HTML Forms~~
+
+~~HTML Tables~~
+
+~~Web Typography~~
+
+~~CSS Layout Basics~~
+
+~~Responsive Layouts~~
+
+~~CSS Flexbox Layout~~
+
+~~Bootstrap 4 Basics~~
+
+~~Prototyping in the Browser~~
+
+~~CSS Transitions and Transforms~~
+
+~~SVG Basics~~
+
+~~Animating SVG with CSS~~
+
+~~SASS Basics~~
+
+~~CSS Grid Layout (Going Further with Grid Layout)~~
+
 
 ## **[Beginning JavaScript (18 Hours)](https://teamtreehouse.com/tracks/beginning-javascript)**
 

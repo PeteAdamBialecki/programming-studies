@@ -1,57 +1,5 @@
 # **Team Treehouse JavaScript Courses**
 
-## **[Full Stack JavaScript (50 Hours)](https://teamtreehouse.com/tracks/full-stack-javascript)**
-
-~~Introducing Javascript~~
-
-~~Javascript Basics~~
-
-~~Javascript Loops, Arrays, and Objects~~
-
-~~Defining Variables with let and const~~
-
-~~Introducing Arrow Function Syntax~~
-
-~~Javascript and the DOM (Solution: Using nextElementSibling)~~
-
-~~jQuery Basics~~
-
-~~AJAX Basics~~
-
-~~Understanding “this” in Javascript~~
-
-~~Object-Oriented Javascript (2015)~~
-
-~~Object-Oriented Javascript (2018)~~
-
-~~The Module Pattern in Javascript~~
-
-~~Introducing ES2015~~
-
-~~Node.js Basics~~
-
-~~Exploring Javascript Conditionals~~
-
-~~Build a Simple Dynamic Site with Node.js~~
-
-~~npm Basics~~
-
-~~Using Npm as a Task Runner~~ 
-
-~~Gulp Basics (2 hours)~~
-
-~~Express Basics (4 hours)~~
-
-~~Mongo Basics (87 minutes)~~
-
-~~Understanding Closures in Javascript~~
-
-~~User Authentication with Express and Mongo (2 hours)~~
-
-~~Build a REST API with Express (3 hours)~~
-
-~~Javascript Unit Testing (3 hours)~~
-
 ## **[ReactJS (9 Hours)](https://teamtreehouse.com/tracks/learn-react)**
 
 - React Basics (3 hours)
@@ -70,7 +18,7 @@
 
 - What’s New in React 16 (26 minutes)
 
-Extra
+## **Extra**
 
 - Animations in React (16 minutes)
 
