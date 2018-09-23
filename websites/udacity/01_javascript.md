@@ -8,6 +8,8 @@
 
 ~~D3 Building Blocks~~
 
+(Completed Part 3)
+
 - Design Principles
 
 - Dimple js

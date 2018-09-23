@@ -11,3 +11,19 @@ A new version of D3.js (version 4.0) was released on June 28th, 2016. This versi
 - https://www.targetprocess.com/articles/visual-encoding/
 
 - https://archive.nytimes.com/www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html?_r=0
+
+- http://www.thefunctionalart.com/
+
+- http://visualisingdata.com/
+
+- http://www.storytellingwithdata.com/
+
+- http://helpmeviz.com/ (Go here to submit visualizations and get it critiqued by other people)
+
+- http://d3js.org/
+
+- http://www.tableausoftware.com/public/
+
+- http://raw.densitydesign.org/
+
+- http://www.adobe.com/products/illustrator.html
