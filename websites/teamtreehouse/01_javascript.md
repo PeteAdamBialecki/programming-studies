@@ -106,7 +106,7 @@
 
 - Practice Basic jQuery Methods (8 minutes)
 
-- Introducing Template Literals (9 minutes)
+~~Introducing Template Literals (9 minutes)~~
 
 - Deploy your App to GitHub Pages with Gulp (9 minutes)
 
