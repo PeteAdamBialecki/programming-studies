@@ -78,7 +78,7 @@
 
 ~~Adding MongoDB To Your Node.js Application (5 minutes)~~
 
-- Practice Template Literals (5 minutes)
+~~Practice Template Literals (5 minutes)~~
 
 - Practicing Traversing the DOM (5 minutes)
 
