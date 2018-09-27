@@ -43,7 +43,7 @@
 
 ~~Introduction (18 minutes)~~
 
-~~Working with Geospatial Data (1 hour)~~
+- Working with Geospatial Data (1 hour) (Restarted course. Completed "Converting Geospatial Data".)
 
 - Drawing Maps with D3 (1.5 hours)
 
