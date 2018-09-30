@@ -6,7 +6,9 @@
 
 ~~Introduction (18 minutes)~~
 
-- Working with Geospatial Data (1 hour) (Continue with 'Clipping Shape Files')
+~~Working with Geospatial Data (1 hour)~~
+
+(Check "final-us.html" and "final-counties.html". Mabe check other HTML files as well)
 
 - Drawing Maps with D3 (1.5 hours)
 
