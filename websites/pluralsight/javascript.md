@@ -1,42 +1,5 @@
 # **Pluralsight JavaScript Courses**
 
-## **[Complete List Of JavaScript Courses](https://app.pluralsight.com/paths/skills/javascript)**
-
-[HTML, CSS, and JavaScript: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/table-of-contents)
-
-[JavaScript: Getting Started (3 Hours)](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
-
-[JavaScript Fundamentals (3 Hours)](https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents)
-
-[JavaScript Objects and Prototypes (1 Hour)](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents)
-
-[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)
-
-[Advanced Techniques in JavaScript and jQuery (3.5 Hours)](https://app.pluralsight.com/library/courses/javascript-jquery-advanced-techniques/table-of-contents)
-
-[JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)
-
-[Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)
-
-
-## **[D3.js Data Visualization Fundamentals (4.5 Hours)](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)**
-
-~~Part 1: The Basics (34 minutes)~~
-
-~~Part 2: Basic Charting (43 minutes)~~
-
-~~Part 3: Working with Data Part 1 - External Data Sources (35 minutes)~~
-
-~~Part 4:Working with data Part 2 - Getting Data from Web APIs (20 minutes)~~
-
-~~Part 5: Enhancing Your Viz Part 1 - Scales and Axis (34 minutes)~~
-
-~~Part 6: Enhancing Your Viz Part 2 - Interactivity (44 minutes)~~
-
-~~Part 7: Mapping (28 minutes)~~
-
-~~Part 8: Pulling It All Together (34 minutes)~~
-
 ## **[Geospatial Mapping with D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/geospatial-mapping-d3/table-of-contents)**
 
 ~~Course Overview (1 minute)~~
@@ -126,3 +89,40 @@
 - Visualizing Both A Catagorical and a Numeric Variable
 
 - Moving Beyond The Basics
+
+## **[Complete List Of JavaScript Courses](https://app.pluralsight.com/paths/skills/javascript)**
+
+[HTML, CSS, and JavaScript: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/table-of-contents)
+
+[JavaScript: Getting Started (3 Hours)](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
+
+[JavaScript Fundamentals (3 Hours)](https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents)
+
+[JavaScript Objects and Prototypes (1 Hour)](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents)
+
+[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)
+
+[Advanced Techniques in JavaScript and jQuery (3.5 Hours)](https://app.pluralsight.com/library/courses/javascript-jquery-advanced-techniques/table-of-contents)
+
+[JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)
+
+[Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)
+
+
+## **[D3.js Data Visualization Fundamentals (4.5 Hours)](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)**
+
+~~Part 1: The Basics (34 minutes)~~
+
+~~Part 2: Basic Charting (43 minutes)~~
+
+~~Part 3: Working with Data Part 1 - External Data Sources (35 minutes)~~
+
+~~Part 4:Working with data Part 2 - Getting Data from Web APIs (20 minutes)~~
+
+~~Part 5: Enhancing Your Viz Part 1 - Scales and Axis (34 minutes)~~
+
+~~Part 6: Enhancing Your Viz Part 2 - Interactivity (44 minutes)~~
+
+~~Part 7: Mapping (28 minutes)~~
+
+~~Part 8: Pulling It All Together (34 minutes)~~
