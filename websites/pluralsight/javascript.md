@@ -8,7 +8,7 @@
 
 ~~Working with Geospatial Data (1 hour)~~
 
-- Drawing Maps with D3 (1.5 hours) (Completed "Sorting Bubbles".  Double check and move onto "Sizing Bubbles")
+~~Drawing Maps with D3 (1.5 hours)~~
 
 ## **[Interactive Data Visualization with D3.js (5.5 Hours)](https://app.pluralsight.com/library/courses/interactive-data-visualization-d3js/table-of-contents)**
 
