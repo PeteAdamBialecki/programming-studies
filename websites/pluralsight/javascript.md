@@ -1,15 +1,5 @@
 # **Pluralsight JavaScript Courses**
 
-## **[Geospatial Mapping with D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/geospatial-mapping-d3/table-of-contents)**
-
-~~Course Overview (1 minute)~~
-
-~~Introduction (18 minutes)~~
-
-~~Working with Geospatial Data (1 hour)~~
-
-~~Drawing Maps with D3 (1.5 hours)~~
-
 ## **[Interactive Data Visualization with D3.js (5.5 Hours)](https://app.pluralsight.com/library/courses/interactive-data-visualization-d3js/table-of-contents)**
 
 - Pre-Game
@@ -108,7 +98,6 @@
 
 [Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)
 
-
 ## **[D3.js Data Visualization Fundamentals (4.5 Hours)](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)**
 
 ~~Part 1: The Basics (34 minutes)~~
@@ -126,3 +115,13 @@
 ~~Part 7: Mapping (28 minutes)~~
 
 ~~Part 8: Pulling It All Together (34 minutes)~~
+
+## **[Geospatial Mapping with D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/geospatial-mapping-d3/table-of-contents)**
+
+~~Course Overview (1 minute)~~
+
+~~Introduction (18 minutes)~~
+
+~~Working with Geospatial Data (1 hour)~~
+
+~~Drawing Maps with D3 (1.5 hours)~~
