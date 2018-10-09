@@ -2,7 +2,7 @@
 
 ## **[Interactive Data Visualization with D3.js (5.5 Hours)](https://app.pluralsight.com/library/courses/interactive-data-visualization-d3js/table-of-contents)**
 
-- Pre-Game (Continue with "Using Data" and setting up your template.)
+~~Pre-Game~~
 
 - SVG Overview
 
