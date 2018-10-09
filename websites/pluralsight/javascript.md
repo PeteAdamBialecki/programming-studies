@@ -4,7 +4,7 @@
 
 ~~Pre-Game~~
 
-- SVG Overview
+~~SVG Overview~~
 
 - Binding API
 
