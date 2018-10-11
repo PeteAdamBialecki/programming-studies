@@ -259,8 +259,6 @@
 
 - Organizing JavaScript with Modules
 
---------------------
-
 # Completed Teamtreehouse Courses
 
 ## **[Full Stack JavaScript (50 Hours)](https://teamtreehouse.com/tracks/full-stack-javascript)**
