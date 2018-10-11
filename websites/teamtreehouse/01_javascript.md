@@ -80,7 +80,72 @@
 
 ~~Practice Template Literals (5 minutes)~~
 
-- Practicing Traversing the DOM (5 minutes)
+- Practicing Traversing the DOM (5 minutes) (Continue working on this practice exercise...)
+
+
+
+
+
+
+
+
+
+
+
+    // STARTING POINT
+    const list = document.querySelector('.list');
+
+    // 1: Store the first child of the `ul` in the variable `firstItem`
+    const firstItem = document.querySelector('li');
+    firstItem.style.backgroundColor = '#04c5e6';
+
+    // 2: Using traversal, store the second list item in a variable named `nextItem`
+    const nextItem = document.querySelector('li:nth-child(2)');
+    nextItem.style.backgroundColor = '#b7c7d0';
+
+    // 3: Store the last child of the `ul` in a variable named `lastItem`
+    const lastItem = document.querySelector('li:last-child');
+    lastItem.style.backgroundColor = '#57d6ab';
+
+    // 4: Using traversal, store the second-to-last list item in a variable named `prevItem`
+    const prevItem = document.querySelector('li:nth-last-child(2)');
+    prevItem.style.backgroundColor = '#f36f49';
+
+    // 5: Store the nested div in a variable named `banner`
+    //const banner = document.querySelector('.wrapper');
+    banner.className = 'banner';
+
+    // 6: Using traversal, store the wrapper div in a variable named `wrapper`
+    const wrapper = document.querySelector('.wrapper');
+    wrapper.style.backgroundColor = '#ff0000';
+
+    // 7: Using traversal, store the body in a variable named `body`
+
+    body.style.backgroundColor = '#f8fdf3';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Practice Working with jQuery Collections (6 minutes)
 
