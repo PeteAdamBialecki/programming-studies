@@ -6,7 +6,7 @@
 
 ~~SVG Overview~~
 
-- Binding API
+~~Binding API~~
 
 - Non-Binding API
 
