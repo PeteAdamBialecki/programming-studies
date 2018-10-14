@@ -8,7 +8,7 @@
 
 ~~Binding API~~
 
-- Non-Binding API
+- Non-Binding API (Continue with "Catagorical Scaling")
 
 - Reusable Charts
 
