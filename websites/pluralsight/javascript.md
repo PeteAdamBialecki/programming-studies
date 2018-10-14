@@ -8,7 +8,7 @@
 
 ~~Binding API~~
 
-- Non-Binding API (Completed "Axis Generator")
+- Non-Binding API (Completed "Line Generating")
 
 - Reusable Charts
 
