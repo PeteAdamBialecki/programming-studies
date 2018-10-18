@@ -8,7 +8,7 @@
 
 ~~Binding API~~
 
-- Non-Binding API (Completed "Line Generating")
+- Non-Binding API (Completed "Brushes no. 1 & 2")
 
 - Reusable Charts
 
