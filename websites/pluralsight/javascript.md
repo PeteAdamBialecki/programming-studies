@@ -10,7 +10,7 @@
 
 ~~Non-Binding API~~
 
-- Reusable Charts
+~~Reusable Charts~~
 
 - Application Patterns
 
