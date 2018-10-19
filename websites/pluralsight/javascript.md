@@ -8,9 +8,9 @@
 
 ~~Binding API~~
 
-- Non-Binding API (Completed "Brushes no. 1 & 2")
+~~Non-Binding API~~
 
-- Reusable Charts
+~~Reusable Charts~~
 
 - Application Patterns
 
