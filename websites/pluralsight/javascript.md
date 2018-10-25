@@ -12,7 +12,7 @@
 
 ~~Reusable Charts~~
 
-- Application Patterns
+- Application Patterns (Continue with "Moving to Github")
 
 - Connecting the Charts
 
