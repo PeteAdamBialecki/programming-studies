@@ -12,7 +12,8 @@
 
 ~~Reusable Charts~~
 
-- Application Patterns (Continue with "Moving to Github")
+~~Application Patterns~~
+    - Revisit this to refresh on how to create "bl.ocks" ("Moving to Github")
 
 - Connecting the Charts
 
