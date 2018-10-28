@@ -13,9 +13,8 @@
 ~~Reusable Charts~~
 
 ~~Application Patterns~~
-    - Revisit this to refresh on how to create "bl.ocks" ("Moving to Github")
 
-- Connecting the Charts
+- Connecting the Charts (Completed "Event Dispaching" and "Connecting the Charts")
 
 - Diving Board
 
