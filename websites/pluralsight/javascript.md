@@ -14,7 +14,7 @@
 
 ~~Application Patterns~~
 
-- Connecting the Charts (Completed "Event Dispaching" and "Connecting the Charts")
+- Connecting the Charts (Completed "Connecting the Charts: sections 3 - 5")
 
 - Diving Board
 
