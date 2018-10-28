@@ -14,9 +14,23 @@
 
 ~~Application Patterns~~
 
-- Connecting the Charts (Completed "Connecting the Charts: sections 3 - 5")
+~~Connecting the Charts~~
 
 - Diving Board
+
+## **[D3: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/d3-big-picture/description)**
+
+- Course Overview
+
+- Introducing D3
+
+- Understanding D3 Concepts
+
+- Understanding Why to Use D3
+
+- Using D3 in Real Life
+
+- Architecting D3
 
 ## **[Data Visualization for Developers (2 Hours)](https://app.pluralsight.com/library/courses/data-visualization-developers/table-of-contents)**
 
@@ -29,6 +43,36 @@
 - Visualization Architecture
 
 - Hands-On Visualization
+
+## **[Creating VR Experiences with JavaScript (1.5 Hours)](https://app.pluralsight.com/library/courses/vr-creating-experiences-javascript/table-of-contents)**
+
+- Course Overview
+
+- Introducing VR Development on the Web
+
+- Building Blocks
+
+- VR Frameworks AFrame & React VR
+
+- Conclusion and Next Steps
+
+## **[Force Layout Graphs in D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/force-layout-graphs-d3/description)**
+
+- Course Overview
+
+- Getting Started
+
+- What Are Force Layout Graphs
+
+- Constructing a Force Layout Graph
+
+- Adding Links Between Nodes
+
+- Applying Distance and Strength
+
+- Working with Gravity and Change
+
+- Applying Styles
 
 ## **[Data Analysis Fundamentals with Tableau (5 Hours)](https://app.pluralsight.com/library/courses/data-analysis-fundamentals-tableau/table-of-contents)**
 
