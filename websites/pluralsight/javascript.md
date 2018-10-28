@@ -14,7 +14,7 @@
 
 ~~Application Patterns~~
 
-- Connecting the Charts (Completed "Connecting the Charts: sections 3 - 5")
+~~Connecting the Charts~~
 
 - Diving Board
 
