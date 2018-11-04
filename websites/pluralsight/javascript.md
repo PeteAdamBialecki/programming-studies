@@ -74,6 +74,9 @@
 
 - Applying Styles
 
+
+# **Software Data Visualization**
+
 ## **[Data Analysis Fundamentals with Tableau (5 Hours)](https://app.pluralsight.com/library/courses/data-analysis-fundamentals-tableau/table-of-contents)**
 
 - Introduction to Tableau
@@ -124,6 +127,8 @@
 
 - Moving Beyond The Basics
 
+# **Extra JavaScript**
+
 ## **[Complete List Of JavaScript Courses](https://app.pluralsight.com/paths/skills/javascript)**
 
 [HTML, CSS, and JavaScript: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/table-of-contents)
@@ -141,6 +146,8 @@
 [JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)
 
 [Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)
+
+# **Completed Courses**
 
 ## **[D3.js Data Visualization Fundamentals (4.5 Hours)](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)**
 
