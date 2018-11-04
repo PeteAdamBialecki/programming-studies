@@ -1,23 +1,5 @@
 # **Pluralsight JavaScript Courses**
 
-## **[Interactive Data Visualization with D3.js (5.5 Hours)](https://app.pluralsight.com/library/courses/interactive-data-visualization-d3js/table-of-contents)**
-
-~~Pre-Game~~
-
-~~SVG Overview~~
-
-~~Binding API~~
-
-~~Non-Binding API~~
-
-~~Reusable Charts~~
-
-~~Application Patterns~~
-
-~~Connecting the Charts~~
-
-- Diving Board
-
 ## **[D3: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/d3-big-picture/description)**
 
 - Course Overview
@@ -74,6 +56,9 @@
 
 - Applying Styles
 
+
+# **Software Data Visualization**
+
 ## **[Data Analysis Fundamentals with Tableau (5 Hours)](https://app.pluralsight.com/library/courses/data-analysis-fundamentals-tableau/table-of-contents)**
 
 - Introduction to Tableau
@@ -124,6 +109,8 @@
 
 - Moving Beyond The Basics
 
+# **Extra JavaScript**
+
 ## **[Complete List Of JavaScript Courses](https://app.pluralsight.com/paths/skills/javascript)**
 
 [HTML, CSS, and JavaScript: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/table-of-contents)
@@ -141,6 +128,8 @@
 [JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)
 
 [Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)
+
+# **Completed Courses**
 
 ## **[D3.js Data Visualization Fundamentals (4.5 Hours)](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)**
 
@@ -169,3 +158,21 @@
 ~~Working with Geospatial Data (1 hour)~~
 
 ~~Drawing Maps with D3 (1.5 hours)~~
+
+## **[Interactive Data Visualization with D3.js (5.5 Hours)](https://app.pluralsight.com/library/courses/interactive-data-visualization-d3js/table-of-contents)**
+
+~~Pre-Game~~
+
+~~SVG Overview~~
+
+~~Binding API~~
+
+~~Non-Binding API~~
+
+~~Reusable Charts~~
+
+~~Application Patterns~~
+
+~~Connecting the Charts~~
+
+~~Diving Board~~
