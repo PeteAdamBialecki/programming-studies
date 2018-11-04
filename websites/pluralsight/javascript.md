@@ -1,23 +1,5 @@
 # **Pluralsight JavaScript Courses**
 
-## **[Interactive Data Visualization with D3.js (5.5 Hours)](https://app.pluralsight.com/library/courses/interactive-data-visualization-d3js/table-of-contents)**
-
-~~Pre-Game~~
-
-~~SVG Overview~~
-
-~~Binding API~~
-
-~~Non-Binding API~~
-
-~~Reusable Charts~~
-
-~~Application Patterns~~
-
-~~Connecting the Charts~~
-
-- Diving Board
-
 ## **[D3: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/d3-big-picture/description)**
 
 - Course Overview
@@ -176,3 +158,21 @@
 ~~Working with Geospatial Data (1 hour)~~
 
 ~~Drawing Maps with D3 (1.5 hours)~~
+
+## **[Interactive Data Visualization with D3.js (5.5 Hours)](https://app.pluralsight.com/library/courses/interactive-data-visualization-d3js/table-of-contents)**
+
+~~Pre-Game~~
+
+~~SVG Overview~~
+
+~~Binding API~~
+
+~~Non-Binding API~~
+
+~~Reusable Charts~~
+
+~~Application Patterns~~
+
+~~Connecting the Charts~~
+
+~~Diving Board~~
