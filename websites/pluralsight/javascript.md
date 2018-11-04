@@ -14,6 +14,24 @@
 
 - Architecting D3
 
+## **[Force Layout Graphs in D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/force-layout-graphs-d3/description)**
+
+- Course Overview
+
+- Getting Started
+
+- What Are Force Layout Graphs
+
+- Constructing a Force Layout Graph
+
+- Adding Links Between Nodes
+
+- Applying Distance and Strength
+
+- Working with Gravity and Change
+
+- Applying Styles
+
 ## **[Data Visualization for Developers (2 Hours)](https://app.pluralsight.com/library/courses/data-visualization-developers/table-of-contents)**
 
 - Introduction
@@ -37,25 +55,6 @@
 - VR Frameworks AFrame & React VR
 
 - Conclusion and Next Steps
-
-## **[Force Layout Graphs in D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/force-layout-graphs-d3/description)**
-
-- Course Overview
-
-- Getting Started
-
-- What Are Force Layout Graphs
-
-- Constructing a Force Layout Graph
-
-- Adding Links Between Nodes
-
-- Applying Distance and Strength
-
-- Working with Gravity and Change
-
-- Applying Styles
-
 
 # **Software Data Visualization**
 
