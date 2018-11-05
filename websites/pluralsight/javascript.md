@@ -128,6 +128,8 @@
 
 [Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)
 
+[React.js: Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)
+
 # **Completed Courses**
 
 ## **[D3.js Data Visualization Fundamentals (4.5 Hours)](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)**
