@@ -2,7 +2,7 @@
 
 ## **[D3: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/d3-big-picture/description)**
 
-- Course Overview
+~~Course Overview~~
 
 - Introducing D3
 
