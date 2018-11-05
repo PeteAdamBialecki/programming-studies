@@ -4,7 +4,7 @@
 
 ~~Course Overview~~
 
-- Introducing D3
+~~Introducing D3~~
 
 - Understanding D3 Concepts
 
