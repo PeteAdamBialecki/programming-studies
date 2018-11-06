@@ -6,7 +6,7 @@
 
 ~~Introducing D3~~
 
-- Understanding D3 Concepts
+~~Understanding D3 Concepts~~
 
 - Understanding Why to Use D3
 
