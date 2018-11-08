@@ -1,36 +1,22 @@
 # **Pluralsight JavaScript Courses**
 
-## **[Interactive Data Visualization with D3.js (5.5 Hours)](https://app.pluralsight.com/library/courses/interactive-data-visualization-d3js/table-of-contents)**
-
-~~Pre-Game~~
-
-~~SVG Overview~~
-
-~~Binding API~~
-
-~~Non-Binding API~~
-
-~~Reusable Charts~~
-
-~~Application Patterns~~
-
-~~Connecting the Charts~~
-
-- Diving Board
-
-## **[D3: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/d3-big-picture/description)**
+## **[Force Layout Graphs in D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/force-layout-graphs-d3/description)**
 
 - Course Overview
 
-- Introducing D3
+- Getting Started
 
-- Understanding D3 Concepts
+- What Are Force Layout Graphs
 
-- Understanding Why to Use D3
+- Constructing a Force Layout Graph
 
-- Using D3 in Real Life
+- Adding Links Between Nodes
 
-- Architecting D3
+- Applying Distance and Strength
+
+- Working with Gravity and Change
+
+- Applying Styles
 
 ## **[Data Visualization for Developers (2 Hours)](https://app.pluralsight.com/library/courses/data-visualization-developers/table-of-contents)**
 
@@ -56,23 +42,7 @@
 
 - Conclusion and Next Steps
 
-## **[Force Layout Graphs in D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/force-layout-graphs-d3/description)**
-
-- Course Overview
-
-- Getting Started
-
-- What Are Force Layout Graphs
-
-- Constructing a Force Layout Graph
-
-- Adding Links Between Nodes
-
-- Applying Distance and Strength
-
-- Working with Gravity and Change
-
-- Applying Styles
+# **Software Data Visualization**
 
 ## **[Data Analysis Fundamentals with Tableau (5 Hours)](https://app.pluralsight.com/library/courses/data-analysis-fundamentals-tableau/table-of-contents)**
 
@@ -124,6 +94,8 @@
 
 - Moving Beyond The Basics
 
+# **Extra JavaScript**
+
 ## **[Complete List Of JavaScript Courses](https://app.pluralsight.com/paths/skills/javascript)**
 
 [HTML, CSS, and JavaScript: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/table-of-contents)
@@ -141,6 +113,10 @@
 [JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)
 
 [Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)
+
+[React.js: Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)
+
+# **Completed Courses**
 
 ## **[D3.js Data Visualization Fundamentals (4.5 Hours)](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)**
 
@@ -169,3 +145,35 @@
 ~~Working with Geospatial Data (1 hour)~~
 
 ~~Drawing Maps with D3 (1.5 hours)~~
+
+## **[Interactive Data Visualization with D3.js (5.5 Hours)](https://app.pluralsight.com/library/courses/interactive-data-visualization-d3js/table-of-contents)**
+
+~~Pre-Game~~
+
+~~SVG Overview~~
+
+~~Binding API~~
+
+~~Non-Binding API~~
+
+~~Reusable Charts~~
+
+~~Application Patterns~~
+
+~~Connecting the Charts~~
+
+~~Diving Board~~
+
+## **[D3: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/d3-big-picture/description)**
+
+~~Course Overview~~
+
+~~Introducing D3~~
+
+~~Understanding D3 Concepts~~
+
+~~Understanding Why to Use D3~~
+
+~~Using D3 in Real Life~~
+
+~~Architecting D3~~
