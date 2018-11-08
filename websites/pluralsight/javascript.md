@@ -1,19 +1,5 @@
 # **Pluralsight JavaScript Courses**
 
-## **[D3: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/d3-big-picture/description)**
-
-~~Course Overview~~
-
-~~Introducing D3~~
-
-~~Understanding D3 Concepts~~
-
-~~Understanding Why to Use D3~~
-
-~~Using D3 in Real Life~~
-
-- Architecting D3
-
 ## **[Force Layout Graphs in D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/force-layout-graphs-d3/description)**
 
 - Course Overview
@@ -177,3 +163,17 @@
 ~~Connecting the Charts~~
 
 ~~Diving Board~~
+
+## **[D3: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/d3-big-picture/description)**
+
+~~Course Overview~~
+
+~~Introducing D3~~
+
+~~Understanding D3 Concepts~~
+
+~~Understanding Why to Use D3~~
+
+~~Using D3 in Real Life~~
+
+~~Architecting D3~~
