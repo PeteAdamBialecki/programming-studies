@@ -8,7 +8,7 @@
 
 ~~Understanding D3 Concepts~~
 
-- Understanding Why to Use D3
+~~Understanding Why to Use D3~~
 
 - Using D3 in Real Life
 
