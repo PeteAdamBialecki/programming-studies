@@ -2,9 +2,9 @@
 
 ## **[Force Layout Graphs in D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/force-layout-graphs-d3/description)**
 
-- Course Overview
+~~Course Overview~~
 
-- Getting Started
+~~Getting Started~~
 
 - What Are Force Layout Graphs
 
