@@ -25,3 +25,12 @@ How can I check the hex value of a background and if it is 50% to dark, add the 
     function getContrast50(hexcolor){
         return (parseInt(hexcolor, 16) > 0xffffff/2) ? 'black':'white';
     }
+
+
+
+
+
+
+    function getContrast50(hexcolor){
+     return (parseInt(hexcolor.replace('#', ''), 16) > 0xffffff/4) ? 'black':'white';
+    }
