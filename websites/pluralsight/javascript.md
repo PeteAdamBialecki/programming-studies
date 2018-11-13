@@ -6,9 +6,9 @@
 
 ~~Getting Started~~
 
-- What Are Force Layout Graphs
+~~What Are Force Layout Graphs~~
 
-- Constructing a Force Layout Graph
+~~Constructing a Force Layout Graph~~
 
 - Adding Links Between Nodes
 
