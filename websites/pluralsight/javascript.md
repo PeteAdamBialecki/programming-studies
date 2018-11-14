@@ -10,7 +10,7 @@
 
 ~~Constructing a Force Layout Graph~~
 
-- Adding Links Between Nodes
+~~Adding Links Between Nodes~~
 
 - Applying Distance and Strength
 
