@@ -12,7 +12,7 @@
 
 ~~Adding Links Between Nodes~~
 
-- Applying Distance and Strength
+~~Applying Distance and Strength~~
 
 - Working with Gravity and Change
 
