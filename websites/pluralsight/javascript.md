@@ -14,7 +14,7 @@
 
 ~~Applying Distance and Strength~~
 
-- Working with Gravity and Change
+~~Working with Gravity and Change~~
 
 - Applying Styles
 
