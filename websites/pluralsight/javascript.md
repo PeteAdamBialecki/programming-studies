@@ -18,7 +18,7 @@
 
 - Applying Styles
 
-    ~~Pulling in External Data~~
+    ~~Using Images for Nodes~~
 
 ## **[Data Visualization for Developers (2 Hours)](https://app.pluralsight.com/library/courses/data-visualization-developers/table-of-contents)**
 
