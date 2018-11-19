@@ -18,6 +18,8 @@
 
 - Applying Styles
 
+    ~~Pulling in External Data~~
+
 ## **[Data Visualization for Developers (2 Hours)](https://app.pluralsight.com/library/courses/data-visualization-developers/table-of-contents)**
 
 - Introduction
