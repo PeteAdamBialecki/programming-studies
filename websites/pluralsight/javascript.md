@@ -1,25 +1,5 @@
 # **Pluralsight JavaScript Courses**
 
-## **[Force Layout Graphs in D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/force-layout-graphs-d3/description)**
-
-~~Course Overview~~
-
-~~Getting Started~~
-
-~~What Are Force Layout Graphs~~
-
-~~Constructing a Force Layout Graph~~
-
-~~Adding Links Between Nodes~~
-
-~~Applying Distance and Strength~~
-
-~~Working with Gravity and Change~~
-
-- Applying Styles
-
-    ~~Adding Labels~~
-
 ## **[Data Visualization for Developers (2 Hours)](https://app.pluralsight.com/library/courses/data-visualization-developers/table-of-contents)**
 
 - Introduction
@@ -179,3 +159,21 @@
 ~~Using D3 in Real Life~~
 
 ~~Architecting D3~~
+
+## **[Force Layout Graphs in D3 (2.5 Hours)](https://app.pluralsight.com/library/courses/force-layout-graphs-d3/description)**
+
+~~Course Overview~~
+
+~~Getting Started~~
+
+~~What Are Force Layout Graphs~~
+
+~~Constructing a Force Layout Graph~~
+
+~~Adding Links Between Nodes~~
+
+~~Applying Distance and Strength~~
+
+~~Working with Gravity and Change~~
+
+~~Applying Styles~~
