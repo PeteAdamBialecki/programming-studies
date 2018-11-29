@@ -80,8 +80,6 @@
 
 ## **[Complete List Of JavaScript Courses](https://app.pluralsight.com/paths/skills/javascript)**
 
-[HTML, CSS, and JavaScript: The Big Picture (1.5 Hours)](https://app.pluralsight.com/library/courses/html-css-javascript-big-picture/table-of-contents)
-
 [JavaScript: Getting Started (3 Hours)](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)
 
 [JavaScript Fundamentals (3 Hours)](https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents)
@@ -177,3 +175,5 @@
 ~~Working with Gravity and Change~~
 
 ~~Applying Styles~~
+
+~~Styling Links~~
