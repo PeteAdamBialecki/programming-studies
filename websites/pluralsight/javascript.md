@@ -20,6 +20,32 @@
 
 - Finishing Our Application
 
+## **[JavaScript Fundamentals (3 Hours)](https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents)**
+
+- Course Overview
+
+- Introduction and Setup
+
+- Language Features
+
+- Operators
+
+- Functions and Scope
+
+- Objects and Arrays
+
+- Classes and Modules
+
+- Programming the BOM and the DOM
+
+- Promises and Error Handling
+
+- Data Access Using HTTP
+
+- Forms
+
+- Security and Building for Production
+
 ## **[Data Visualization for Developers (2 Hours)](https://app.pluralsight.com/library/courses/data-visualization-developers/table-of-contents)**
 
 - Introduction
@@ -99,8 +125,6 @@
 # **Extra JavaScript**
 
 ## **[Complete List Of JavaScript Courses](https://app.pluralsight.com/paths/skills/javascript)**
-
-[JavaScript Fundamentals (3 Hours)](https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents)
 
 [JavaScript Objects and Prototypes (1 Hour)](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents)
 
