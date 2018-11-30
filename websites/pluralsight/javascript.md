@@ -4,7 +4,7 @@
 
 ~~Course Overview~~
 
-- Introduction and Our First App
+~~Introduction and Our First App~~
 
 - JavaScript Beginnings
 
