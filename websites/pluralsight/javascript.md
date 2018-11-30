@@ -46,6 +46,18 @@
 
 - Security and Building for Production
 
+## **[Making Data Into Something You Can See](https://www.pluralsight.com/courses/data-you-can-see)**
+
+- Course Overview
+
+- Gathering and Organizing Your Data
+
+- Making Good Design Choices for Your Visualizations
+
+- Choosing the Right Chart
+
+- Tools for YOur Data Visualizations
+
 ## **[Data Visualization for Developers (2 Hours)](https://app.pluralsight.com/library/courses/data-visualization-developers/table-of-contents)**
 
 - Introduction
