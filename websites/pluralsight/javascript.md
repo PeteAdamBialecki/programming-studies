@@ -6,7 +6,7 @@
 
 ~~Introduction and Our First App~~
 
-- JavaScript Beginnings
+~~JavaScript Beginnings~~
 
 - Types an Arrays
 
