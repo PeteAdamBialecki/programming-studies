@@ -8,7 +8,7 @@
 
 ~~JavaScript Beginnings~~
 
-- Types an Arrays
+~~Types and Arrays~~
 
 - Program Flows
 
