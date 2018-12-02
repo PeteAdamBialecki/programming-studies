@@ -14,7 +14,7 @@
 
 ~~Functions~~
 
-- Objects
+~~Objects~~
 
 - Programming for Web Pages
 
