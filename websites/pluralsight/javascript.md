@@ -16,7 +16,7 @@
 
 ~~Objects~~
 
-- Programming for Web Pages
+~~Programming for Web Pages~~
 
 - Finishing Our Application
 
