@@ -1,25 +1,5 @@
 # **Pluralsight JavaScript Courses**
 
-## **[JavaScript: Getting Started (3 Hours)](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)**
-
-~~Course Overview~~
-
-~~Introduction and Our First App~~
-
-~~JavaScript Beginnings~~
-
-~~Types and Arrays~~
-
-~~Program Flows~~
-
-~~Functions~~
-
-~~Objects~~
-
-~~Programming for Web Pages~~
-
-- Finishing Our Application
-
 ## **[JavaScript Fundamentals (3 Hours)](https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents)**
 
 - Course Overview
@@ -231,3 +211,23 @@
 ~~Applying Styles~~
 
 ~~Styling Links~~
+
+## **[JavaScript: Getting Started (3 Hours)](https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents)**
+
+~~Course Overview~~
+
+~~Introduction and Our First App~~
+
+~~JavaScript Beginnings~~
+
+~~Types and Arrays~~
+
+~~Program Flows~~
+
+~~Functions~~
+
+~~Objects~~
+
+~~Programming for Web Pages~~
+
+~~Finishing Our Application~~
