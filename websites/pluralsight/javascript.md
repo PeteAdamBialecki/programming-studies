@@ -26,6 +26,98 @@
 
 - Security and Building for Production
 
+## **[Quick Start to JavaScript Vol. 1 (2 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-1-1870/table-of-contents)**
+
+- Introduction and Project Overview
+
+- Quick Start to JavaScript Vol. 1
+
+## **[Quick Start to JavaScript Vol. 2 (2 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-2-1917/table-of-contents)**
+
+- Introduction and Project Overview
+
+- Quick Start to JavaScript Vol. 2
+
+## **[Quick Start to JavaScript Vol. 3 (1.5 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-3-1918/table-of-contents)**
+
+- Introduction and Project Overview
+
+- Quick Start to JavaScript Vol. 3
+
+## **[JavaScript Objects and Prototypes (1 Hour)](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents)**
+
+- Creating JavaScript Objects
+
+- JavaScript Object Properties
+
+- JavaScript Prototypes and Inheritance
+
+## **[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)**
+
+- Course Overview
+
+- What is a Design Pattern Anyway?
+
+- Objects in JavaScript
+
+- Creational Design Patterns
+
+## **[Advanced Techniques in JavaScript and jQuery (3.5 Hours)](https://app.pluralsight.com/library/courses/javascript-jquery-advanced-techniques/table-of-contents)**
+
+- Introduction
+
+- Event Handling
+
+- Advanced Event Handling
+
+- Using jQuery Deferred Objects
+
+## **[JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)**
+
+- Course Overview
+
+- Why Best Practices?
+
+- Syntax
+
+- Behaviors
+
+- Async Patterns
+
+- Production Code
+
+## **[Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)**
+
+- Course Overview
+
+- Introduction
+
+- New ES6 Modules and Classes
+
+- New Types and Object Extensions
+
+- Iterators, Generators, and Promises
+
+- Arrays and Collections
+
+- The Reflect API
+
+- The Proxy API
+
+## **[React.js: Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)**
+
+- Course Overview
+
+- Introduction
+
+- Working with Data
+
+- Builing the Game Interface
+
+- Numbers Selection
+
+- Game State
+
 ## **[Making Data Into Something You Can See](https://www.pluralsight.com/courses/data-you-can-see)**
 
 - Course Overview
@@ -113,22 +205,6 @@
 - Visualizing Both A Catagorical and a Numeric Variable
 
 - Moving Beyond The Basics
-
-# **Extra JavaScript**
-
-## **[Complete List Of JavaScript Courses](https://app.pluralsight.com/paths/skills/javascript)**
-
-[JavaScript Objects and Prototypes (1 Hour)](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents)
-
-[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)
-
-[Advanced Techniques in JavaScript and jQuery (3.5 Hours)](https://app.pluralsight.com/library/courses/javascript-jquery-advanced-techniques/table-of-contents)
-
-[JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)
-
-[Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)
-
-[React.js: Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)
 
 # **Completed Courses**
 
