@@ -6,6 +6,8 @@
 
 - Introduction and Setup
 
+    - Setting Up A Development Enviornment
+
 - Language Features
 
 - Operators
