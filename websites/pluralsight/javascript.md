@@ -2,9 +2,11 @@
 
 ## **[JavaScript Fundamentals (3 Hours)](https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents)**
 
-- Course Overview
+~~Course Overview~~
 
 - Introduction and Setup
+
+    - Setting Up A Development Enviornment
 
 - Language Features
 
