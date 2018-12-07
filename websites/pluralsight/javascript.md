@@ -8,6 +8,8 @@
 
 - Language Features
 
+    - Continue with "typeof()" in Language Features
+
 - Operators
 
 - Functions and Scope
