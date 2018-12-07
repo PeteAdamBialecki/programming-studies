@@ -4,9 +4,7 @@
 
 ~~Course Overview~~
 
-- Introduction and Setup
-
-    - Setting Up A Development Enviornment
+~~Introduction and Setup~~
 
 - Language Features
 
