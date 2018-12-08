@@ -6,9 +6,7 @@
 
 ~~Introduction and Setup~~
 
-- Language Features
-
-    - Continue with "typeof()" in Language Features
+~~Language Features~~
 
 - Operators
 
