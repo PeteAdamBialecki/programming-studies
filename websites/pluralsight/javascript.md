@@ -8,7 +8,7 @@
 
 ~~Language Features~~
 
-- Operators
+~~Operators~~
 
 - Functions and Scope
 
