@@ -10,7 +10,7 @@
 
 ~~Operators~~
 
-- Functions and Scope
+~~Functions and Scope~~
 
 - Objects and Arrays
 
