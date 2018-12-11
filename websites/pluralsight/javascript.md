@@ -12,7 +12,7 @@
 
 ~~Functions and Scope~~
 
-- Objects and Arrays
+~~Objects and Arrays~~
 
 - Classes and Modules
 
