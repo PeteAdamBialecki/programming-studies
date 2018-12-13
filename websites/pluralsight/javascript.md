@@ -14,7 +14,7 @@
 
 ~~Objects and Arrays~~
 
-- Classes and Modules
+~~Classes and Modules~~
 
 - Programming the BOM and the DOM
 
