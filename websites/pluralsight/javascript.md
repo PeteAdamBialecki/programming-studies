@@ -16,7 +16,7 @@
 
 ~~Classes and Modules~~
 
-- Programming the BOM and the DOM
+~~Programming the BOM and the DOM~~
 
 - Promises and Error Handling
 
