@@ -1,31 +1,5 @@
 # **Pluralsight JavaScript Courses**
 
-## **[JavaScript Fundamentals (3 Hours)](https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents)**
-
-~~Course Overview~~
-
-~~Introduction and Setup~~
-
-~~Language Features~~
-
-~~Operators~~
-
-~~Functions and Scope~~
-
-~~Objects and Arrays~~
-
-~~Classes and Modules~~
-
-~~Programming the BOM and the DOM~~
-
-~~Promises and Error Handling~~
-
-~~Data Access Using HTTP~~
-
-~~Forms~~
-
-- Security and Building for Production
-
 ## **[Quick Start to JavaScript Vol. 1 (2 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-1-1870/table-of-contents)**
 
 - Introduction and Project Overview
@@ -307,3 +281,29 @@
 ~~Programming for Web Pages~~
 
 ~~Finishing Our Application~~
+
+## **[JavaScript Fundamentals (3 Hours)](https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents)**
+
+~~Course Overview~~
+
+~~Introduction and Setup~~
+
+~~Language Features~~
+
+~~Operators~~
+
+~~Functions and Scope~~
+
+~~Objects and Arrays~~
+
+~~Classes and Modules~~
+
+~~Programming the BOM and the DOM~~
+
+~~Promises and Error Handling~~
+
+~~Data Access Using HTTP~~
+
+~~Forms~~
+
+~~Security and Building for Production~~
