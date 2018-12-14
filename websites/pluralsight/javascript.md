@@ -18,9 +18,9 @@
 
 ~~Programming the BOM and the DOM~~
 
-- Promises and Error Handling
+~~Promises and Error Handling~~
 
-- Data Access Using HTTP
+~~Data Access Using HTTP~~
 
 - Forms
 
