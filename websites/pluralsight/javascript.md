@@ -20,7 +20,7 @@
 
 ~~Promises and Error Handling~~
 
-- Data Access Using HTTP
+~~Data Access Using HTTP~~
 
 - Forms
 
