@@ -6,6 +6,30 @@
 
 - Quick Start to JavaScript Vol. 1
 
+- What is JavaScript?
+
+- Hello World: Writing Your First JavaScript
+
+- Introduction to Operators
+
+- Understanding the Console
+
+- String, Number, and Boolean Values
+
+- Variables
+
+- Using Variables
+
+- Introduction to Control Flow: if/else Statements
+
+- Using else if
+
+- Control Flow and Comparison Operators
+
+-  Putting It All Together: Xombie Text Adventure Game
+
+- Volume 1 Assignment: Choose Your Own Adventure
+
 ## **[Quick Start to JavaScript Vol. 2 (2 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-2-1917/table-of-contents)**
 
 - Introduction and Project Overview
