@@ -4,11 +4,9 @@
 
 ~~Introduction and Project Overview~~
 
-- Quick Start to JavaScript Vol. 1
+~~What is JavaScript?~~
 
-- What is JavaScript?
-
-- Hello World: Writing Your First JavaScript
+~~Hello World: Writing Your First JavaScript~~
 
 - Introduction to Operators
 
