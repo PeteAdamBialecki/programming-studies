@@ -6,7 +6,7 @@
 
 ~~What is JavaScript?~~
 
-- Hello World: Writing Your First JavaScript
+~~Hello World: Writing Your First JavaScript~~
 
 - Introduction to Operators
 
