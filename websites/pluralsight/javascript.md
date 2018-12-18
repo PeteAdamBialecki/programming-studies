@@ -12,7 +12,7 @@
 
 ~~Understanding the Console~~
 
-- String, Number, and Boolean Values
+~~String, Number, and Boolean Values~~
 
 - Variables
 
