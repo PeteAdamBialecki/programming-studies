@@ -8,7 +8,7 @@
 
 ~~Hello World: Writing Your First JavaScript~~
 
-- Introduction to Operators
+~~Introduction to Operators~~
 
 - Understanding the Console
 
