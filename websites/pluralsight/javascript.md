@@ -14,7 +14,7 @@
 
 ~~String, Number, and Boolean Values~~
 
-- Variables
+~~Variables~~
 
 - Using Variables
 
