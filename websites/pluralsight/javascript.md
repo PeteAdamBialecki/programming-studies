@@ -18,7 +18,7 @@
 
 ~~Using Variables~~
 
-- Introduction to Control Flow: if/else Statements
+~~Introduction to Control Flow: if/else Statements~~
 
 - Using else if
 
