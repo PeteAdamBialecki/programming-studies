@@ -20,13 +20,13 @@
 
 ~~Introduction to Control Flow: if/else Statements~~
 
-~~Using else if~~
+~~Using else if~~v
 
-- Control Flow and Comparison Operators
+~~Control Flow and Comparison Operators~~
 
--  Putting It All Together: Xombie Text Adventure Game
+~~Putting It All Together: Xombie Text Adventure Game~~
 
-- Volume 1 Assignment: Choose Your Own Adventure
+~~Volume 1 Assignment: Choose Your Own Adventure~~
 
 ## **[Quick Start to JavaScript Vol. 2 (2 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-2-1917/table-of-contents)**
 
