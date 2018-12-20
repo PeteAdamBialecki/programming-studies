@@ -20,7 +20,7 @@
 
 ~~Introduction to Control Flow: if/else Statements~~
 
-- Using else if
+~~Using else if~~
 
 - Control Flow and Comparison Operators
 
