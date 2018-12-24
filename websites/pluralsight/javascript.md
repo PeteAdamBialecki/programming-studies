@@ -6,7 +6,7 @@
 
 ~~Switch Statements~~
 
-- For Lookps
+~~For Loops~~
 
 - Revisiting Fizzbuzz
 
