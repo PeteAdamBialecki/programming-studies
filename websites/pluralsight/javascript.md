@@ -2,9 +2,29 @@
 
 ## **[Quick Start to JavaScript Vol. 2 (2 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-2-1917/table-of-contents)**
 
-- Introduction and Project Overview
+~~Introduction and Project Overview~~
 
-- Quick Start to JavaScript Vol. 2
+- Switch Statements
+
+- For Lookps
+
+- Revisiting Fizzbuzz
+
+- While Loops
+
+- Functions
+
+- Additional Practice with Functions
+
+- Arrays
+
+- Looping Over an Array
+
+- Creating a JavaScript File from Scratch
+
+- Plan Then Create
+
+- Volume 2 Assignment
 
 ## **[Quick Start to JavaScript Vol. 3 (1.5 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-3-1918/table-of-contents)**
 
