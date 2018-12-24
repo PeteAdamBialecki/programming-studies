@@ -4,7 +4,7 @@
 
 ~~Introduction and Project Overview~~
 
-- Switch Statements
+~~Switch Statements~~
 
 - For Lookps
 
