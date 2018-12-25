@@ -8,7 +8,7 @@
 
 ~~For Loops~~
 
-- Revisiting Fizzbuzz
+~~Revisiting Fizzbuzz~~
 
 - While Loops
 
