@@ -12,7 +12,7 @@
 
 ~~While Loops~~
 
-- Functions
+~~Functions~~
 
 - Additional Practice with Functions
 
