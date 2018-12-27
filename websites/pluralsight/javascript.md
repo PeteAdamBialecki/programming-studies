@@ -10,7 +10,7 @@
 
 ~~Revisiting Fizzbuzz~~
 
-- While Loops
+~~While Loops~~
 
 - Functions
 
