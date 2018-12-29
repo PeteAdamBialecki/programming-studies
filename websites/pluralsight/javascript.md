@@ -16,7 +16,7 @@
 
 ~~Additional Practice with Functions~~
 
-- Arrays
+~~Arrays~~
 
 - Looping Over an Array
 
