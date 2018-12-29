@@ -16,9 +16,9 @@
 
 ~~Additional Practice with Functions~~
 
-- Arrays
+~~Arrays~~
 
-- Looping Over an Array
+~~Looping Over an Array~~
 
 - Creating a JavaScript File from Scratch
 
