@@ -6,7 +6,7 @@
 
 ~~Objects~~
 
-- Methods
+~~Methods~~
 
 - Object Literals and Object Constructors
 
