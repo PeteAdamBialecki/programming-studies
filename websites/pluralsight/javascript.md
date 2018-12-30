@@ -4,7 +4,25 @@
 
 - Introduction and Project Overview
 
-- Quick Start to JavaScript Vol. 3
+- Objects
+
+- Methods
+
+- Object Literals and Object Constructors
+
+- What is Object Oriented Programming?
+
+- This and the Global Object
+
+- Local and Global Scope
+
+- Understanding Scope
+
+- Coding Conventions and Using Jslint
+
+- Revisiting Our Game
+
+- Vol. 3 Assignment
 
 ## **[JavaScript Objects and Prototypes (1 Hour)](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents)**
 
