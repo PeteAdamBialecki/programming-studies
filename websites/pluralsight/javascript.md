@@ -4,7 +4,7 @@
 
 ~~Introduction and Project Overview~~
 
-- Objects
+~~Objects~~
 
 - Methods
 
