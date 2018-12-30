@@ -2,7 +2,7 @@
 
 ## **[Quick Start to JavaScript Vol. 3 (1.5 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-3-1918/table-of-contents)**
 
-- Introduction and Project Overview
+~~Introduction and Project Overview~~
 
 - Objects
 
