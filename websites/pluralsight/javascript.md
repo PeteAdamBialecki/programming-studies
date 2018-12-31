@@ -4,6 +4,16 @@
 
 ~~Introduction and Project Overview~~
 
+~~Switch Statements~~
+
+~~For Loops~~
+
+~~Revisiting Fizzbuzz~~
+
+~~While Loops~~
+
+~~Functions~~
+
 ~~Objects~~
 
 ~~Methods~~
