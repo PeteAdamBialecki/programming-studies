@@ -1,6 +1,6 @@
 # **Pluralsight JavaScript Courses**
 
-## **[Quick Start to JavaScript Vol. 2 (2 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-2-1917/table-of-contents)**
+## **[Quick Start to JavaScript Vol. 3 (1.5 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-3-1918/table-of-contents)**
 
 ~~Introduction and Project Overview~~
 
@@ -14,23 +14,25 @@
 
 ~~Functions~~
 
-- Additional Practice with Functions
+~~Objects~~
 
-- Arrays
+~~Methods~~
 
-- Looping Over an Array
+- Object Literals and Object Constructors
 
-- Creating a JavaScript File from Scratch
+- What is Object Oriented Programming?
 
-- Plan Then Create
+- This and the Global Object
 
-- Volume 2 Assignment
+- Local and Global Scope
 
-## **[Quick Start to JavaScript Vol. 3 (1.5 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-3-1918/table-of-contents)**
+- Understanding Scope
 
-- Introduction and Project Overview
+- Coding Conventions and Using Jslint
 
-- Quick Start to JavaScript Vol. 3
+- Revisiting Our Game
+
+- Vol. 3 Assignment
 
 ## **[JavaScript Objects and Prototypes (1 Hour)](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents)**
 
@@ -349,3 +351,29 @@
 ~~Putting It All Together: Xombie Text Adventure Game~~
 
 ~~Volume 1 Assignment: Choose Your Own Adventure~~ 
+
+## **[Quick Start to JavaScript Vol. 2 (2 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-2-1917/table-of-contents)**
+
+~~Introduction and Project Overview~~
+
+~~Switch Statements~~
+
+~~For Loops~~
+
+~~Revisiting Fizzbuzz~~
+
+~~While Loops~~
+
+~~Functions~~
+
+~~Additional Practice with Functions~~
+
+~~Arrays~~
+
+~~Looping Over an Array~~
+
+~~Creating a JavaScript File from Scratch~~
+
+~~Plan Then Create~~
+
+~~Volume 2 Assignment~~
