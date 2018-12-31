@@ -18,9 +18,9 @@
 
 ~~Methods~~
 
-- Object Literals and Object Constructors
+~~Object Literals and Object Constructors~~
 
-- What is Object Oriented Programming?
+~~What is Object Oriented Programming?~~
 
 - This and the Global Object
 
