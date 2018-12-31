@@ -22,7 +22,7 @@
 
 ~~What is Object Oriented Programming?~~
 
-- This and the Global Object
+~~This and the Global Object~~
 
 - Local and Global Scope
 
