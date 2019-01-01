@@ -28,7 +28,7 @@
 
 ~~Understanding Scope~~
 
-- Coding Conventions and Using Jslint
+~~Coding Conventions and Using Jslint~~
 
 - Revisiting Our Game
 
