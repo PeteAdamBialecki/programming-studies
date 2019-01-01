@@ -26,7 +26,7 @@
 
 ~~Local and Global Scope~~
 
-- Understanding Scope
+~~Understanding Scope~~
 
 - Coding Conventions and Using Jslint
 
