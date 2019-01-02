@@ -1,39 +1,5 @@
 # **Pluralsight JavaScript Courses**
 
-## **[Quick Start to JavaScript Vol. 3 (1.5 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-3-1918/table-of-contents)**
-
-~~Introduction and Project Overview~~
-
-~~Switch Statements~~
-
-~~For Loops~~
-
-~~Revisiting Fizzbuzz~~
-
-~~While Loops~~
-
-~~Functions~~
-
-~~Objects~~
-
-~~Methods~~
-
-~~Object Literals and Object Constructors~~
-
-~~What is Object Oriented Programming?~~
-
-~~This and the Global Object~~
-
-~~Local and Global Scope~~
-
-~~Understanding Scope~~
-
-~~Coding Conventions and Using Jslint~~
-
-- Revisiting Our Game
-
-- Vol. 3 Assignment
-
 ## **[JavaScript Objects and Prototypes (1 Hour)](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents)**
 
 - Creating JavaScript Objects
@@ -377,3 +343,37 @@
 ~~Plan Then Create~~
 
 ~~Volume 2 Assignment~~
+
+## **[Quick Start to JavaScript Vol. 3 (1.5 hours)](https://app.pluralsight.com/library/courses/quick-start-javascript-3-1918/table-of-contents)**
+
+~~Introduction and Project Overview~~
+
+~~Switch Statements~~
+
+~~For Loops~~
+
+~~Revisiting Fizzbuzz~~
+
+~~While Loops~~
+
+~~Functions~~
+
+~~Objects~~
+
+~~Methods~~
+
+~~Object Literals and Object Constructors~~
+
+~~What is Object Oriented Programming?~~
+
+~~This and the Global Object~~
+
+~~Local and Global Scope~~
+
+~~Understanding Scope~~
+
+~~Coding Conventions and Using Jslint~~
+
+~Revisiting Our Game~~
+
+~~Vol. 3 Assignment~~
