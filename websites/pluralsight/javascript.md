@@ -1,13 +1,5 @@
 # **Pluralsight JavaScript Courses**
 
-## **[JavaScript Objects and Prototypes (1 Hour)](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents)**
-
-~~Creating JavaScript Objects~~
-
-~~JavaScript Object Properties~~
-
-- JavaScript Prototypes and Inheritance
-
 ## **[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)**
 
 - Course Overview
@@ -377,3 +369,11 @@
 ~Revisiting Our Game~~
 
 ~~Vol. 3 Assignment~~
+
+## **[JavaScript Objects and Prototypes (1 Hour)](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents)**
+
+~~Creating JavaScript Objects~~
+
+~~JavaScript Object Properties~~
+
+~~JavaScript Prototypes and Inheritance~~
