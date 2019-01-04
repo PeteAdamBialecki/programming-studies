@@ -4,9 +4,7 @@
 
 ~~Creating JavaScript Objects~~
 
-- JavaScript Object Properties
-
-        - Using Bracket Notation to Access JavaScript Properties
+~~JavaScript Object Properties~~
 
 - JavaScript Prototypes and Inheritance
 
