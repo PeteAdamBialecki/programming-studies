@@ -6,6 +6,8 @@
 
 - JavaScript Object Properties
 
+        - Using Bracket Notation to Access JavaScript Properties
+
 - JavaScript Prototypes and Inheritance
 
 ## **[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)**
