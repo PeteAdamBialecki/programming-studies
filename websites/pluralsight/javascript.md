@@ -2,7 +2,7 @@
 
 ## **[JavaScript Objects and Prototypes (1 Hour)](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents)**
 
-- Creating JavaScript Objects
+~~Creating JavaScript Objects~~
 
 - JavaScript Object Properties
 
