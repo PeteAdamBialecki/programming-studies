@@ -60,8 +60,6 @@
 
 - Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
 
-- Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
-
 - Practice Object Basics in JavaScript (21 minutes)
 
 - Getting Started with webpack-1 (22 minutes)
