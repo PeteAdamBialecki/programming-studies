@@ -2,7 +2,7 @@
 
 ## **[JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)**
 
-- Course Overview
+~~Course Overview~~
 
 - Why Best Practices?
 
