@@ -8,6 +8,8 @@
 
 - Syntax
 
+    - Continue with "Curly Braces"
+
 - Behaviors
 
 - Async Patterns
