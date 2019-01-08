@@ -4,7 +4,7 @@
 
 ~~Course Overview~~
 
-- Why Best Practices?
+~~Why Best Practices?~~
 
 - Syntax
 
