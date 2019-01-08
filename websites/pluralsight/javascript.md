@@ -1,5 +1,21 @@
 # **Pluralsight JavaScript Courses**
 
+## **[JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)**
+
+~~Course Overview~~
+
+~~Why Best Practices?~~
+
+- Syntax
+
+    - Continue with "Curly Braces"
+
+- Behaviors
+
+- Async Patterns
+
+- Production Code
+
 ## **[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)**
 
 - Course Overview
@@ -19,20 +35,6 @@
 - Advanced Event Handling
 
 - Using jQuery Deferred Objects
-
-## **[JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)**
-
-- Course Overview
-
-- Why Best Practices?
-
-- Syntax
-
-- Behaviors
-
-- Async Patterns
-
-- Production Code
 
 ## **[Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)**
 
