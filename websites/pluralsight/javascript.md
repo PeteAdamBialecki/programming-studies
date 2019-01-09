@@ -6,9 +6,7 @@
 
 ~~Why Best Practices?~~
 
-- Syntax
-
-    - Continue with "Curly Braces"
+~~Syntax~~
 
 - Behaviors
 
