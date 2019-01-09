@@ -60,8 +60,6 @@
 
 - Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
 
-- Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
-
 - Practice Object Basics in JavaScript (21 minutes)
 
 - Getting Started with webpack-1 (22 minutes)
@@ -70,15 +68,13 @@
 
 - The JavaScript Ecosystem (29 minutes)
 
-- Programming Step-by-Step: Object-Oriented JavaScript (Part 2) (30 minutes)
+- Programming Step-By-Step: Object-Oriented JavaScript (Part 1) (41 minutes)
 
-- Programming Step-by-Step: Object-Oriented JavaScript (Part 2) ) (30 minutes)
+- Programming Step-by-Step: Object-Oriented JavaScript (Part 2) (30 minutes)
 
 - Practice forEach in JavaScript (30 minutes)
 
 - Debugging JavaScript in the Browser (39 minutes)
-
-- Programming Step-By-Step: Object-Oriented JavaScript (Part 1) (41 minutes)
 
 - Getting Started with TypeScript (43  minutes)
 
