@@ -8,7 +8,7 @@
 
 ~~Syntax~~
 
-- Behaviors
+~~Behaviors~~
 
 - Async Patterns
 
