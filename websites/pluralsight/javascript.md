@@ -12,6 +12,8 @@
 
 - Async Patterns
 
+    - Continue with "Async - Await"
+
 - Production Code
 
 ## **[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)**
