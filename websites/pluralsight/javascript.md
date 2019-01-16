@@ -10,9 +10,7 @@
 
 ~~Behaviors~~
 
-- Async Patterns
-
-    - Continue with "Async - Await"
+~~Async Patterns~~
 
 - Production Code
 
