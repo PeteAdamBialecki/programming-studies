@@ -14,7 +14,7 @@
 
 - Production Code
 
-    - Continue with "Enviornment Variables"
+    - Continue with "Cross Platform"
 
 ## **[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)**
 
