@@ -1,21 +1,5 @@
 # **Pluralsight JavaScript Courses**
 
-## **[JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)**
-
-~~Course Overview~~
-
-~~Why Best Practices?~~
-
-~~Syntax~~
-
-~~Behaviors~~
-
-~~Async Patterns~~
-
-- Production Code
-
-    - Continue with "Cross Platform"
-
 ## **[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)**
 
 - Course Overview
@@ -379,3 +363,17 @@
 ~~JavaScript Object Properties~~
 
 ~~JavaScript Prototypes and Inheritance~~
+
+## **[JavaScript Best Practices (3 Hours)](https://app.pluralsight.com/library/courses/javascript-best-practices/table-of-contents)**
+
+~~Course Overview~~
+
+~~Why Best Practices?~~
+
+~~Syntax~~
+
+~~Behaviors~~
+
+~~Async Patterns~~
+
+~~Production Code~~
