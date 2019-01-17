@@ -2,7 +2,7 @@
 
 ## **[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)**
 
-- Course Overview
+~~Course Overview~~
 
 - What is a Design Pattern Anyway?
 
