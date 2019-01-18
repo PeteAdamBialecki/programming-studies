@@ -4,7 +4,7 @@
 
 ~~Course Overview~~
 
-- What is a Design Pattern Anyway?
+~~What is a Design Pattern Anyway?~~
 
 - Objects in JavaScript
 
