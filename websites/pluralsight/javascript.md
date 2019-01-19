@@ -8,6 +8,8 @@
 
 - Objects in JavaScript
 
+    - Continue with "Demo Task Creation"
+
 - Creational Design Patterns
 
 ## **[Advanced Techniques in JavaScript and jQuery (3.5 Hours)](https://app.pluralsight.com/library/courses/javascript-jquery-advanced-techniques/table-of-contents)**
