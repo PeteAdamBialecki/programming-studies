@@ -6,9 +6,7 @@
 
 ~~What is a Design Pattern Anyway?~~
 
-- Objects in JavaScript
-
-    - Continue with "Demo Task Creation"
+~~Objects in JavaScript~~
 
 - Creational Design Patterns
 
