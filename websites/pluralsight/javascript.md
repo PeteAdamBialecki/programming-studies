@@ -10,6 +10,8 @@
 
 - Creational Design Patterns
 
+    - Continue with "Demo: Constructor Node"
+
 - Structural Design Patterns
 
 - Behavioral Design Patterns
