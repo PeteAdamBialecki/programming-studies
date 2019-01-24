@@ -13,3 +13,13 @@ Beginner
 ## **[Java Fundamentals: Collections](https://app.pluralsight.com/library/courses/java-fundamentals-collections)**
 
 ## **[Java Fundamentals: Generics](https://app.pluralsight.com/library/courses/java-generics)**
+
+Intermediate
+
+## **[Programming with Dates and Times in Java 8](https://app.pluralsight.com/library/courses/java8-dates-times-programming)**
+
+## **[Java Platform: Working with Databases Using JDBC](https://app.pluralsight.com/library/courses/jdbc-java-platform-working-with-databases)**
+
+## **[Applying Concurrency and Multi-threading to Common Java Patterns](https://app.pluralsight.com/library/courses/java-patterns-concurrency-multi-threading)**
+
+## **[Java Web Fundamentals](https://app.pluralsight.com/library/courses/java-web-fundamentals)**
