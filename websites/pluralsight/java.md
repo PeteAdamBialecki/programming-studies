@@ -23,3 +23,9 @@ Intermediate
 ## **[Applying Concurrency and Multi-threading to Common Java Patterns](https://app.pluralsight.com/library/courses/java-patterns-concurrency-multi-threading)**
 
 ## **[Java Web Fundamentals](https://app.pluralsight.com/library/courses/java-web-fundamentals)**
+
+Advanced
+
+## **[Introduction to Testing n Java](https://app.pluralsight.com/library/courses/java-testing-introduction)**
+
+## **[Test-Driven Development Practices in Java](https://app.pluralsight.com/library/courses/test-driven-development-java)**
