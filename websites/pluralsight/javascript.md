@@ -10,7 +10,7 @@
 
 - Creational Design Patterns
 
-    - Continue with "Demo: Constructor Node"
+    - Continue with "Demo: Classes"
 
 - Structural Design Patterns
 
