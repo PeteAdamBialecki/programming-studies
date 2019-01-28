@@ -10,7 +10,7 @@
 
 - Creational Design Patterns
 
-    - Continue with "Demo: Classes"
+    - Continue with "Singleton Patterns"
 
 - Structural Design Patterns
 
