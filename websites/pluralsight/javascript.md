@@ -8,9 +8,7 @@
 
 ~~Objects in JavaScript~~
 
-- Creational Design Patterns
-
-    - Continue with "Singleton Patterns"
+~~Creational Design Patterns~~
 
 - Structural Design Patterns
 
