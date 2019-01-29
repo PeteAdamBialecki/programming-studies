@@ -8,9 +8,7 @@
 
 ~~Objects in JavaScript~~
 
-- Creational Design Patterns
-
-    - Continue with "Singleton Patterns"
+~~Creational Design Patterns~~
 
 - Structural Design Patterns
 
@@ -43,6 +41,18 @@
 - The Reflect API
 
 - The Proxy API
+
+## **[jQuery](https://app.pluralsight.com/paths/skill/jquery)**
+
+## **[Node.js](https://app.pluralsight.com/paths/skill/node-js)**
+
+## **[React.js](https://app.pluralsight.com/paths/skill/react)**
+
+## **[Vue.js](https://app.pluralsight.com/paths/skill/vue)**
+
+## **[Angular.js](https://app.pluralsight.com/paths/skill/angular)**
+
+## **[Core Spring](https://app.pluralsight.com/paths/skill/core-spring)**
 
 ## **[React.js: Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)**
 
