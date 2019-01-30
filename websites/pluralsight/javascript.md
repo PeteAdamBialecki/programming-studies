@@ -42,17 +42,131 @@
 
 - The Proxy API
 
-## **[jQuery](https://app.pluralsight.com/paths/skill/jquery)**
+## **[jQuery (27 Hours)](https://app.pluralsight.com/paths/skill/jquery)**
 
-## **[Node.js](https://app.pluralsight.com/paths/skill/node-js)**
+- jQuery Fundamentals
 
-## **[React.js](https://app.pluralsight.com/paths/skill/react)**
+- jQuery UI
 
-## **[Vue.js](https://app.pluralsight.com/paths/skill/vue)**
+- jQuery In-Depth
 
-## **[Angular.js](https://app.pluralsight.com/paths/skill/angular)**
+- jQuery Forms and Bootstrap 3
 
-## **[Core Spring](https://app.pluralsight.com/paths/skill/core-spring)**
+- Fixing Common jQuery Bugs
+
+- Useful jQuery Plugins
+
+- jQuery Tips and Tricks
+
+## **[Node.js (32 hours)](https://app.pluralsight.com/paths/skill/node-js)**
+
+- Node.js: Getting Started
+
+- Learning to Program - Part: 1 Getting Started
+
+- NPM Playbook
+
+- Building a JavaScript Development Enviornment
+
+- Introduction to Node.js
+
+- Building Web Applications with Node.js and Express 4.0
+
+- RESTful Web Services with Node.js
+
+- Node.js Testing Strategies
+
+- Node Application Patterns
+
+- Advanced Node.js
+
+## **[React.js (38 hours)](https://app.pluralsight.com/paths/skill/react)**
+
+- React: The Big Picture
+
+- React.js: Getting Started
+
+- React Fundamentals
+
+- Securing React Apps with AuthO
+
+- Building Applications with React and Flux
+
+- Building Applications with React and Redux in ES6
+
+- Building Scalable React Apps
+
+- Styling React Components
+
+- Advanced React.js
+
+- Testing React Applications with Jest
+
+- Building a Full-Stack App with React and Express
+
+## **[Vue.js (13 hours)](https://app.pluralsight.com/paths/skill/vue)**
+
+- Vue.js: Big Picture
+
+- Vue.js: Getting Started
+
+- Developing Faster with the Vue CLI
+
+- Vue.js Fundamentals
+
+- Single Page Applications with Vue.js
+
+## **[Angular.js (48 hours)](https://app.pluralsight.com/paths/skill/angular)**
+
+- Angular: The Big Picture
+
+- Angular: Getting Started
+
+- Angular CLI
+
+- Angular Forms
+
+- Angular Fundamentals
+
+- Angular Routing
+
+- Securing Angular Apps with OpenID Conect and OAuth2
+
+- Unit Testing in Angular
+
+- Angular Reactive Forms
+
+- Angular NgRx: Gettin Started
+
+- Angular HTTP Communication
+
+- Angular Services
+
+- Angular Best Practices
+
+## **[Core Spring (36 hours)](https://app.pluralsight.com/paths/skill/core-spring)**
+
+- Spring: The Big Picture
+
+- Maven Fundamentals
+
+- Spring Fundamentals
+
+- Introduction to Spring MVC
+
+- Introduction to Spring MVC 4
+
+- Buidling Applications Using Sping JDBC
+
+- Spring with JPA and Hibernate
+
+- Getting Started with Spring Data JPA
+
+- Aspect Oriented Programming (AOP) Using Spring AOP and AspectJ
+
+- Spring Security Fundamentals
+
+- Spring Cloud Fundamentals
 
 ## **[React.js: Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)**
 
