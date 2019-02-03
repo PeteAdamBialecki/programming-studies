@@ -12,7 +12,7 @@
 
 - Structural Design Patterns
 
-    - Continue with "Demo: More Complicated Decorators"
+    - Continue with "Demo: Flyweight Pattern"
 
 - Behavioral Design Patterns
 
