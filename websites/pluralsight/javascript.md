@@ -10,9 +10,7 @@
 
 ~~Creational Design Patterns~~
 
-- Structural Design Patterns
-
-    - Continue with "Demo: Flyweight Pattern"
+~~Structural Design Patterns~~
 
 - Behavioral Design Patterns
 
