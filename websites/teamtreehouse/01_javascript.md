@@ -168,10 +168,6 @@
 
 -------------
 
-# **Lectures / Presentations**
-
-- jQuery UK 2014 (5 hours)
-
 # **Upcoming Releases**
 
 - React Basics (Refresh)
