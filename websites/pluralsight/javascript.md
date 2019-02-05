@@ -12,9 +12,7 @@
 
 ~~Structural Design Patterns~~
 
-- Behavioral Design Patterns
-
-    - Continue with "Mediator Pattern"
+~~Behavioral Design Patterns~~
 
 ## **[Advanced Techniques in JavaScript and jQuery (3.5 Hours)](https://app.pluralsight.com/library/courses/javascript-jquery-advanced-techniques/table-of-contents)**
 
