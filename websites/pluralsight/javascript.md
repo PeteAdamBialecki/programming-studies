@@ -1,19 +1,5 @@
 # **Pluralsight JavaScript Courses**
 
-## **[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)**
-
-~~Course Overview~~
-
-~~What is a Design Pattern Anyway?~~
-
-~~Objects in JavaScript~~
-
-~~Creational Design Patterns~~
-
-~~Structural Design Patterns~~
-
-~~Behavioral Design Patterns~~
-
 ## **[Advanced Techniques in JavaScript and jQuery (3.5 Hours)](https://app.pluralsight.com/library/courses/javascript-jquery-advanced-techniques/table-of-contents)**
 
 - Introduction
@@ -79,6 +65,20 @@
 - Node Application Patterns
 
 - Advanced Node.js
+
+## **[React.js: Getting Started (2 hours)](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)**
+
+- Course Overview
+
+- Introduction
+
+- Working with Data
+
+- Builing the Game Interface
+
+- Numbers Selection
+
+- Game State
 
 ## **[React.js (38 hours)](https://app.pluralsight.com/paths/skill/react)**
 
@@ -167,20 +167,6 @@
 - Spring Security Fundamentals
 
 - Spring Cloud Fundamentals
-
-## **[React.js: Getting Started](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)**
-
-- Course Overview
-
-- Introduction
-
-- Working with Data
-
-- Builing the Game Interface
-
-- Numbers Selection
-
-- Game State
 
 ## **[Making Data Into Something You Can See](https://www.pluralsight.com/courses/data-you-can-see)**
 
@@ -507,3 +493,17 @@
 ~~Async Patterns~~
 
 ~~Production Code~~
+
+## **[Practical Design Patterns in JavaScript (3 Hours)](https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents)**
+
+~~Course Overview~~
+
+~~What is a Design Pattern Anyway?~~
+
+~~Objects in JavaScript~~
+
+~~Creational Design Patterns~~
+
+~~Structural Design Patterns~~
+
+~~Behavioral Design Patterns~~
