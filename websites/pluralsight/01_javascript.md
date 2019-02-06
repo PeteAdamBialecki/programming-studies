@@ -4,6 +4,8 @@
 
 - Introduction
 
+    - Continue with 'Extending Draw - Two Parameters'
+
 - Event Handling
 
 - Advanced Event Handling
