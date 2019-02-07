@@ -2,9 +2,7 @@
 
 ## **[Advanced Techniques in JavaScript and jQuery (3.5 Hours)](https://app.pluralsight.com/library/courses/javascript-jquery-advanced-techniques/table-of-contents)**
 
-- Introduction
-
-    - Continue with 'Extending Draw - Two Parameters'
+~~Introduction~~
 
 - Event Handling
 
