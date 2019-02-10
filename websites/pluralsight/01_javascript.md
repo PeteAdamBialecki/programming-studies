@@ -4,7 +4,7 @@
 
 ~~Introduction~~
 
-- Event Handling
+~~Event Handling~~
 
 - Advanced Event Handling
 
