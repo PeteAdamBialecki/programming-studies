@@ -8,6 +8,8 @@
 
 - Advanced Event Handling
 
+    - Continue with "Namespace"
+
 - Using jQuery Deferred Objects
 
 ## **[Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)**
