@@ -8,7 +8,7 @@
 
 - Advanced Event Handling
 
-    - Continue with "Namespace"
+    - Continue with "Delegation"
 
 - Using jQuery Deferred Objects
 
