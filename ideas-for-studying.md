@@ -1,5 +1,28 @@
 # **ADDITIONAL NOTES AND AREAS OF STUDY**
 
+## **PROGRAMMING DIRECTIONS**
+
+Pluralsight: Advanced Techniques in JavaScript and jQuery
+
+Pluralsight: Rapid ES6 Training
+
+Teamtreehouse JavaScript Misc Courses
+
+Pluralsight: jQuery (27 Hours)
+
+Teamtreehouse jQuery Misc Courses
+
+Pluralsight: Node.js (32 hours)
+
+Teamtreehouse Node.js Misc Courses
+
+Pluralsight: React.js: Getting Started (2 hours)
+
+Pluralsight: React.js (38 hours)
+
+Teamtreehouse React Misc Courses
+
+
 ## **Cool Sites and Resources For Study**
 
 - [npm Packages](https://colorlib.com/wp/npm-packages-node-js/)
