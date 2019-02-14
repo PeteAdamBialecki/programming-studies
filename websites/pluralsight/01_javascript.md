@@ -6,9 +6,7 @@
 
 ~~Event Handling~~
 
-- Advanced Event Handling
-
-    - Continue with "Delegation"
+~~Advanced Event Handling~~
 
 - Using jQuery Deferred Objects
 
