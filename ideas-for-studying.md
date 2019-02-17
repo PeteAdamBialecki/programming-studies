@@ -22,7 +22,6 @@ Pluralsight: React.js (38 hours)
 
 Teamtreehouse React Misc Courses
 
-
 ## **Cool Sites and Resources For Study**
 
 - [npm Packages](https://colorlib.com/wp/npm-packages-node-js/)
