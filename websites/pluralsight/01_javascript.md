@@ -10,6 +10,8 @@
 
 - Using jQuery Deferred Objects
 
+    - Continue with "Creating a Deferred Object"
+
 ## **[Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)**
 
 - Course Overview
