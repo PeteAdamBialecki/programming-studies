@@ -6,11 +6,11 @@ Pluralsight: Advanced Techniques in JavaScript and jQuery
 
 Pluralsight: Rapid ES6 Training
 
-Teamtreehouse JavaScript Misc Courses
-
 Pluralsight: jQuery (27 Hours)
 
 Teamtreehouse jQuery Misc Courses
+
+Teamtreehouse JavaScript Misc Courses
 
 Pluralsight: Node.js (32 hours)
 
