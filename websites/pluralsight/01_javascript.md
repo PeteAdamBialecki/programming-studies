@@ -1,22 +1,10 @@
 # **Pluralsight JavaScript Courses**
 
-## **[Advanced Techniques in JavaScript and jQuery (3.5 Hours)](https://app.pluralsight.com/library/courses/javascript-jquery-advanced-techniques/table-of-contents)**
-
-~~Introduction~~
-
-~~Event Handling~~
-
-~~Advanced Event Handling~~
-
-- Using jQuery Deferred Objects
-
-    - Continue with "Creating a Deferred Object"
-
 ## **[Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)**
 
-- Course Overview
+~~Course Overview~~
 
-- Introduction
+~~Introduction~~
 
 - New ES6 Modules and Classes
 
@@ -259,3 +247,13 @@
 - Visualizing Both A Catagorical and a Numeric Variable
 
 - Moving Beyond The Basics
+
+## **[Advanced Techniques in JavaScript and jQuery (3.5 Hours)](https://app.pluralsight.com/library/courses/javascript-jquery-advanced-techniques/table-of-contents)**
+
+~~Introduction~~
+
+~~Event Handling~~
+
+~~Advanced Event Handling~~
+
+~~Using jQuery Deferred Objects~~
