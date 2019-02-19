@@ -2,9 +2,9 @@
 
 ## **[Rapid ES6 Training (4.5 Hours)](https://app.pluralsight.com/library/courses/rapid-es6-training/table-of-contents)**
 
-- Course Overview
+~~Course Overview~~
 
-- Introduction
+~~Introduction~~
 
 - New ES6 Modules and Classes
 
