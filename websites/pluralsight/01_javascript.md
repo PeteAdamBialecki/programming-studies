@@ -8,6 +8,8 @@
 
 - New ES6 Modules and Classes
 
+    - Continue with "Arrow Functions"
+
 - New Types and Object Extensions
 
 - Iterators, Generators, and Promises
