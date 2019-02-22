@@ -10,7 +10,7 @@
 
 ~~Practicing Traversing the DOM (5 minutes)~~
 
-- Practice Working with jQuery Collections (6 minutes)
+~~Practice Working with jQuery Collections (6 minutes)~~
 
 - Practice Basic Variables, Input & Output in JavaScript (6 minutes)
 
