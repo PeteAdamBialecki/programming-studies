@@ -14,7 +14,7 @@
 
 - Practice Basic Variables, Input & Output in JavaScript (6 minutes)
 
-- Practice Basic JavaScript Functions (7 minutes)
+~~Practice Basic JavaScript Functions (7 minutes)~~
 
 - Practice If and Else If Statements (7 minutes)
 
