@@ -6,9 +6,7 @@
 
 ~~Introduction~~
 
-- New ES6 Modules and Classes
-
-    - Continue with "extends and super"
+~~New ES6 Modules and Classes~~
 
 - New Types and Object Extensions
 
