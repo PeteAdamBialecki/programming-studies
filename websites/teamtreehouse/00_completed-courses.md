@@ -154,3 +154,21 @@
 ~~Javascript and the DOM~~
 
 ~~DOM Scripting By Example~~
+
+## **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
+
+~~Practice Hashing Passwords in JavaScript (4 minutes)~~
+
+~~Adding MongoDB To Your Node.js Application (5 minutes)~~
+
+~~Practice Template Literals (5 minutes)~~
+
+~~Practicing Traversing the DOM (5 minutes)~~
+
+~~Practice Working with jQuery Collections (6 minutes)~~
+
+~~Practice Basic JavaScript Functions (7 minutes)~~
+
+~~Practice If and Else If Statements (7 minutes)~~
+
+~~Introducing Template Literals (9 minutes)~~
