@@ -172,3 +172,5 @@
 ~~Practice If and Else If Statements (7 minutes)~~
 
 ~~Introducing Template Literals (9 minutes)~~
+
+~~Practice Basic Variables, Input & Output in JavaScript (6 minutes)~~

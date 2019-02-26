@@ -10,6 +10,8 @@
 
 - New Types and Object Extensions
 
+    - Continue with "Object Extensions"
+
 - Iterators, Generators, and Promises
 
 - Arrays and Collections
