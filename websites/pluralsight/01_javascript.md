@@ -8,9 +8,11 @@
 
 ~~New ES6 Modules and Classes~~
 
-~~New Types and Object Extensions~~
+~~New Types and Object Extensions~~`
 
 - Iterators, Generators, and Promises
+
+    - Continue with "Iterators"
 
 - Arrays and Collections
 
