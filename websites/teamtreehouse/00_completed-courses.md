@@ -176,3 +176,5 @@
 ~~Practice Basic Variables, Input & Output in JavaScript (6 minutes)~~
 
 - Practice JavaScript Math Methods (8 minutes)
+
+~~Practice Manipulating the DOM (8 minutes)~~
