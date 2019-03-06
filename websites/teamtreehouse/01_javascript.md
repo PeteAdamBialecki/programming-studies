@@ -2,8 +2,6 @@
 
 ## **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-- How to Create and Distribute and NPM Package (8 minutes)
-
 - Practice Arrow Functions in JavaScript (8 minutes)
 
 - Practice Handling Events in jQuery (8 minutes)
