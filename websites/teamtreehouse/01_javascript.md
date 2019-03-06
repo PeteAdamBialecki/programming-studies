@@ -2,8 +2,6 @@
 
 ## **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-- Practice Let and Const in JavaScript (8 minutes)
-
 - How to Create and Distribute and NPM Package (8 minutes)
 
 - Practice Arrow Functions in JavaScript (8 minutes)
