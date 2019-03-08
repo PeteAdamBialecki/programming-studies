@@ -182,3 +182,5 @@
 ~~Practice Let and Const in JavaScript (8 minutes~~)
 
 ~~How to Create and Distribute and NPM Package (8 minutes)~~
+
+~~Practice Arrow Functions in JavaScript (8 minutes)~~
