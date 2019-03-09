@@ -184,3 +184,5 @@
 ~~How to Create and Distribute and NPM Package (8 minutes)~~
 
 ~~Practice Arrow Functions in JavaScript (8 minutes)~~
+
+~~Practice Basic jQuery Methods (8 minutes)~~

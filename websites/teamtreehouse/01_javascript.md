@@ -6,8 +6,6 @@
 
 - Practice Selecting DOM Elements (8 minutes)
 
-- Practice Basic jQuery Methods (8 minutes)
-
 - Deploy your App to GitHub Pages with Gulp (9 minutes)
 
 - Code Coverage with Istanbul (10 minutes)
