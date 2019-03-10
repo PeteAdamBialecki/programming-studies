@@ -175,7 +175,7 @@
 
 ~~Practice Basic Variables, Input & Output in JavaScript (6 minutes)~~
 
-- Practice JavaScript Math Methods (8 minutes)
+~~Practice JavaScript Math Methods (8 minutes)~~
 
 ~~Practice Manipulating the DOM (8 minutes)~~
 
@@ -186,3 +186,7 @@
 ~~Practice Arrow Functions in JavaScript (8 minutes)~~
 
 ~~Practice Basic jQuery Methods (8 minutes)~~
+
+~~Practice Handling Events in jQuery (8 minutes)~~
+
+~~Practice Selecting DOM Elements (8 minutes)~~
