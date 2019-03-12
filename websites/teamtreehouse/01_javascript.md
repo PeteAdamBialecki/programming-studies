@@ -4,8 +4,6 @@
 
 - Deploy your App to GitHub Pages with Gulp (9 minutes)
 
-- Practice JavaScript Loops (11 minutes)
-
 - Debugging Node Applications with Google Chrome (13 minutes)
 
 - Setting Up Travis CI with Node.js (13 minutes)

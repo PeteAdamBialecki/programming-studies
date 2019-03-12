@@ -194,3 +194,5 @@
 ~~Code Coverage with Istanbul (10 minutes)~~
 
 ~~Deploy a Node Application to Heroku (12 minutes)~~
+
+~~Practice JavaScript Loops (11 minutes)~~
