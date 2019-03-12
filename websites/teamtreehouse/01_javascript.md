@@ -2,29 +2,11 @@
 
 ## **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-<<<<<<< HEAD
-- Practice Selecting DOM Elements (8 minutes)
+Debugging Node Applications with Google Chrome (13 minutes)
 
-=======
->>>>>>> master
+Debugging JavaScript in the Browser (39 minutes)
+
 - Deploy your App to GitHub Pages with Gulp (9 minutes)
-
-<<<<<<< HEAD
-- Code Coverage with Istanbul (10 minutes)
-
-<<<<<<< HEAD
-=======
-- Practice JavaScript Loops (11 minutes)
-
-
-
-
->>>>>>> master
-- Deploy a Node Application to Heroku (12 minutes)
-
-=======
->>>>>>> 476f8c2e3328d663fcee1bcfdc47426fc46a3630
-- Debugging Node Applications with Google Chrome (13 minutes)
 
 - Setting Up Travis CI with Node.js (13 minutes)
 
@@ -44,8 +26,6 @@
 
 - Getting Started with webpack-1 (22 minutes)
 
-- Debugging Node Applications with Google Chrome (13 minutes)
-
 - The JavaScript Ecosystem (29 minutes)
 
 - Programming Step-By-Step: Object-Oriented JavaScript (Part 1) (41 minutes)
@@ -53,8 +33,6 @@
 - Programming Step-by-Step: Object-Oriented JavaScript (Part 2) (30 minutes)
 
 - Practice forEach in JavaScript (30 minutes)
-
-- Debugging JavaScript in the Browser (39 minutes)
 
 - Getting Started with TypeScript (43  minutes)
 
