@@ -186,3 +186,7 @@
 ~~Practice Arrow Functions in JavaScript (8 minutes)~~
 
 ~~Practice Basic jQuery Methods (8 minutes)~~
+
+~~Practice Handling Events in jQuery (8 minutes)~~
+
+~~Practice JavaScript Loops (11 minutes)~~

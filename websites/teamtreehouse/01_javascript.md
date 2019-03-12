@@ -2,15 +2,11 @@
 
 ## **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-- Practice Handling Events in jQuery (8 minutes)
-
 - Practice Selecting DOM Elements (8 minutes)
 
 - Deploy your App to GitHub Pages with Gulp (9 minutes)
 
 - Code Coverage with Istanbul (10 minutes)
-
-- Practice JavaScript Loops (11 minutes)
 
 - Deploy a Node Application to Heroku (12 minutes)
 
