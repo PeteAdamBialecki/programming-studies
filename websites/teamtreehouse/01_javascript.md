@@ -4,14 +4,7 @@
 
 - Deploy your App to GitHub Pages with Gulp (9 minutes)
 
-- Code Coverage with Istanbul (10 minutes)
-
 - Practice JavaScript Loops (11 minutes)
-
-
-
-
-- Deploy a Node Application to Heroku (12 minutes)
 
 - Debugging Node Applications with Google Chrome (13 minutes)
 

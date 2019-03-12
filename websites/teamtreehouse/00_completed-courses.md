@@ -190,3 +190,7 @@
 ~~Practice Handling Events in jQuery (8 minutes)~~
 
 ~~Practice Selecting DOM Elements (8 minutes)~~
+
+~~Code Coverage with Istanbul (10 minutes)~~
+
+~~Deploy a Node Application to Heroku (12 minutes)~~
