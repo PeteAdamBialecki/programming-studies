@@ -9,6 +9,7 @@
 >>>>>>> master
 - Deploy your App to GitHub Pages with Gulp (9 minutes)
 
+<<<<<<< HEAD
 - Code Coverage with Istanbul (10 minutes)
 
 <<<<<<< HEAD
@@ -21,6 +22,8 @@
 >>>>>>> master
 - Deploy a Node Application to Heroku (12 minutes)
 
+=======
+>>>>>>> 476f8c2e3328d663fcee1bcfdc47426fc46a3630
 - Debugging Node Applications with Google Chrome (13 minutes)
 
 - Setting Up Travis CI with Node.js (13 minutes)
