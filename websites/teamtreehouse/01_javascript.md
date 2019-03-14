@@ -6,6 +6,8 @@ Debugging Node Applications with Google Chrome (13 minutes)
 
 Debugging JavaScript in the Browser (39 minutes)
 
+        - Continue with the first setting, sources tab.
+
 - Deploy your App to GitHub Pages with Gulp (9 minutes)
 
 - Setting Up Travis CI with Node.js (13 minutes)
