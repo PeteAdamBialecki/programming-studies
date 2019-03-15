@@ -6,7 +6,7 @@ Debugging Node Applications with Google Chrome (13 minutes)
 
 Debugging JavaScript in the Browser (39 minutes)
 
-        - Continue with section four, "Debugging Functions".
+        - Continue with section four, "Debugging Exception Errors".
 
 - Deploy your App to GitHub Pages with Gulp (9 minutes)
 
