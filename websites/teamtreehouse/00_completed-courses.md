@@ -196,3 +196,5 @@
 ~~Deploy a Node Application to Heroku (12 minutes)~~
 
 ~~Practice JavaScript Loops (11 minutes)~~
+
+~~Debugging JavaScript in the Browser (39 minutes)~~
