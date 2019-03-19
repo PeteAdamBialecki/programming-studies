@@ -198,3 +198,5 @@
 ~~Practice JavaScript Loops (11 minutes)~~
 
 ~~Debugging JavaScript in the Browser (39 minutes)~~
+
+~~Debugging Node Applications with Google Chrome (13 minutes)~~

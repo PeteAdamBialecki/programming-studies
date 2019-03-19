@@ -2,8 +2,6 @@
 
 ## **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-Debugging Node Applications with Google Chrome (13 minutes)
-
 - Deploy your App to GitHub Pages with Gulp (9 minutes)
 
 - Setting Up Travis CI with Node.js (13 minutes)
