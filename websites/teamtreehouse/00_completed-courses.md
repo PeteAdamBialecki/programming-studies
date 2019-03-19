@@ -200,3 +200,5 @@
 ~~Debugging JavaScript in the Browser (39 minutes)~~
 
 ~~Debugging Node Applications with Google Chrome (13 minutes)~~
+
+~~Deploy your App to GitHub Pages with Gulp (9 minutes)~~
