@@ -2,8 +2,6 @@
 
 ## **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-- Deploy your App to GitHub Pages with Gulp (9 minutes)
-
 - Setting Up Travis CI with Node.js (13 minutes)
 
 - Build A Cross Platform Desktop Application with Electron (13 minutes)
