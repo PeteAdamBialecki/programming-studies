@@ -202,3 +202,5 @@
 ~~Debugging Node Applications with Google Chrome (13 minutes)~~
 
 ~~Deploy your App to GitHub Pages with Gulp (9 minutes)~~
+
+~~Programming Step-By-Step: Object-Oriented JavaScript (Part 1) (41 minutes)~~
