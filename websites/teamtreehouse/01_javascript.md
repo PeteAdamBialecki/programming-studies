@@ -2,10 +2,6 @@
 
 ## **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-    Programming Step-By-Step: Object-Oriented JavaScript (Part 1) (41 minutes)
-
-        - Continue at 26:30.
-
     Programming Step-by-Step: Object-Oriented JavaScript (Part 2) (30 minutes)
 
 - Setting Up Travis CI with Node.js (13 minutes)
@@ -49,8 +45,6 @@
 - Object-Oriented JavaScript by Example (120 minutes)
 
 - Building a MEAN Application (140 minutes)
-
--------------
 
 # **Extra Specific Courses / Tracks**
 
@@ -119,8 +113,6 @@
 - Using the Angular CLI (37 minutes)
 
 - AngularJS Basics (1.x) (197 minutes)
-
--------------
 
 # **Upcoming Releases**
 
