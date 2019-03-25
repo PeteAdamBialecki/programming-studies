@@ -1,8 +1,6 @@
 # **Team Treehouse JavaScript Courses**
 
-## **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
-
-    Programming Step-by-Step: Object-Oriented JavaScript (Part 2) (30 minutes)
+#### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
 - Setting Up Travis CI with Node.js (13 minutes)
 
@@ -10,7 +8,11 @@
 
 - JavaScript and the Internet of Things (13 minutes)
 
+- Practice Getters and Setters in JavaScript (14 minutes)
+
 - The JavaScript 'use-sctrict' Statement (18 minutes)
+
+- Practice Classes in JavaScript (19 minutes)
 
 - Introduction to Babel (19 minutes)
 
@@ -46,9 +48,17 @@
 
 - Building a MEAN Application (140 minutes)
 
-# **Extra Specific Courses / Tracks**
+# **Vue.js**
 
-## **[React.js (9 Hours)](https://teamtreehouse.com/tracks/learn-react)**
+- [Vue.js Basics (120 minutes)](https://teamtreehouse.com/library/vuejs-basics)
+
+- [Practice Vue.js Templating](https://teamtreehouse.com/library/practice-vuejs-templating)
+
+- [Practice Vue.js List Rendering](https://teamtreehouse.com/library/practice-vuejs-list-rendering)
+
+# **React.js**
+
+#### **[React.js (9 Hours)](https://teamtreehouse.com/tracks/learn-react)**
 
 - [Learn React Panel (45 minutes) (A introduction to React.js, best practices, and advice.)](https://teamtreehouse.com/library/learn-react-panel)
 
@@ -68,7 +78,7 @@
 
 - What’s New in React 16 (26 minutes)
 
-## **Extra React.js Courses**
+#### **Extra React.js Courses**
 
 - Animations in React (16 minutes)
 
@@ -84,19 +94,17 @@
 
 - Data Fetching in React (29 minutes)
 
+- React Context API (35 minutes)
+
 - Learn React Panel (45 minutes)
 
 - Introduction to React Native (79 minutes)
 
-## **Vue.js**
+- React Components (120 minutes)
 
-- [Vue.js Basics (120 minutes)](https://teamtreehouse.com/library/vuejs-basics)
+# **Angular.js**
 
-- [Practice Vue.js Templating](https://teamtreehouse.com/library/practice-vuejs-templating)
-
-- [Practice Vue.js List Rendering](https://teamtreehouse.com/library/practice-vuejs-list-rendering)
-
-## **[Angular.js (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)**
+#### **[Angular.js (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)**
 
 - Setting Up an Angular Application
 
@@ -108,26 +116,14 @@
 
 - Angular Form Validation
 
-## **Extra Angular.js Courses**
+#### **Extra Angular.js Courses**
 
 - Using the Angular CLI (37 minutes)
 
 - AngularJS Basics (1.x) (197 minutes)
 
-# **Upcoming Releases**
+# **Extra**
 
-- React Basics (Refresh)
+- Build a REST API with Express (221 minutes)
 
-- React Components
-
-- Practice Classes in JavaScript
-
-- Practice Getters and Setters in JavaScript
-
-- Build a REST API with Express (Refresh)
-
-- Using SQL Databases with Node.js
-
-- React Context API
-
-- Organizing JavaScript with Modules
+- Using SQL and Node.js with Sequelize (44 minutes)

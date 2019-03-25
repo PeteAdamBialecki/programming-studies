@@ -204,3 +204,5 @@
 ~~Deploy your App to GitHub Pages with Gulp (9 minutes)~~
 
 ~~Programming Step-By-Step: Object-Oriented JavaScript (Part 1) (41 minutes)~~
+
+~~Programming Step-by-Step: Object-Oriented JavaScript (Part 2) (30 minutes)~~

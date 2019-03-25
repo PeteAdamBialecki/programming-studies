@@ -12,7 +12,7 @@
 
 - Iterators, Generators, and Promises
 
-    - Continue with "Iterators"
+    - Continue with "Iterators: throw and return"
 
 - Arrays and Collections
 
