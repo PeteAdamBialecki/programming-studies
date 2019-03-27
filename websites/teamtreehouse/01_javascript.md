@@ -2,14 +2,6 @@
 
 #### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-- Setting Up Travis CI with Node.js (13 minutes)
-
-- Build A Cross Platform Desktop Application with Electron (13 minutes)
-
-- JavaScript and the Internet of Things (13 minutes)
-
-- Practice Getters and Setters in JavaScript (14 minutes)
-
 - The JavaScript 'use-sctrict' Statement (18 minutes)
 
 - Practice Classes in JavaScript (19 minutes)
@@ -124,6 +116,8 @@
 
 # **Extra**
 
-- Build a REST API with Express (221 minutes)
+- Setting Up Travis CI with Node.js (13 minutes)
 
 - Using SQL and Node.js with Sequelize (44 minutes)
+
+- Build a REST API with Express (221 minutes)
