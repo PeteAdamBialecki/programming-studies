@@ -2,8 +2,6 @@
 
 #### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-- The JavaScript 'use-sctrict' Statement (18 minutes)
-
 - Practice Classes in JavaScript (19 minutes)
 
 - Introduction to Babel (19 minutes)
