@@ -208,3 +208,5 @@
 ~~Programming Step-by-Step: Object-Oriented JavaScript (Part 2) (30 minutes)~~
 
 ~~Practice Getters and Setters in JavaScript (14 minutes)~~
+
+~~The JavaScript 'use-sctrict' Statement (18 minutes)~~
