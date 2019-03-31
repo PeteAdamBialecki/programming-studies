@@ -212,3 +212,5 @@
 ~~The JavaScript 'use-sctrict' Statement (18 minutes)~~
 
 ~~Practice Classes in JavaScript (19 minutes)~~
+
+~~Practice Object Basics in JavaScript (21 minutes)~~
