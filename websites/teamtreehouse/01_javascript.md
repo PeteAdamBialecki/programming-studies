@@ -2,15 +2,11 @@
 
 #### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-- Practice Classes in JavaScript (19 minutes)
-
 - Introduction to Babel (19 minutes)
 
 - Using the Geolocation API in JavaScript (20 minutes)
 
 - Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
-
-- Practice Object Basics in JavaScript (21 minutes)
 
 - Getting Started with webpack-1 (22 minutes)
 
