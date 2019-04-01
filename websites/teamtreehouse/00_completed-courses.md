@@ -214,3 +214,7 @@
 ~~Practice Classes in JavaScript (19 minutes)~~
 
 ~~Practice Object Basics in JavaScript (21 minutes)~~
+
+~~Treehouse Club: JavaScript (54 minutes)~~
+
+~~The Landscape of JavaScript (44 minutes)~~
