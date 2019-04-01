@@ -2,10 +2,6 @@
 
 #### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-- The Landscape of JavaScript (44 minutes)
-
-    - Continue with "JavaScript Tool and Workflows"
-
 - Introduction to Babel (19 minutes)
 
 - Using the Geolocation API in JavaScript (20 minutes)
