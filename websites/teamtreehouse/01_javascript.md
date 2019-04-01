@@ -2,6 +2,8 @@
 
 #### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
+- Practice forEach in JavaScript (30 minutes)
+
 - Introduction to Babel (19 minutes)
 
 - Using the Geolocation API in JavaScript (20 minutes)
@@ -11,8 +13,6 @@
 - Getting Started with webpack-1 (22 minutes)
 
 - The JavaScript Ecosystem (29 minutes)
-
-- Practice forEach in JavaScript (30 minutes)
 
 - Getting Started with TypeScript (43  minutes)
 
