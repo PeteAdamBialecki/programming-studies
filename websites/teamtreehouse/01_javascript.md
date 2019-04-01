@@ -2,6 +2,10 @@
 
 #### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
+- The Landscape of JavaScript (44 minutes)
+
+    - Continue with "JavaScript Tool and Workflows"
+
 - Introduction to Babel (19 minutes)
 
 - Using the Geolocation API in JavaScript (20 minutes)
@@ -16,13 +20,9 @@
 
 - Getting Started with TypeScript (43  minutes)
 
-- The Landscape of JavaScript (44 minutes)
-
 - OAuth Authentication With Passport (44 minutes)
 
 - Working with the Fetch API (44 minutes)
-
-- Treehouse Club: JavaScript (54 minutes)
 
 - Regular Expressions in JavaScript (87 minutes)
 
