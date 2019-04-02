@@ -4,6 +4,10 @@
 
 - Practice forEach in JavaScript (30 minutes)
 
+    - Continue with challenge #5.
+
+- Setting Up Travis CI with Node.js (13 minutes)
+
 - Introduction to Babel (19 minutes)
 
 - Using the Geolocation API in JavaScript (20 minutes)
@@ -16,6 +20,8 @@
 
 - OAuth Authentication With Passport (44 minutes)
 
+- Using SQL and Node.js with Sequelize (44 minutes)
+
 - Working with the Fetch API (44 minutes)
 
 - Regular Expressions in JavaScript (87 minutes)
@@ -27,6 +33,8 @@
 - Object-Oriented JavaScript by Example (120 minutes)
 
 - Building a MEAN Application (140 minutes)
+
+- Build a REST API with Express (221 minutes)
 
 # **Vue.js**
 
@@ -101,11 +109,3 @@
 - Using the Angular CLI (37 minutes)
 
 - AngularJS Basics (1.x) (197 minutes)
-
-# **Extra**
-
-- Setting Up Travis CI with Node.js (13 minutes)
-
-- Using SQL and Node.js with Sequelize (44 minutes)
-
-- Build a REST API with Express (221 minutes)
