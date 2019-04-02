@@ -12,8 +12,6 @@
 
 - Getting Started with webpack-1 (22 minutes)
 
-- The JavaScript Ecosystem (29 minutes)
-
 - Getting Started with TypeScript (43  minutes)
 
 - OAuth Authentication With Passport (44 minutes)
