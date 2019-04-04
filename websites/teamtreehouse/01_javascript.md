@@ -2,17 +2,13 @@
 
 #### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-- Setting Up Travis CI with Node.js (13 minutes)
-
-- Introduction to Babel (19 minutes)
-
 - Using the Geolocation API in JavaScript (20 minutes)
 
 - Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
 
 - Getting Started with webpack-1 (22 minutes)
 
-- Getting Started with TypeScript (43  minutes)
+- Getting Started with TypeScript (43  minutes) 
 
 - OAuth Authentication With Passport (44 minutes)
 

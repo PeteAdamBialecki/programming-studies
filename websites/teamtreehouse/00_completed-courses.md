@@ -222,3 +222,7 @@
 ~~The JavaScript Ecosystem (29 minutes)~~
 
 ~~Practice forEach in JavaScript (30 minutes)~~
+
+~~Setting Up Travis CI with Node.js (13 minutes)~~
+
+~~Introduction to Babel (19 minutes)~~
