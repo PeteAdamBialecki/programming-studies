@@ -220,3 +220,5 @@
 ~~The Landscape of JavaScript (44 minutes)~~
 
 ~~The JavaScript Ecosystem (29 minutes)~~
+
+~~Practice forEach in JavaScript (30 minutes)~~

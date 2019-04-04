@@ -2,10 +2,6 @@
 
 #### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-- Practice forEach in JavaScript (30 minutes)
-
-    - Continue with challenge #5.
-
 - Setting Up Travis CI with Node.js (13 minutes)
 
 - Introduction to Babel (19 minutes)
