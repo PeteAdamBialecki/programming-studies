@@ -2,10 +2,6 @@
 
 #### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
-- Regular Expressions in JavaScript (87 minutes)
-
-    - Restart and take better notes...
-
 - Using the Geolocation API in JavaScript (20 minutes)
 
 - Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
