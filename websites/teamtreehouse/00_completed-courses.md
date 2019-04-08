@@ -226,3 +226,5 @@
 ~~Setting Up Travis CI with Node.js (13 minutes)~~
 
 ~~Introduction to Babel (19 minutes)~~
+
+~~Regular Expressions in JavaScript (87 minutes)~~
