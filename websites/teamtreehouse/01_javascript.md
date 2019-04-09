@@ -4,7 +4,7 @@
 
 - JavaScript Array Iteration Methods (97 minutes)
 
-        Array Iteration: `for` vs forEach()
+        forEach() `index` and `array` Parameters
 
 - Using the Geolocation API in JavaScript (20 minutes)
 
@@ -20,7 +20,7 @@
 
 - Working with the Fetch API (44 minutes)
 
-- Object-Oriented JavaScript by Example (120 minutes)
+- Object-Oriented JavaScript: Challenge (120 minutes)
 
 - Building a MEAN Application (140 minutes)
 
