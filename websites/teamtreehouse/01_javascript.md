@@ -18,8 +18,6 @@
 
 - JavaScript Array Iteration Methods (97 minutes)
 
-- JavaScript Quickstart (97 minutes)
-
 - Object-Oriented JavaScript by Example (120 minutes)
 
 - Building a MEAN Application (140 minutes)

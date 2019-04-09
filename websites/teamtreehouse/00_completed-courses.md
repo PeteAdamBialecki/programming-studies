@@ -228,3 +228,5 @@
 ~~Introduction to Babel (19 minutes)~~
 
 ~~Regular Expressions in JavaScript (87 minutes)~~
+
+~~JavaScript Quickstart (97 minutes)~~
