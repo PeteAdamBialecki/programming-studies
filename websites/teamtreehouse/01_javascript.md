@@ -2,6 +2,10 @@
 
 #### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
+- JavaScript Array Iteration Methods (97 minutes)
+
+        Array Iteration: `for` vs forEach()
+
 - Using the Geolocation API in JavaScript (20 minutes)
 
 - Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
@@ -15,8 +19,6 @@
 - Using SQL and Node.js with Sequelize (44 minutes)
 
 - Working with the Fetch API (44 minutes)
-
-- JavaScript Array Iteration Methods (97 minutes)
 
 - Object-Oriented JavaScript by Example (120 minutes)
 
