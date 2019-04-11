@@ -4,7 +4,7 @@
 
 - JavaScript Array Iteration Methods (97 minutes)
 
-        forEach() `index` and `array` Parameters
+        Transform Array Items with map()
 
 - Using the Geolocation API in JavaScript (20 minutes)
 
@@ -12,7 +12,7 @@
 
 - Getting Started with webpack-1 (22 minutes)
 
-- Getting Started with TypeScript (43  minutes) 
+- Getting Started with TypeScript (43  minutes)
 
 - OAuth Authentication With Passport (44 minutes)
 
