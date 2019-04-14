@@ -4,7 +4,7 @@
 
 - JavaScript Array Iteration Methods (97 minutes)
 
-        Transform Array Items with map()
+        Combining Array Methods
 
 - Using the Geolocation API in JavaScript (20 minutes)
 
