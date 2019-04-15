@@ -4,7 +4,7 @@
 
 - JavaScript Array Iteration Methods (97 minutes)
 
-        Combining Array Methods
+        Combining filter() and reduce()
 
 - Using the Geolocation API in JavaScript (20 minutes)
 
