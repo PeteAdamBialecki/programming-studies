@@ -230,3 +230,5 @@
 ~~Regular Expressions in JavaScript (87 minutes)~~
 
 ~~JavaScript Quickstart (97 minutes)~~
+
+~~JavaScript Array Iteration Methods (97 minutes)~~
