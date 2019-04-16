@@ -2,6 +2,8 @@
 
 #### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
 
+- Object-Oriented JavaScript: Challenge (120 minutes)
+
 - Using the Geolocation API in JavaScript (20 minutes)
 
 - Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
@@ -15,8 +17,6 @@
 - Using SQL and Node.js with Sequelize (44 minutes)
 
 - Working with the Fetch API (44 minutes)
-
-- Object-Oriented JavaScript: Challenge (120 minutes)
 
 - Building a MEAN Application (140 minutes)
 
