@@ -4,7 +4,7 @@
 
 - Object-Oriented JavaScript: Challenge (120 minutes)
 
-    Board and Space Class Constructor Methods
+    Game Class Constructor Method
 
 - Using the Geolocation API in JavaScript (20 minutes)
 
