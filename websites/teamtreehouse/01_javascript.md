@@ -4,6 +4,8 @@
 
 - Object-Oriented JavaScript: Challenge (120 minutes)
 
+    Board and Space Class Constructor Methods
+
 - Using the Geolocation API in JavaScript (20 minutes)
 
 - Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
