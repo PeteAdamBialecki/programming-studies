@@ -4,7 +4,7 @@
 
 - Object-Oriented JavaScript: Challenge (120 minutes)
 
-    Game Class Constructor Method
+    Render the Token
 
 - Using the Geolocation API in JavaScript (20 minutes)
 
