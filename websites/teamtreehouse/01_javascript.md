@@ -4,7 +4,7 @@
 
 - Object-Oriented JavaScript: Challenge (120 minutes)
 
-    Render the Token
+        Build the playToken() Method
 
 - Using the Geolocation API in JavaScript (20 minutes)
 
