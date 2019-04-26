@@ -4,15 +4,13 @@
 
 - Object-Oriented JavaScript: Challenge (120 minutes)
 
-        Build the playToken() Method
+        Adding Game Logic
 
 - Using the Geolocation API in JavaScript (20 minutes)
 
 - Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
 
 - Getting Started with webpack-1 (22 minutes)
-
-- Getting Started with TypeScript (43  minutes)
 
 - OAuth Authentication With Passport (44 minutes)
 
