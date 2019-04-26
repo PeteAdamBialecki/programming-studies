@@ -12,10 +12,6 @@
 
 - Getting Started with webpack-1 (22 minutes)
 
-- OAuth Authentication With Passport (44 minutes)
-
-- Using SQL and Node.js with Sequelize (44 minutes)
-
 - Working with the Fetch API (44 minutes)
 
 - Building a MEAN Application (140 minutes)
