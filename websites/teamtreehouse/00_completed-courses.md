@@ -232,3 +232,5 @@
 ~~JavaScript Quickstart (97 minutes)~~
 
 ~~JavaScript Array Iteration Methods (97 minutes)~~
+
+~~Getting Started with TypeScript (43  minutes)~~
