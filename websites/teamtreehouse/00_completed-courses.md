@@ -234,3 +234,7 @@
 ~~JavaScript Array Iteration Methods (97 minutes)~~
 
 ~~Getting Started with TypeScript (43  minutes)~~
+
+~~OAuth Authentication With Passport (44 minutes)~~
+
+~~Using SQL and Node.js with Sequelize (44 minutes)~~
