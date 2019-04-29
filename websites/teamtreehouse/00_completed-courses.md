@@ -238,3 +238,5 @@
 ~~OAuth Authentication With Passport (44 minutes)~~
 
 ~~Using SQL and Node.js with Sequelize (44 minutes)~~
+
+~~Object-Oriented JavaScript: Challenge (120 minutes)~~
