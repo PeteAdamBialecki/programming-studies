@@ -10,6 +10,8 @@
 
     - Finding the Data You Want
 
+        "Filtering on More than One Condition"
+
 - Modifying Data with SQL (80 minutes)
 
     - Adding Data to a Database
