@@ -6,7 +6,7 @@
 
     ~~Data, Databases and SQL~~
 
-    - Getting Data from a Database
+    ~~Getting Data from a Database~~
 
     - Finding the Data You Want
 
