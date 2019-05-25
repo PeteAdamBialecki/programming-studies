@@ -2,15 +2,7 @@
 
 ## **[Beginning SQL (10 Hours)](https://teamtreehouse.com/tracks/beginning-sql)**
 
-- SQL Basics (2 hours)
-
-    ~~Data, Databases and SQL~~
-
-    ~~Getting Data from a Database~~
-
-    - Finding the Data You Want
-
-        "Filtering on More than One Condition"
+~~SQL Basics (2 hours)~~
 
 - Modifying Data with SQL (80 minutes)
 
