@@ -6,7 +6,7 @@
 
 - Modifying Data with SQL (80 minutes)
 
-    - Adding Data to a Database
+    ~~Adding Data to a Database~~
 
     - Updating Data in a Database
 
