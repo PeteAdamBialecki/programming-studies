@@ -8,7 +8,7 @@
 
     ~~Adding Data to a Database~~
 
-    - Updating Data in a Database
+    ~~Updating Data in a Database~~
 
     - Deleting Data From A Database
 
