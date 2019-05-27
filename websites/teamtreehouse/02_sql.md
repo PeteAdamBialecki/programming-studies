@@ -4,15 +4,7 @@
 
 ~~SQL Basics (2 hours)~~
 
-- Modifying Data with SQL (80 minutes)
-
-    ~~Adding Data to a Database~~
-
-    ~~Updating Data in a Database~~
-
-    - Deleting Data From A Database
-
-    - Handling Errors When Manipulating Data
+~~Modifying Data with SQL (80 minutes)~~
 
 - Reporting with SQL (2 hours)
 
