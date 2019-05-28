@@ -58,6 +58,18 @@
 
 - Advanced Node.js
 
+## **[Vue.js (13 hours)](https://app.pluralsight.com/paths/skill/vue)**
+
+- Vue.js: Big Picture
+
+- Vue.js: Getting Started
+
+- Developing Faster with the Vue CLI
+
+- Vue.js Fundamentals
+
+- Single Page Applications with Vue.js
+
 ## **[React.js: Getting Started (2 hours)](https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents)**
 
 - Course Overview
@@ -95,18 +107,6 @@
 - Testing React Applications with Jest
 
 - Building a Full-Stack App with React and Express
-
-## **[Vue.js (13 hours)](https://app.pluralsight.com/paths/skill/vue)**
-
-- Vue.js: Big Picture
-
-- Vue.js: Getting Started
-
-- Developing Faster with the Vue CLI
-
-- Vue.js Fundamentals
-
-- Single Page Applications with Vue.js
 
 ## **[Angular.js (48 hours)](https://app.pluralsight.com/paths/skill/angular)**
 

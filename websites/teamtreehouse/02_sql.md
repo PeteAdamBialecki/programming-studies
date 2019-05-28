@@ -8,7 +8,7 @@
 
 - Reporting with SQL (2 hours)
 
-    - Ordering, Limiting and Paging
+    ~~Ordering, Limiting and Paging~~
 
     - Working with Text
 
