@@ -12,6 +12,8 @@
 
     - Working with Text
 
+        "Creating Excerpts From Text"
+
     - Aggregate and Numeric Functions
 
     - Data and Time Functions
