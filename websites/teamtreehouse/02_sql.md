@@ -12,7 +12,7 @@
 
     - Working with Text
 
-        "Creating Excerpts From Text"
+        "Counting Results"
 
     - Aggregate and Numeric Functions
 
