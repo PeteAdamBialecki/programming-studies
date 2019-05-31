@@ -12,7 +12,7 @@
 
     - Working with Text
 
-        "Counting Results"
+        "Differences Between Databases"
 
     - Aggregate and Numeric Functions
 
