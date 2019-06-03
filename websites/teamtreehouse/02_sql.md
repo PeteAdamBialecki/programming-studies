@@ -10,13 +10,11 @@
 
     ~~Ordering, Limiting and Paging~~
 
-    - Working with Text
+    ~~Working with Text~~
 
-        "Differences Between Databases"
+    ~~Aggregate and Numeric Functions~~
 
-    - Aggregate and Numeric Functions
-
-    - Data and Time Functions
+    - Date and Time Functions
 
 - Query Relational Databases (2 hours)
 
