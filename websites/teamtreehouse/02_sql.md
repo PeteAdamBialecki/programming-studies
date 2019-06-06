@@ -18,7 +18,7 @@
 
 - Query Relational Databases (2 hours)
 
-    - Database Normalization
+    ~~Database Normalization~~
 
     - Database Keys
 
