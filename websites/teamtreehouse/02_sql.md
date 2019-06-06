@@ -14,15 +14,13 @@
 
     ~~Aggregate and Numeric Functions~~
 
-    - Date and Time Functions
+    ~~Date and Time Functions~~
 
-        "Calculating Date"
-`
 - Query Relational Databases (2 hours)
 
-    - Database Normalization
+    ~~Database Normalization~~
 
-    - Database Keys
+    ~~Database Keys~~
 
     - Table Relationships
 
