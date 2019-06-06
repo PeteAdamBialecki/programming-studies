@@ -22,7 +22,7 @@
 
     ~~Database Keys~~
 
-    - Table Relationships
+    ~~Table Relationships~~
 
     - Joining Table Data with SQL
 
