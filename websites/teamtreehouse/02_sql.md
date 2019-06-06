@@ -20,7 +20,7 @@
 
     ~~Database Normalization~~
 
-    - Database Keys
+    ~~Database Keys~~
 
     - Table Relationships
 
