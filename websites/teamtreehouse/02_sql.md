@@ -6,15 +6,7 @@
 
 ~~Modifying Data with SQL (80 minutes)~~
 
-- Reporting with SQL (2 hours)
-
-    ~~Ordering, Limiting and Paging~~
-
-    ~~Working with Text~~
-
-    ~~Aggregate and Numeric Functions~~
-
-    ~~Date and Time Functions~~
+~~Reporting with SQL (2 hours)~~
 
 - Query Relational Databases (2 hours)
 
@@ -24,7 +16,7 @@
 
     ~~Table Relationships~~
 
-    - Joining Table Data with SQL
+    ~~Joining Table Data with SQL~~
 
     - Set Operations
 
