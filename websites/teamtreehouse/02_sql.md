@@ -18,7 +18,7 @@
 
     ~~Joining Table Data with SQL~~
 
-    - Set Operations
+    ~~Set Operations~~
 
     - Subqueries
 
