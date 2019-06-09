@@ -8,19 +8,7 @@
 
 ~~Reporting with SQL (2 hours)~~
 
-- Query Relational Databases (2 hours)
-
-    ~~Database Normalization~~
-
-    ~~Database Keys~~
-
-    ~~Table Relationships~~
-
-    ~~Joining Table Data with SQL~~
-
-    ~~Set Operations~~
-
-    - Subqueries
+~~Query Relational Databases (2 hours)~~
 
 - Common Table Expressions Using WITH (18 minutes)
 
