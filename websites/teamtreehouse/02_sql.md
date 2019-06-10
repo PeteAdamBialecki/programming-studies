@@ -12,6 +12,8 @@
 
 - Common Table Expressions Using WITH (18 minutes)
 
+    - Convert a Subquery to a CTE
+
 - SQL Reporting by Example (64 minutes)
 
     - Orientation: Selecting Data
