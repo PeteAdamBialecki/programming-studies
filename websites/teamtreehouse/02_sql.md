@@ -10,13 +10,11 @@
 
 ~~Query Relational Databases (2 hours)~~
 
-- Common Table Expressions Using WITH (18 minutes)
-
-    - Convert a Subquery to a CTE
+~~Common Table Expressions Using WITH (18 minutes)~~
 
 - SQL Reporting by Example (64 minutes)
 
-    - Orientation: Selecting Data
+    ~~Orientation: Selecting Data~~
 
     - Day 1: Joining Tables
 
