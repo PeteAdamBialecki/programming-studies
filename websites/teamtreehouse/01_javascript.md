@@ -28,21 +28,23 @@
 
 - [Learn React Panel (45 minutes) (A introduction to React.js, best practices, and advice.)](https://teamtreehouse.com/library/learn-react-panel)
 
-- React Basics (3 hours)
+- React Basics (2 hours)
+
+- React Components (120 minutes)
 
 - Using Create React App (22 minutes)
 
-- React by Example (113 minutes)
+- React Context API (35 minutes)
 
 - React Router 4 Basics (76 minutes)
 
-- Building Applications with React and Redux (2 hours)
+- What's New in React 16 (26 minutes)
 
 - Data Fetching in React (29 minutes)
 
-- Animations in React (16 minutes)
+- Learn More About React
 
-- What’s New in React 16 (26 minutes)
+- Deploying A React App (20 min)
 
 #### **Extra React.js Courses**
 
@@ -52,21 +54,13 @@
 
 - Testing React Components with Enzyme (25 minutes)
 
-- Testing React Components with Enzyme (25 minutes)
-
-- Data Fetching in React (29 minutes)
-
-- What's New in React 16 (26 minutes)
-
-- Data Fetching in React (29 minutes)
-
-- React Context API (35 minutes)
-
 - Learn React Panel (45 minutes)
 
 - Introduction to React Native (79 minutes)
 
-- React Components (120 minutes)
+- React by Example (113 minutes)
+
+- Building Applications with React and Redux (2 hours)
 
 # **Angular.js**
 

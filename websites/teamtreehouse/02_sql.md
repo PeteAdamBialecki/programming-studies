@@ -16,8 +16,8 @@
 
     ~~Orientation: Selecting Data~~
 
-    - Day 1: Joining Tables
+    ~~Day 1: Joining Tables~~
 
-    - Day 2: Advanced Selecting
+    ~~Day 2: Advanced Selecting~~
 
     - Day 3: Getting Good at Grouping
