@@ -12,12 +12,4 @@
 
 ~~Common Table Expressions Using WITH (18 minutes)~~
 
-- SQL Reporting by Example (64 minutes)
-
-    ~~Orientation: Selecting Data~~
-
-    ~~Day 1: Joining Tables~~
-
-    ~~Day 2: Advanced Selecting~~
-
-    - Day 3: Getting Good at Grouping
+~~SQL Reporting by Example (64 minutes)~~
