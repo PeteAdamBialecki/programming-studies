@@ -1,22 +1,8 @@
 # **Team Treehouse JavaScript Courses**
 
-#### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
-
-- Using the Geolocation API in JavaScript (20 minutes)
-
-- Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
-
-- Getting Started with webpack-1 (22 minutes)
-
-- Working with the Fetch API (44 minutes)
-
-- Building a MEAN Application (140 minutes)
-
-- Build a REST API with Express (221 minutes)
-
-# **Vue.js**
-
 - [Vue.js Basics (120 minutes)](https://teamtreehouse.com/library/vuejs-basics)
+
+        - Continue with 'What a Beautiful Vue: Basic Event Handling'
 
 - [Practice Vue.js Templating](https://teamtreehouse.com/library/practice-vuejs-templating)
 
@@ -81,3 +67,19 @@
 - Using the Angular CLI (37 minutes)
 
 - AngularJS Basics (1.x) (197 minutes)
+
+#### **[Complete Every Additional JavaScript Course on Team Treehouse](https://teamtreehouse.com/library/topic:javascript/sort:difficulty)**
+
+- Using the Geolocation API in JavaScript (20 minutes)
+
+- Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)
+
+- Getting Started with webpack-1 (22 minutes)
+
+- Working with the Fetch API (44 minutes)
+
+- Building a MEAN Application (140 minutes)
+
+- Build a REST API with Express (221 minutes)
+
+# **Vue.js**
