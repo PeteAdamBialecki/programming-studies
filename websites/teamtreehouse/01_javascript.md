@@ -2,7 +2,7 @@
 
 - [Vue.js Basics (120 minutes)](https://teamtreehouse.com/library/vuejs-basics)
 
-        - Continue with 'What a Beautiful Vue: Basic Event Handling'
+        - v-show vs. v-if
 
 - [Practice Vue.js Templating](https://teamtreehouse.com/library/practice-vuejs-templating)
 
