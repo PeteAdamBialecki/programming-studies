@@ -2,7 +2,7 @@
 
 - [Vue.js Basics (120 minutes)](https://teamtreehouse.com/library/vuejs-basics)
 
-        - v-show vs. v-if
+        - Computed Properties
 
 - [Practice Vue.js Templating](https://teamtreehouse.com/library/practice-vuejs-templating)
 
