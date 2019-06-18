@@ -1,8 +1,10 @@
 # **Team Treehouse JavaScript Courses**
 
+# **Vue.js**
+
 - [Vue.js Basics (120 minutes)](https://teamtreehouse.com/library/vuejs-basics)
 
-        - Computed Properties
+        - Getting User Input
 
 - [Practice Vue.js Templating](https://teamtreehouse.com/library/practice-vuejs-templating)
 
@@ -81,5 +83,3 @@
 - Building a MEAN Application (140 minutes)
 
 - Build a REST API with Express (221 minutes)
-
-# **Vue.js**
