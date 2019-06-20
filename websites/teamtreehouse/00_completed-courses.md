@@ -254,3 +254,7 @@
 ~~Common Table Expressions Using WITH (18 minutes)~~
 
 ~~SQL Reporting by Example (64 minutes)~~
+
+## **[Vue.js Basics (120 minutes)](https://teamtreehouse.com/library/vuejs-basics)**
+
+~~Vue.js Basics~~

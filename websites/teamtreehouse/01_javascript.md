@@ -2,10 +2,6 @@
 
 # **Vue.js**
 
-- [Vue.js Basics (120 minutes)](https://teamtreehouse.com/library/vuejs-basics)
-
-        - Getting User Input
-
 - [Practice Vue.js Templating](https://teamtreehouse.com/library/practice-vuejs-templating)
 
 - [Practice Vue.js List Rendering](https://teamtreehouse.com/library/practice-vuejs-list-rendering)
