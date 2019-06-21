@@ -258,3 +258,5 @@
 ## **[Vue.js Basics (120 minutes)](https://teamtreehouse.com/library/vuejs-basics)**
 
 ~~Vue.js Basics~~
+
+~~[Practice Vue.js Templating](https://teamtreehouse.com/library/practice-vuejs-templating)~~
