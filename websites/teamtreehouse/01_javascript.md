@@ -1,9 +1,5 @@
 # **Team Treehouse JavaScript Courses**
 
-# **Vue.js**
-
-- [Practice Vue.js List Rendering](https://teamtreehouse.com/library/practice-vuejs-list-rendering)
-
 # **Complete Every Additional JavaScript Course on Team Treehouse**
 
 - [Using the Geolocation API in JavaScript (20 minutes)](https://teamtreehouse.com/library/using-the-geolocation-api-in-javascript)
