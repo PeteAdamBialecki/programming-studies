@@ -260,3 +260,5 @@
 ~~Vue.js Basics~~
 
 ~~[Practice Vue.js Templating](https://teamtreehouse.com/library/practice-vuejs-templating)~~
+
+~~[Practice Vue.js List Rendering](https://teamtreehouse.com/library/practice-vuejs-list-rendering)~~
