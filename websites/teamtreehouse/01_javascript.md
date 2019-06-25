@@ -1,5 +1,13 @@
 # **Team Treehouse JavaScript Courses**
 
+## **Currently:**
+
+- ["Introduction to REST APIs" (30 minutes)](https://teamtreehouse.com/library/introduction-to-rest-apis)
+
+        Responses
+
+- [Build a REST API with Express (221 minutes)](https://teamtreehouse.com/library/build-a-rest-api-with-express)
+
 # **Complete Every Additional JavaScript Course on Team Treehouse**
 
 - [Using the Geolocation API in JavaScript (20 minutes)](https://teamtreehouse.com/library/using-the-geolocation-api-in-javascript)
@@ -9,8 +17,6 @@
 - [Getting Started with webpack-1 (22 minutes)](https://teamtreehouse.com/library/getting-started-with-webpack-1)
 
 - [Working with the Fetch API (44 minutes)](https://teamtreehouse.com/library/working-with-the-fetch-api)
-
-- ["Introduction to REST APIs" (30 minutes)](https://teamtreehouse.com/library/introduction-to-rest-apis) + [Build a REST API with Express (221 minutes)](https://teamtreehouse.com/library/build-a-rest-api-with-express)
 
 # **React.js**
 
