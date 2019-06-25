@@ -262,3 +262,7 @@
 ~~[Practice Vue.js Templating](https://teamtreehouse.com/library/practice-vuejs-templating)~~
 
 ~~[Practice Vue.js List Rendering](https://teamtreehouse.com/library/practice-vuejs-list-rendering)~~
+
+## **Extra**
+
+~~["Introduction to REST APIs" (30 minutes)](https://teamtreehouse.com/library/introduction-to-rest-apis)~~

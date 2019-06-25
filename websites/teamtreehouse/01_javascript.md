@@ -2,10 +2,6 @@
 
 ## **Currently:**
 
-- ["Introduction to REST APIs" (30 minutes)](https://teamtreehouse.com/library/introduction-to-rest-apis)
-
-        Responses
-
 - [Build a REST API with Express (221 minutes)](https://teamtreehouse.com/library/build-a-rest-api-with-express)
 
 # **Complete Every Additional JavaScript Course on Team Treehouse**
