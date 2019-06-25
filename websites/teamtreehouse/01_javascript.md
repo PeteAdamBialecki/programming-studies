@@ -4,6 +4,8 @@
 
 - [Build a REST API with Express (221 minutes)](https://teamtreehouse.com/library/build-a-rest-api-with-express)
 
+        Using Middleware in Express
+
 # **Complete Every Additional JavaScript Course on Team Treehouse**
 
 - [Using the Geolocation API in JavaScript (20 minutes)](https://teamtreehouse.com/library/using-the-geolocation-api-in-javascript)
