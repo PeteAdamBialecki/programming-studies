@@ -4,7 +4,7 @@
 
 - [Build a REST API with Express (221 minutes)](https://teamtreehouse.com/library/build-a-rest-api-with-express)
 
-        Data Modeling: How Should We Describe Our Data?
+        Connecting Mongoose to MondoDB (@ 11:30)
 
 # **Complete Every Additional JavaScript Course on Team Treehouse**
 
