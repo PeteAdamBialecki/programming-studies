@@ -4,7 +4,7 @@
 
 - [Build a REST API with Express (221 minutes)](https://teamtreehouse.com/library/build-a-rest-api-with-express)
 
-        Associating Data in MongoDB
+        Connecting the API and Database
 
 # **Complete Every Additional JavaScript Course on Team Treehouse**
 
