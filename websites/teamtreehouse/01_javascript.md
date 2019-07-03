@@ -1,21 +1,5 @@
 # **Team Treehouse JavaScript Courses**
 
-## **Currently:**
-
-- [Build a REST API with Express (221 minutes)](https://teamtreehouse.com/library/build-a-rest-api-with-express)
-
-        Connecting the API and Database
-
-# **Complete Every Additional JavaScript Course on Team Treehouse**
-
-- [Using the Geolocation API in JavaScript (20 minutes)](https://teamtreehouse.com/library/using-the-geolocation-api-in-javascript)
-
-- [Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)](https://teamtreehouse.com/library/using-gulps-gulpuseref-for-a-full-build-pipeline)
-
-- [Getting Started with webpack-1 (22 minutes)](https://teamtreehouse.com/library/getting-started-with-webpack-1)
-
-- [Working with the Fetch API (44 minutes)](https://teamtreehouse.com/library/working-with-the-fetch-api)
-
 # **React.js**
 
 #### **[React.js (9 Hours)](https://teamtreehouse.com/tracks/learn-react)**
@@ -77,3 +61,13 @@
 - Building a MEAN Application (140 minutes)
 
 - AngularJS Basics (1.x) (197 minutes)
+
+# **Additional JavaScript Course on Team Treehouse**
+
+- [Using the Geolocation API in JavaScript (20 minutes)](https://teamtreehouse.com/library/using-the-geolocation-api-in-javascript)
+
+- [Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)](https://teamtreehouse.com/library/using-gulps-gulpuseref-for-a-full-build-pipeline)
+
+- [Getting Started with webpack-1 (22 minutes)](https://teamtreehouse.com/library/getting-started-with-webpack-1)
+
+- [Working with the Fetch API (44 minutes)](https://teamtreehouse.com/library/working-with-the-fetch-api)
