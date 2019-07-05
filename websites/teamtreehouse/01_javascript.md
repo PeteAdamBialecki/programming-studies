@@ -8,6 +8,8 @@
 
 - React Basics (2 hours)
 
+        Create a React Component
+
 - React Components (120 minutes)
 
 - Using Create React App (22 minutes)
