@@ -4,8 +4,6 @@
 
 #### **[React.js (9 Hours)](https://teamtreehouse.com/tracks/learn-react)**
 
-- [Learn React Panel (45 minutes) (A introduction to React.js, best practices, and advice.)](https://teamtreehouse.com/library/learn-react-panel)
-
 - React Basics (2 hours)
 
         Create a React Component
@@ -28,19 +26,13 @@
 
 #### **Extra React.js Courses**
 
-- Animations in React (16 minutes)
+- [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
 
-- Using Create React Native App (17 minutes)
+- [Learn React Panel (45 minutes) (A introduction to React.js, best practices, and advice.)](https://teamtreehouse.com/library/learn-react-panel)
 
-- Testing React Components with Enzyme (25 minutes)
+- [React by Example (113 minutes)](https://teamtreehouse.com/library/react-by-example)
 
-- Learn React Panel (45 minutes)
-
-- Introduction to React Native (79 minutes)
-
-- React by Example (113 minutes)
-
-- Building Applications with React and Redux (2 hours)
+- [Building Applications with React and Redux (2 hours)](https://teamtreehouse.com/library/building-applications-with-react-and-redux)
 
 # **Angular.js**
 
