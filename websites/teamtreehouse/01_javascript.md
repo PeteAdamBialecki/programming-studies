@@ -6,7 +6,7 @@
 
 - React Basics (2 hours)
 
-        Setting and Using Props
+        Understanding State: What is State?
 
 - React Components (120 minutes)
 
