@@ -4,9 +4,7 @@
 
 #### **[React.js (9 Hours)](https://teamtreehouse.com/tracks/learn-react)**
 
-- React Basics (2 hours)
-
-        Understanding State: What is State?
+~~React Basics (2 hours)~~
 
 - React Components (120 minutes)
 
