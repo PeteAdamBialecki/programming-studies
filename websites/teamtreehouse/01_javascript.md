@@ -6,7 +6,7 @@
 
 - React Basics (2 hours)
 
-        Create a React Component
+        Understanding State: What is State?
 
 - React Components (120 minutes)
 
