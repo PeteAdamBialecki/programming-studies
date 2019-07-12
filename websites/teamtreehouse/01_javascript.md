@@ -8,6 +8,8 @@
 
 - React Components (120 minutes)
 
+        Unidirectional Data Flow
+
 - Using Create React App (22 minutes)
 
 - React Context API (35 minutes)
