@@ -8,7 +8,7 @@
 
 - React Components (120 minutes)
 
-        Unidirectional Data Flow
+        Desiging The Stopwatch
 
 - Using Create React App (22 minutes)
 
