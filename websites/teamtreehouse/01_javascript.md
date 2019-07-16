@@ -8,7 +8,7 @@
 
 - React Components (120 minutes)
 
-        Desiging The Stopwatch
+        React Component Patterns: The React Challenge (and converting more propTypes)
 
 - Using Create React App (22 minutes)
 
