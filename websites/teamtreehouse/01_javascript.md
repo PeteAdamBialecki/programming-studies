@@ -6,9 +6,7 @@
 
 ~~React Basics (2 hours)~~
 
-- React Components (120 minutes)
-
-        React Component Patterns: The React Challenge (and converting more propTypes)
+~~React Components (120 minutes)~~
 
 - Using Create React App (22 minutes)
 
