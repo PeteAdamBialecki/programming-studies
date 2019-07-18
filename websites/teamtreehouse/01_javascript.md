@@ -8,9 +8,11 @@
 
 ~~React Components (120 minutes)~~
 
-- Using Create React App (22 minutes)
+~~Using Create React App (22 minutes)~~
 
 - React Context API (35 minutes)
+
+        
 
 - React Router 4 Basics (76 minutes)
 
@@ -29,6 +31,8 @@
 - [Learn React Panel (45 minutes) (A introduction to React.js, best practices, and advice.)](https://teamtreehouse.com/library/learn-react-panel)
 
 - [React by Example (113 minutes)](https://teamtreehouse.com/library/react-by-example)
+
+        Setting Up The Project: 3:00
 
 - [Building Applications with React and Redux (2 hours)](https://teamtreehouse.com/library/building-applications-with-react-and-redux)
 
