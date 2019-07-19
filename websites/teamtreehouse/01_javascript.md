@@ -12,7 +12,7 @@
 
 - React Context API (35 minutes)
 
-        
+        What is the Context API
 
 - React Router 4 Basics (76 minutes)
 
@@ -32,7 +32,7 @@
 
 - [React by Example (113 minutes)](https://teamtreehouse.com/library/react-by-example)
 
-        Setting Up The Project: 3:00
+        Building the GuestList Component
 
 - [Building Applications with React and Redux (2 hours)](https://teamtreehouse.com/library/building-applications-with-react-and-redux)
 
