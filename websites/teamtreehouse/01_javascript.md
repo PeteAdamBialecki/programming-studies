@@ -2,6 +2,18 @@
 
 # **React.js**
 
+#### **Extra React.js Courses**
+
+- [React by Example (113 minutes)](https://teamtreehouse.com/library/react-by-example)
+
+        Building the GuestList Component
+
+- [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
+
+- [Learn React Panel (45 minutes) (A introduction to React.js, best practices, and advice.)](https://teamtreehouse.com/library/learn-react-panel)
+
+- [Building Applications with React and Redux (2 hours)](https://teamtreehouse.com/library/building-applications-with-react-and-redux)
+
 #### **[React.js (9 Hours)](https://teamtreehouse.com/tracks/learn-react)**
 
 ~~React Basics (2 hours)~~
@@ -23,18 +35,6 @@
 - Learn More About React
 
 - Deploying A React App (20 min)
-
-#### **Extra React.js Courses**
-
-- [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
-
-- [Learn React Panel (45 minutes) (A introduction to React.js, best practices, and advice.)](https://teamtreehouse.com/library/learn-react-panel)
-
-- [React by Example (113 minutes)](https://teamtreehouse.com/library/react-by-example)
-
-        Building the GuestList Component
-
-- [Building Applications with React and Redux (2 hours)](https://teamtreehouse.com/library/building-applications-with-react-and-redux)
 
 # **Angular.js**
 
