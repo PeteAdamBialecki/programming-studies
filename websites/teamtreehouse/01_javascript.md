@@ -6,7 +6,7 @@
 
 - [React by Example (113 minutes)](https://teamtreehouse.com/library/react-by-example)
 
-        Building the GuestList Component
+        Changing Guest Name In State
 
 - [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
 
