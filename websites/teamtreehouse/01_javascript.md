@@ -6,7 +6,7 @@
 
 - [React by Example (113 minutes)](https://teamtreehouse.com/library/react-by-example)
 
-        Refining The App
+        Continue by fixing the filter guest bug
 
 - [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
 
