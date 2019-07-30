@@ -263,8 +263,13 @@
 
 ~~[Practice Vue.js List Rendering](https://teamtreehouse.com/library/practice-vuejs-list-rendering)~~
 
+## **React.js**
+
+~~[React by Example (113 minutes)](https://teamtreehouse.com/library/react-by-example)~~
+
 ## **Extra**
 
 ~~["Introduction to REST APIs" (30 minutes)](https://teamtreehouse.com/library/introduction-to-rest-apis)~~
 
 ~~[Build a REST API with Express (221 minutes)](https://teamtreehouse.com/library/build-a-rest-api-with-express)~~
+
