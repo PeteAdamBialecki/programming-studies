@@ -12,7 +12,7 @@
 
 - React Context API (35 minutes)
 
-        What is the Context API
+        Continue by refectoring the provider
 
 - React Router 4 Basics (76 minutes)
 
@@ -27,6 +27,8 @@
 #### **Extra React.js Courses**
 
 - [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
+
+        The Provider and Consumer Solution
 
 - [Learn React Panel (45 minutes) (A introduction to React.js, best practices, and advice.)](https://teamtreehouse.com/library/learn-react-panel)
 
