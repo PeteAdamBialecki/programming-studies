@@ -10,9 +10,7 @@
 
 ~~Using Create React App (22 minutes)~~
 
-- React Context API (35 minutes)
-
-        What is the Context API
+~~React Context API (35 minutes)~~
 
 - React Router 4 Basics (76 minutes)
 
