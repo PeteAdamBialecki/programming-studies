@@ -10,13 +10,7 @@
 
 ~~Using Create React App (22 minutes)~~
 
-<<<<<<< HEAD
 ~~React Context API (35 minutes)~~
-=======
-- React Context API (35 minutes)
-
-        Continue by refectoring the provider
->>>>>>> ba2d383a3ca056d3421c6d430aa35a735d67bbf4
 
 - React Router 4 Basics (76 minutes)
 
