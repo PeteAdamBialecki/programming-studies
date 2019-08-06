@@ -14,6 +14,8 @@
 
 - React Router 4 Basics (76 minutes)
 
+        Inline Rendering with <Route>
+
 - What's New in React 16 (26 minutes)
 
 - Data Fetching in React (29 minutes)
