@@ -12,9 +12,7 @@
 
 ~~React Context API (35 minutes)~~
 
-- React Router 4 Basics (76 minutes)
-
-        Displaying 404 Error Routes using Switch
+~~React Router 4 Basics (76 minutes)~~
 
 - What's New in React 16 (26 minutes)
 
