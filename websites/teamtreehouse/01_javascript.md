@@ -26,8 +26,6 @@
 
 - [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
 
-        The Provider and Consumer Solution
-
 - [Learn React Panel (45 minutes) (A introduction to React.js, best practices, and advice.)](https://teamtreehouse.com/library/learn-react-panel)
 
 - [Building Applications with React and Redux (2 hours)](https://teamtreehouse.com/library/building-applications-with-react-and-redux)
