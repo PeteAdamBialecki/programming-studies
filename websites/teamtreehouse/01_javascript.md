@@ -18,6 +18,8 @@
 
 - Data Fetching in React (29 minutes)
 
+        Fetching Data with Axios
+
 - Learn More About React
 
 - Deploying A React App (20 min)
