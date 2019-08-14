@@ -18,15 +18,15 @@
 
 ~~Data Fetching in React (29 minutes)~~
 
-- Learn More About React
-
 - Deploying A React App (20 min)
-
-#### **Extra React.js Courses**
 
 - [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
 
 - [Learn React Panel (45 minutes) (A introduction to React.js, best practices, and advice.)](https://teamtreehouse.com/library/learn-react-panel)
+
+- [React Authentication (82 minutes)](https://teamtreehouse.com/library/react-authentication)
+
+~~React by Example (113 minutes)~~
 
 - [Building Applications with React and Redux (2 hours)](https://teamtreehouse.com/library/building-applications-with-react-and-redux)
 
