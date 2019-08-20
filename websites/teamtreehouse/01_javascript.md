@@ -18,7 +18,7 @@
 
 ~~Data Fetching in React (29 minutes)~~
 
-- Deploying A React App (20 min)
+~~Deploying A React App (20 min)~~
 
 - [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
 
