@@ -20,15 +20,15 @@
 
 ~~Deploying A React App (20 min)~~
 
-- [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
-
-- [Learn React Panel (45 minutes) (A introduction to React.js, best practices, and advice.)](https://teamtreehouse.com/library/learn-react-panel)
+~~React by Example (113 minutes)~~
 
 - [React Authentication (82 minutes)](https://teamtreehouse.com/library/react-authentication)
 
-~~React by Example (113 minutes)~~
+        Set up User Registration
 
 - [Building Applications with React and Redux (2 hours)](https://teamtreehouse.com/library/building-applications-with-react-and-redux)
+
+- [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
 
 # **Angular.js**
 
