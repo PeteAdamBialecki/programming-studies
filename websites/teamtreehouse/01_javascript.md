@@ -24,7 +24,7 @@
 
 - [React Authentication (82 minutes)](https://teamtreehouse.com/library/react-authentication)
 
-        Implement Sign In
+        Protect Routes that Require Authentication
 
 - [Building Applications with React and Redux (2 hours)](https://teamtreehouse.com/library/building-applications-with-react-and-redux)
 
