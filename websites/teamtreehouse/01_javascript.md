@@ -2,7 +2,7 @@
 
 # **React.js**
 
-#### **[React.js (9 Hours)](https://teamtreehouse.com/tracks/learn-react)**
+~~React.js (9 Hours)~~
 
 ~~React Basics (2 hours)~~
 
@@ -22,9 +22,11 @@
 
 ~~React by Example (113 minutes)~~
 
-~~[React Authentication (82 minutes)](https://teamtreehouse.com/library/react-authentication)~~
+~~React Authentication (82 minutes)~~
 
 - [Building Applications with React and Redux (2 hours)](https://teamtreehouse.com/library/building-applications-with-react-and-redux)
+
+        Building the Stopwatch Logical Component
 
 - [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
 
