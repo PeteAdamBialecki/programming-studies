@@ -22,9 +22,7 @@
 
 ~~React by Example (113 minutes)~~
 
-- [React Authentication (82 minutes)](https://teamtreehouse.com/library/react-authentication)
-
-        Protect Routes that Require Authentication
+~~[React Authentication (82 minutes)](https://teamtreehouse.com/library/react-authentication)~~
 
 - [Building Applications with React and Redux (2 hours)](https://teamtreehouse.com/library/building-applications-with-react-and-redux)
 
