@@ -1,58 +1,5 @@
 # Completed Teamtreehouse Courses
 
-## **[Full Stack JavaScript (50 Hours)](https://teamtreehouse.com/tracks/full-stack-javascript)**
-
-~~Introducing Javascript~~
-
-~~Javascript Basics~~
-
-~~Javascript Loops, Arrays, and Objects~~
-
-~~Defining Variables with let and const~~
-
-~~Introducing Arrow Function Syntax~~
-
-~~Javascript and the DOM (Solution: Using nextElementSibling)~~
-
-~~jQuery Basics~~
-
-~~AJAX Basics~~
-
-~~Understanding “this” in Javascript~~
-
-~~Object-Oriented Javascript (2015)~~
-
-~~Object-Oriented Javascript (2018)~~
-
-~~The Module Pattern in Javascript~~
-
-~~Introducing ES2015~~
-
-~~Node.js Basics~~
-
-~~Exploring Javascript Conditionals~~
-
-~~Build a Simple Dynamic Site with Node.js~~
-
-~~npm Basics~~
-
-~~Using Npm as a Task Runner~~ 
-
-~~Gulp Basics (2 hours)~~
-
-~~Express Basics (4 hours)~~
-
-~~Mongo Basics (87 minutes)~~
-
-~~Understanding Closures in Javascript~~
-
-~~User Authentication with Express and Mongo (2 hours)~~
-
-~~Build a REST API with Express (3 hours)~~
-
-~~Javascript Unit Testing (3 hours)~~
-
-
 ## **[Front-End Web Development (59 Hours)](https://teamtreehouse.com/tracks/front-end-web-development)**
 
 ~~Introduction to HTML and CSS~~
@@ -255,21 +202,23 @@
 
 ~~SQL Reporting by Example (64 minutes)~~
 
-## **[Vue.js Basics (120 minutes)](https://teamtreehouse.com/library/vuejs-basics)**
+## **Vue.js**
+
+~~[Vue.js Basics (120 minutes)](https://teamtreehouse.com/library/vuejs-basics)~~
 
 ~~Vue.js Basics~~
 
-~~[Practice Vue.js Templating](https://teamtreehouse.com/library/practice-vuejs-templating)~~
+~~Practice Vue.js Templating~~
 
-~~[Practice Vue.js List Rendering](https://teamtreehouse.com/library/practice-vuejs-list-rendering)~~
+~~Practice Vue.js List Rendering~~
 
 ## **React.js**
 
-~~[React by Example (113 minutes)](https://teamtreehouse.com/library/react-by-example)~~
+~~React by Example (113 minutes)~~
 
 ## **Extra**
 
-~~["Introduction to REST APIs" (30 minutes)](https://teamtreehouse.com/library/introduction-to-rest-apis)~~
+~~Introduction to REST APIs (30 minutes)~~
 
-~~[Build a REST API with Express (221 minutes)](https://teamtreehouse.com/library/build-a-rest-api-with-express)~~
+~~Build a REST API with Express (221 minutes)~~
 
