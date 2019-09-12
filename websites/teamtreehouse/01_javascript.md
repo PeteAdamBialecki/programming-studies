@@ -24,9 +24,7 @@
 
 ~~React Authentication (82 minutes)~~
 
-- [Building Applications with React and Redux (2 hours)](https://teamtreehouse.com/library/building-applications-with-react-and-redux)
-
-        Player Detail Component
+~~Building Applications with React and Redux (2 hours)~~
 
 - [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
 
