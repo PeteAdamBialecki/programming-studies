@@ -44,9 +44,11 @@
 
 ~~jQuery Basics~~
 
-- [AJAX Basics (2 hours)](https://teamtreehouse.com/library/ajax-basics-2)
-
 - [Asynchronous Programming with JavaScript (115 minutes)](https://teamtreehouse.com/library/asynchronous-programming-with-javascript)
+
+        Convert Promise Handling to Asynch/Await
+
+- [AJAX Basics (2 hours)](https://teamtreehouse.com/library/ajax-basics-2)
 
 - [Working with the Fetch API (44 minutes)](https://teamtreehouse.com/library/working-with-the-fetch-api)
 
