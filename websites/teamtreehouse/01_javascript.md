@@ -44,9 +44,7 @@
 
 ~~jQuery Basics~~
 
-- [Asynchronous Programming with JavaScript (115 minutes)](https://teamtreehouse.com/library/asynchronous-programming-with-javascript)
-
-        Convert Promise Handling to Asynch/Await
+~~Asynchronous Programming with JavaScript (115 minutes)~~
 
 - [AJAX Basics (2 hours)](https://teamtreehouse.com/library/ajax-basics-2)
 
