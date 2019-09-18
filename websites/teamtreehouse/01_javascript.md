@@ -1,33 +1,5 @@
 # **Team Treehouse JavaScript Courses**
 
-# **React.js**
-
-~~React.js (9 Hours)~~
-
-~~React Basics (2 hours)~~
-
-~~React Components (120 minutes)~~
-
-~~Using Create React App (22 minutes)~~
-
-~~React Context API (35 minutes)~~
-
-~~React Router 4 Basics (76 minutes)~~
-
-~~What's New in React 16 (26 minutes)~~
-
-~~Data Fetching in React (29 minutes)~~
-
-~~Deploying A React App (20 min)~~
-
-~~React by Example (113 minutes)~~
-
-~~React Authentication (82 minutes)~~
-
-~~Building Applications with React and Redux (2 hours)~~
-
-- [Using Create React Native App (17 minutes)](https://teamtreehouse.com/library/using-create-react-native-app)
-
 # **[Full Stack JavaScript (50 Hours)](https://teamtreehouse.com/tracks/full-stack-javascript)**
 
 ~~Introducing Javascript~~
