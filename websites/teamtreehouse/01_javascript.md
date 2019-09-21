@@ -18,7 +18,7 @@
 
 ~~Asynchronous Programming with JavaScript (115 minutes)~~
 
-- [AJAX Basics (2 hours)](https://teamtreehouse.com/library/ajax-basics-2)
+~~AJAX Basics (2 hours)~~
 
 - [Working with the Fetch API (44 minutes)](https://teamtreehouse.com/library/working-with-the-fetch-api)
 
