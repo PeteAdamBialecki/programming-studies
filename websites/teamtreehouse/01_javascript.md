@@ -64,8 +64,6 @@
 
 - [Getting Started with webpack-1 (22 minutes)](https://teamtreehouse.com/library/getting-started-with-webpack-1)
 
-- [Working with the Fetch API (44 minutes)](https://teamtreehouse.com/library/working-with-the-fetch-api)
-
 # **Angular.js**
 
 #### **[Angular.js (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)**
