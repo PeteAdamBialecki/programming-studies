@@ -1,5 +1,27 @@
 # **Team Treehouse JavaScript Courses**
 
+# **Angular.js**
+
+#### **[Angular.js (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)**
+
+~~Setting Up an Angular Application~~
+
+- Angular Components
+
+- Services in Angular
+
+- Angular Basic Forms
+
+- Angular Form Validation
+
+#### **Extra Angular.js Courses**
+
+- Using the Angular CLI (37 minutes)
+
+- Building a MEAN Application (140 minutes)
+
+- AngularJS Basics (1.x) (197 minutes)
+
 # **[Full Stack JavaScript (50 Hours)](https://teamtreehouse.com/tracks/full-stack-javascript)**
 
 ~~Introducing Javascript~~
@@ -63,25 +85,3 @@
 - [Using Gulp's 'gulp-useref' For a Full Build Pipeline (21 minutes)](https://teamtreehouse.com/library/using-gulps-gulpuseref-for-a-full-build-pipeline)
 
 - [Getting Started with webpack-1 (22 minutes)](https://teamtreehouse.com/library/getting-started-with-webpack-1)
-
-# **Angular.js**
-
-#### **[Angular.js (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)**
-
-- Setting Up an Angular Application
-
-- Angular Components
-
-- Services in Angular
-
-- Angular Basic Forms
-
-- Angular Form Validation
-
-#### **Extra Angular.js Courses**
-
-- Using the Angular CLI (37 minutes)
-
-- Building a MEAN Application (140 minutes)
-
-- AngularJS Basics (1.x) (197 minutes)
