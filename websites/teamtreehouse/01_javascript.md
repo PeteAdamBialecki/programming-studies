@@ -8,6 +8,8 @@
 
 - Angular Components
 
+        Nesting Components
+
 - Services in Angular
 
 - Angular Basic Forms
