@@ -8,7 +8,7 @@
 
 - Angular Components
 
-        Nesting Components
+        Locating and Installing Angular Modules
 
 - Services in Angular
 
