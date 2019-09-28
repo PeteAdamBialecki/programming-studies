@@ -2,19 +2,7 @@
 
 # **Angular.js**
 
-#### **[Angular.js (3 Hours)](https://teamtreehouse.com/library/angular-basics-2)**
-
-~~Setting Up an Angular Application~~
-
-- Angular Components
-
-        Locating and Installing Angular Modules
-
-- Services in Angular
-
-- Angular Basic Forms
-
-- Angular Form Validation
+~~Angular.js (3 Hours)~~
 
 #### **Extra Angular.js Courses**
 
