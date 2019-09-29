@@ -2,15 +2,9 @@
 
 # **Angular.js**
 
-~~Angular.js (3 Hours)~~
+- [Using the Angular CLI (37 minutes)](https://teamtreehouse.com/library/using-the-angular-cli)
 
-#### **Extra Angular.js Courses**
-
-- Using the Angular CLI (37 minutes)
-
-- Building a MEAN Application (140 minutes)
-
-- AngularJS Basics (1.x) (197 minutes)
+- [Building a MEAN Application (140 minutes)](https://teamtreehouse.com/library/building-a-mean-application)
 
 # **[Full Stack JavaScript (50 Hours)](https://teamtreehouse.com/tracks/full-stack-javascript)**
 
@@ -19,6 +13,8 @@
 ~~Javascript Basics~~
 
 ~~Javascript Loops, Arrays, and Objects~~
+
+- [The Landscape of JavaScript (44 minutes)](https://teamtreehouse.com/library/the-landscape-of-javascript)
 
 ~~Defining Variables with let and const~~
 
@@ -66,7 +62,19 @@
 
 ~~Build a REST API with Express (3 hours)~~
 
+- [Debug Node Applications with VSC (18 minutes)](https://teamtreehouse.com/library/debug-node-applications-with-visual-studio-code)
+
+- [Asynchronous Code in Express (24 minutes)](https://teamtreehouse.com/library/asynchronous-code-in-express)
+
 ~~Javascript Unit Testing (3 hours)~~
+
+~~SQL Basics~~
+
+~~Modifying Data with SQL~~
+
+- [Using SQL ORMs with Node.js](https://teamtreehouse.com/library/using-sql-orms-with-nodejs)
+
+- [Using Sequelize ORM with Express](https://teamtreehouse.com/library/using-sequelize-orm-with-express)
 
 # **Additional JavaScript Course on Team Treehouse**
 

@@ -240,6 +240,10 @@
 
 ~~Using Create React Native App (17 minutes)~~
 
+# **Angular.js**
+
+~~Angular.js (3 Hours)~~
+
 ## **Extra**
 
 ~~Introduction to REST APIs (30 minutes)~~
