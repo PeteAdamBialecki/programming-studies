@@ -75,7 +75,3 @@
 - [Using SQL ORMs with Node.js (100 minutes)](https://teamtreehouse.com/library/using-sql-orms-with-nodejs)
 
 - [Using Sequelize ORM with Express (39 minutes)](https://teamtreehouse.com/library/using-sequelize-orm-with-express)
-
-# **Additional JavaScript Course on Team Treehouse**
-
-- [Using the Geolocation API in JavaScript (20 minutes)](https://teamtreehouse.com/library/using-the-geolocation-api-in-javascript)

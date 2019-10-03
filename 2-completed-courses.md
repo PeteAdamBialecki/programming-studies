@@ -144,6 +144,8 @@
 
 ~~Practice JavaScript Loops (11 minutes)~~
 
+~~Using the Geolocation API in JavaScript (20 minutes)~~
+
 ~~Debugging JavaScript in the Browser (39 minutes)~~
 
 ~~Debugging Node Applications with Google Chrome (13 minutes)~~
