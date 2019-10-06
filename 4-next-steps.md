@@ -1,4 +1,4 @@
-# **Next Directions for Study**
+# **Additional Directions for Study**
 
 [Beginning Data Science (27 hours)](https://teamtreehouse.com/tracks/beginning-data-science)
 
