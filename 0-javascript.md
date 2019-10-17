@@ -68,6 +68,8 @@
 
 - [Using SQL ORMs with Node.js (100 minutes)](https://teamtreehouse.com/library/using-sql-orms-with-nodejs)
 
+        Use Options to Adjust Models
+
 - [Using Sequelize ORM with Express (39 minutes)](https://teamtreehouse.com/library/using-sequelize-orm-with-express)
 
 ## **Angular.js**
