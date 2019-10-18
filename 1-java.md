@@ -8,7 +8,7 @@
 
 - Java Arrays (93 minutes)
 
-- The Thing About Stings (10 minutes)
+- The Thing About Strings (10 minutes)
 
 - Java Data Structures (5 hours)
 
@@ -24,9 +24,9 @@
 
 - Dependency Management with Gradle (30 minutes)
 
-- Introduction to HTML and CSS (2 hours)
+~~Introduction to HTML and CSS (2 hours)~~
 
-- HTTP Basics (67 minutes)
+~~HTTP Basics (67 minutes)~~
 
 - Java Lambdas (16 minutes)
 
@@ -36,9 +36,9 @@
 
 - Spring Basics (3 hours)
 
-- SQL Basics (2 hours)
+~~SQL Basics (2 hours)~~
 
-- Modifying Data with SQL (80 minutes)
+~~Modifying Data with SQL (80 minutes)~~
 
 - Hibernate Basics (2 hours)
 
@@ -57,7 +57,3 @@
 - Build a REST API in Spark (115 minutes)
 
 - Build a REST API in Spring (119 minutes)
-
-## **Extra**
-
-[Udemy: Java Tutorial for Complete Beginners](https://www.udemy.com/java-tutorial/)
