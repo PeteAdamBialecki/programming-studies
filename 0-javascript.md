@@ -70,6 +70,8 @@
 
 - [Using Sequelize ORM with Express (39 minutes)](https://teamtreehouse.com/library/using-sequelize-orm-with-express)
 
+        Find Entries
+
 ## **Angular.js**
 
 - [Using the Angular CLI (37 minutes)](https://teamtreehouse.com/library/using-the-angular-cli)
