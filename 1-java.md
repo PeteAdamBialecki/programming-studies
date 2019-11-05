@@ -2,7 +2,7 @@
 
 ## **[Learn Java (19 Hours)](https://teamtreehouse.com/tracks/learn-java)**
 
-- Java Basics
+~~Java Basics~~
 
 - Java Objects (4 hours)
 
