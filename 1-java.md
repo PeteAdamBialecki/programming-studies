@@ -6,6 +6,8 @@
 
 - Java Objects (4 hours)
 
+        Harnessing the Power of Objects
+
 - Java Arrays (93 minutes)
 
 - The Thing About Strings (10 minutes)
