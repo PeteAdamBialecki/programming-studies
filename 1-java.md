@@ -6,7 +6,7 @@
 
 - Java Objects (4 hours)
 
-        Harnessing the Power of Objects
+        Abstraction
 
 - Java Arrays (93 minutes)
 
