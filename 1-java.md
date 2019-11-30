@@ -4,9 +4,7 @@
 
 ~~Java Basics~~
 
-- Java Objects (4 hours)
-
-        Abstraction
+~~Java Objects (4 hours)~~
 
 - Java Arrays (93 minutes)
 
