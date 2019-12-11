@@ -10,9 +10,9 @@
 
 - The Thing About Strings (10 minutes)
 
-- Java Data Structures (5 hours)
-
 - Regular Expressions in Java (28 minutes)
+
+- Local Development Environments (2 hours)
 
 - Java Lambdas (16 minutes)
 
