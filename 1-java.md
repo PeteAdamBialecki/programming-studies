@@ -8,7 +8,7 @@
 
 ~~Java Arrays (93 minutes)~~
 
-- The Thing About Strings (10 minutes)
+~~The Thing About Strings (10 minutes)~~
 
 - Regular Expressions in Java (28 minutes)
 
@@ -26,7 +26,7 @@
 
 ~~Java Arrays (93 minutes)~~
 
-- The Thing About Strings (10 minutes)
+~~The Thing About Strings (10 minutes)~~
 
 - Inheritance in Java (42 minutes)
 
