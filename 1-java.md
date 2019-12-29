@@ -14,7 +14,7 @@
 
 - Local Development Environments (2 hours)
 
-- Java Lambdas (16 minutes)
+~~Java Lambdas (16 minutes)~~
 
 - Build a JavaFX Application (3 hours)
 
