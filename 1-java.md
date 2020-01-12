@@ -10,7 +10,7 @@
 
 ~~The Thing About Strings (10 minutes)~~
 
-- Regular Expressions in Java (28 minutes)
+~~Regular Expressions in Java (28 minutes)~~
 
 - Local Development Environments (2 hours)
 
