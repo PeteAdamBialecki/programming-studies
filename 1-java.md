@@ -14,6 +14,8 @@
 
 - Local Development Environments (2 hours)
 
+    Code Challenge
+
 ~~Java Lambdas (16 minutes)~~
 
 - Build a JavaFX Application (3 hours)
