@@ -12,9 +12,7 @@
 
 ~~Regular Expressions in Java (28 minutes)~~
 
-- Local Development Environments (2 hours)
-
-    Code Challenge
+~~Local Development Environments (2 hours)~~
 
 ~~Java Lambdas (16 minutes)~~
 
