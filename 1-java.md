@@ -40,11 +40,11 @@
 
 ## **[Intermediate Java (17 Hours)](https://teamtreehouse.com/tracks/intermediate-java)**
 
-- Regular Expressions in Java (28 minutes)
+~~Regular Expressions in Java (28 minutes)~~
 
-- Local Development Enviorments (2 hours)
+~~Local Development Environments (2 hours)~~
 
-- Java Lambdas (16 minutes)
+~~Java Lambdas (16 minutes)~~
 
 - Unit Testing in Java (2 hours)
 
