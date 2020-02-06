@@ -16,7 +16,7 @@
 
 - Generics in Java (17 minutes)
 
-- Java Lists (14 minutes)
+~~Java Lists (14 minutes)~~
 
 ~~Java Maps (13 minutes)~~
 
@@ -70,7 +70,7 @@
 
 ~~HTTP Basics (67 minutes)~~
 
-- Java Lambdas (16 minutes)
+~~Java Lambdas (16 minutes)~~
 
 - Intro to Java Web Development with Spark (2 hours)
 
