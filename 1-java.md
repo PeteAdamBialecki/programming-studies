@@ -14,7 +14,7 @@
 
 - Interfaces in Java (19 minutes)
 
-- Generics in Java (17 minutes)
+~~Generics in Java (17 minutes)~~
 
 ~~Java Lists (14 minutes)~~
 
