@@ -1,5 +1,25 @@
 # Completed Teamtreehouse Courses
 
+## **[Beginning Java (10 Hours)](https://teamtreehouse.com/tracks/beginning-java)**
+
+~~Java Basics~~
+
+~~Java Objects (4 hours)~~
+
+~~Java Arrays (93 minutes)~~
+
+~~The Thing About Strings (10 minutes)~~
+
+~~Inheritance in Java (42 minutes)~~
+
+~~Interfaces in Java (19 minutes)~~
+
+~~Generics in Java (17 minutes)~~
+
+~~Java Lists (14 minutes)~~
+
+~~Java Maps (13 minutes)~~
+
 ## **[Full Stack JavaScript (50 Hours)](https://teamtreehouse.com/tracks/full-stack-javascript)**
 
 ~~Introducing Javascript~~
