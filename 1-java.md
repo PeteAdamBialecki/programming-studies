@@ -18,6 +18,8 @@
 
 - Build a JavaFX Application (3 hours)
 
+        Design a Better App
+
 ## **[Intermediate Java (17 Hours)](https://teamtreehouse.com/tracks/intermediate-java)**
 
 ~~Regular Expressions in Java (28 minutes)~~
