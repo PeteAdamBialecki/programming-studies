@@ -18,7 +18,7 @@
 
 - Build a JavaFX Application (3 hours)
 
-        Design a Better App
+        Intial Controller Set Up
 
 ## **[Intermediate Java (17 Hours)](https://teamtreehouse.com/tracks/intermediate-java)**
 
@@ -40,7 +40,7 @@
 
 - Debugging an Existing Java Application (79 minutes)
 
-- Build a JavaFX Application (3 hours)
+~~Build a JavaFX Application (3 hours)~~
 
 ## **[Java Web Development (37 Hours)](https://teamtreehouse.com/tracks/java-web-development)**
 
