@@ -18,7 +18,7 @@
 
 - Build a JavaFX Application (3 hours)
 
-        Intial Controller Set Up
+        Intialize Pomodoro Set Up
 
 ## **[Intermediate Java (17 Hours)](https://teamtreehouse.com/tracks/intermediate-java)**
 
