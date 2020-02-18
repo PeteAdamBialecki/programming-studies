@@ -18,7 +18,7 @@
 
 - Build a JavaFX Application (3 hours)
 
-        Intialize Pomodoro Set Up
+        Code challenge, properties, and bindings
 
 ## **[Intermediate Java (17 Hours)](https://teamtreehouse.com/tracks/intermediate-java)**
 
