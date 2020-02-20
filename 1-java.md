@@ -18,7 +18,7 @@
 
 - Build a JavaFX Application (3 hours)
 
-        Code challenge, properties, and bindings
+        Animations
 
 ## **[Intermediate Java (17 Hours)](https://teamtreehouse.com/tracks/intermediate-java)**
 
