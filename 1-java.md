@@ -18,7 +18,7 @@
 
 - Build a JavaFX Application (3 hours)
 
-        Animations
+        Connect Sounds
 
 ## **[Intermediate Java (17 Hours)](https://teamtreehouse.com/tracks/intermediate-java)**
 
