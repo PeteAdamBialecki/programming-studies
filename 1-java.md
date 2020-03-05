@@ -1,25 +1,5 @@
 # **Team Treehouse Java Courses**
 
-## **[Learn Java (19 Hours)](https://teamtreehouse.com/tracks/learn-java)**
-
-~~Java Basics~~
-
-~~Java Objects (4 hours)~~
-
-~~Java Arrays (93 minutes)~~
-
-~~The Thing About Strings (10 minutes)~~
-
-~~Regular Expressions in Java (28 minutes)~~
-
-~~Local Development Environments (2 hours)~~
-
-~~Java Lambdas (16 minutes)~~
-
-- Build a JavaFX Application (3 hours)
-
-        Connect Sounds
-
 ## **[Intermediate Java (17 Hours)](https://teamtreehouse.com/tracks/intermediate-java)**
 
 ~~Regular Expressions in Java (28 minutes)~~
