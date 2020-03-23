@@ -14,6 +14,8 @@
 
 - Introduction to Functional Programming (4 hours)
 
+        Meet Streams: Filtering
+
 - Java Annotations (118 minutes)
 
 - Building with Maven (30 minutes)
