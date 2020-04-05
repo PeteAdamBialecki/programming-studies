@@ -14,7 +14,7 @@
 
 - Introduction to Functional Programming (4 hours)
 
-        Meet Streams: Filtering
+        Reduction and Aggregation
 
 - Java Annotations (118 minutes)
 
